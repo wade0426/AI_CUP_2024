@@ -13,8 +13,8 @@
 - **Finace/text:** 從 212 份較易處理的 PDF 中提取的文字。
 
 ### 表格
-- **Finace/table:** 包含 818 份包含表格的 PDF，這些檔案較難提取，需要基於 AI 的提取技術。
-- **Finace/image:** 包含從包含表格的 PDF 轉換的 4177 張圖片，以便 AI 提取。
+- **Finace/table:** 包含 818 份包含表格的 PDF，這些檔案較難提取，需要使用 AI 技術提取。
+- **Finace/image:** 從包含表格的 PDF 轉換的 4177 張圖片，以便 AI 提取。
 
 ## 提取格式：
 提取共有四種格式。以下以 [6_1.png](https://github.com/wade0426/AI_CUP_2024/blob/main/finance/images/6_1.png) 為例：
