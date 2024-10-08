@@ -36,3 +36,5 @@ finance(裡面存放文字的PDF)/
   
 - **版本 4**：無 CSV 標記（使用換行符），參見範例結果：  
   [6-Q-r2.txt](https://github.com/wade0426/AI_CUP_2024/blob/main/finance/table/demo/6-Q-r2.txt)
+
+※資料可能有miss需要二次檢查
