@@ -1,9 +1,9 @@
 # 10/9 進度報告
 
-finance(裡面存放文字的PDF)/
-├──text(裡面存放文字的PDF提取的TXT檔案)/
-├──table(裡面存放表格的PDF)/
-└──images(裡面存放表格PDF轉換的圖片)/
+finance(裡面存放文字的PDF)/  
+├──text(裡面存放文字的PDF提取的TXT檔案)/  
+├──table(裡面存放表格的PDF)/  
+└──images(裡面存放表格PDF轉換的圖片)/  
 
 ## 數據格式分佈：
 - **檔案總數：** 1034 份 PDF
