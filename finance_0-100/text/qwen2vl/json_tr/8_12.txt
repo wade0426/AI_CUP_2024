@@ -1,0 +1,69 @@
+```json
+{
+  "table": [
+    {
+      "year": "111",
+      "month": "9",
+      "day": "30",
+      "financial_assets": {
+        "nature": "衍生工具",
+        "amount": 308,
+        "financial_liabilities": {
+          "nature": "衍生工具",
+          "amount": 308
+        }
+      },
+      "financial_assets": {
+        "nature": "衍生工具",
+        "amount": 420510,
+        "financial_liabilities": {
+          "nature": "衍生工具",
+          "amount": 420510
+        }
+      }
+    },
+    {
+      "year": "110",
+      "month": "12",
+      "day": "31",
+      "financial_assets": {
+        "nature": "衍生工具",
+        "amount": 23784,
+        "financial_liabilities": {
+          "nature": "衍生工具",
+          "amount": 23784
+        }
+      },
+      "financial_assets": {
+        "nature": "衍生工具",
+        "amount": 3172083,
+        "financial_liabilities": {
+          "nature": "衍生工具",
+          "amount": 3172083
+        }
+      }
+    },
+    {
+      "year": "110",
+      "month": "9",
+      "day": "30",
+      "financial_assets": {
+        "nature": "衍生工具",
+        "amount": 58,
+        "financial_liabilities": {
+          "nature": "衍生工具",
+          "amount": 58
+        }
+      },
+      "financial_assets": {
+        "nature": "衍生工具",
+        "amount": 2362515,
+        "financial_liabilities": {
+          "nature": "衍生工具",
+          "amount": 2362515
+        }
+      }
+    }
+  ]
+}
+```

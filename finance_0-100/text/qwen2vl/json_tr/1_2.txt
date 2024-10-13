@@ -1,0 +1,43 @@
+```json
+{
+  "code": "7900",
+  "tax_before_profit": "$ 8,055,532",
+  "percentage": "27",
+  "code": "7950",
+  "income_tax_expense": "$ 1,785,546",
+  "percentage": "6",
+  "code": "8200",
+  "net_income": "$ 6,269,986",
+  "percentage": "21",
+  "code": "8310",
+  "other_comprehensive_income": {
+    "code": "8316",
+    "unrealized_gain_or_loss_on_fair_value_measurement_of_equity_interests": "$ (8,713)",
+    "percentage": "-",
+    "code": "8320",
+    "income_from_affiliates_and_joint_ventures": "$ (7,584)",
+    "percentage": "-",
+    "code": "8360",
+    "potential_reclassification_to_other_income": {
+      "code": "8361",
+      "foreign_operating_entity_currency_exchange_difference": "$ 5,334,215",
+      "percentage": "18",
+      "code": "8368",
+      "derivative_instruments": "$ 306,511",
+      "percentage": "1",
+      "code": "8370",
+      "income_from_affiliates_and_joint_ventures": "$ 34,754",
+      "percentage": "-",
+      "code": "8399",
+      "income_tax_on_potential_reclassification": "$ (1,079,712)",
+      "percentage": "-4",
+      "code": "8300",
+      "other_comprehensive_income_after_tax": "$ 4,579,471",
+      "percentage": "15",
+      "code": "8500",
+      "total_comprehensive_income": "$ 10,849,457",
+      "percentage": "36"
+    }
+  }
+}
+```

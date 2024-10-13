@@ -1,0 +1,162 @@
+```json
+{
+  "content": [
+    {
+      "text": "1. 依本公司章程規定，本公司年度如有獲利，應按當年度扣除員工酬勞前之稅前淨利提撥 0.05%至 0.5%為員工酬勞，但公司尚有累積虧損時，應預先保留彌補虧損數額。",
+      "type": "paragraph"
+    },
+    {
+      "text": "2. 本公司民國 111 年 1 月 1 日至 3 月 31 日員工酬勞估列金額為 $6,307，前述金額帳列薪資費用科目。本公司民國 112 年 1 月 1 日至 3 月 31 為稅前虧損，故無需提撥員工酬勞。",
+      "type": "paragraph"
+    },
+    {
+      "text": "民國 111 年 1 月 1 日至 3 月 31 日係依截至當期之獲利情況，以約 0.1%估列。",
+      "type": "paragraph"
+    },
+    {
+      "text": "經董事會決議之民國 111 年度員工酬勞與民國 111 年度財務報表認列之員工酬勞 $7,210 一致，民國 111 年度員工酬勞尚未實際配發。",
+      "type": "paragraph"
+    },
+    {
+      "text": "本公司董事會通過之員工酬勞及董監酬勞相關資訊可至公開資訊觀測站查詢。",
+      "type": "paragraph"
+    },
+    {
+      "text": "（二十六）所得稅",
+      "type": "paragraph"
+    },
+    {
+      "text": "1. 所得稅費用",
+      "type": "paragraph"
+    },
+    {
+      "text": "（1）所得稅費用組成部分：",
+      "type": "paragraph"
+    },
+    {
+      "text": "112年1月1日至3月31日 111年1月1日至3月31日",
+      "type": "paragraph"
+    },
+    {
+      "text": "當期所得稅：",
+      "type": "paragraph"
+    },
+    {
+      "text": "129,010",
+      "type": "number"
+    },
+    {
+      "text": "950,613",
+      "type": "number"
+    },
+    {
+      "text": "當期所得產生之所得稅",
+      "type": "paragraph"
+    },
+    {
+      "text": "以前年度所得稅",
+      "type": "paragraph"
+    },
+    {
+      "text": "（高）低估",
+      "type": "paragraph"
+    },
+    {
+      "text": "444",
+      "type": "number"
+    },
+    {
+      "text": "12,214",
+      "type": "number"
+    },
+    {
+      "text": "當期所得稅總額",
+      "type": "paragraph"
+    },
+    {
+      "text": "128,566",
+      "type": "number"
+    },
+    {
+      "text": "962,827",
+      "type": "number"
+    },
+    {
+      "text": "遞延所得稅：",
+      "type": "paragraph"
+    },
+    {
+      "text": "（97,336）",
+      "type": "number"
+    },
+    {
+      "text": "235,263",
+      "type": "number"
+    },
+    {
+      "text": "暫時性差異之原始產生及迴轉",
+      "type": "paragraph"
+    },
+    {
+      "text": "匯率影響數",
+      "type": "paragraph"
+    },
+    {
+      "text": "594",
+      "type": "number"
+    },
+    {
+      "text": "（1,210）",
+      "type": "number"
+    },
+    {
+      "text": "遞延所得稅總額",
+      "type": "paragraph"
+    },
+    {
+      "text": "（96,742）",
+      "type": "number"
+    },
+    {
+      "text": "234,053",
+      "type": "number"
+    },
+    {
+      "text": "所得稅費用",
+      "type": "paragraph"
+    },
+    {
+      "text": "31,824",
+      "type": "number"
+    },
+    {
+      "text": "1,196,880",
+      "type": "number"
+    },
+    {
+      "text": "（2）與其他綜合損益相關之所得稅金額：",
+      "type": "paragraph"
+    },
+    {
+      "text": "112年1月1日至3月31日 111年1月1日至3月31日",
+      "type": "paragraph"
+    },
+    {
+      "text": "國外營運機構換算差額",
+      "type": "paragraph"
+    },
+    {
+      "text": "（$ 58,215）",
+      "type": "number"
+    },
+    {
+      "text": "（$ 596,848）",
+      "type": "number"
+    },
+    {
+      "text": "2. 本公司營利事業所得稅業經稅捐稽徵機關覈定至民國 109 年度。",
+      "type": "paragraph"
+    }
+  ]
+}
+```

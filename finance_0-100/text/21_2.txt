@@ -1,0 +1,143 @@
+```json
+{
+  "code": "7000",
+  "category": "营业外收入及支出合计",
+  "amount": 1027099,
+  "percentage": 1,
+  "year": "111年1月1日 至 3月31日",
+  "year2": "110年1月1日 至 3月31日",
+  "amount2": 609992,
+  "percentage2": 1
+},
+{
+  "code": "7900",
+  "category": "税前净利",
+  "amount": 14502132,
+  "percentage": 13,
+  "year": "111年1月1日 至 3月31日",
+  "year2": "110年1月1日 至 3月31日",
+  "amount2": 13099180,
+  "percentage2": 13
+},
+{
+  "code": "7950",
+  "category": "所得税费用（附注四及二十六）",
+  "amount": 2793696,
+  "percentage": 3,
+  "year": "111年1月1日 至 3月31日",
+  "year2": "110年1月1日 至 3月31日",
+  "amount2": 2291438,
+  "percentage2": 2
+},
+{
+  "code": "8200",
+  "category": "本期净利",
+  "amount": 11708436,
+  "percentage": 10,
+  "year": "111年1月1日 至 3月31日",
+  "year2": "110年1月1日 至 3月31日",
+  "amount2": 10807742,
+  "percentage2": 11
+},
+{
+  "code": "其他综合损益（附注二十三及二十六）",
+  "category": "",
+  "amount": 0,
+  "percentage": 0,
+  "year": "111年1月1日 至 3月31日",
+  "year2": "110年1月1日 至 3月31日",
+  "amount2": 0,
+  "percentage2": 0
+},
+{
+  "code": "8310",
+  "category": "不重分类至损益之项目",
+  "amount": 0,
+  "percentage": 0,
+  "year": "111年1月1日 至 3月31日",
+  "year2": "110年1月1日 至 3月31日",
+  "amount2": 0,
+  "percentage2": 0
+},
+{
+  "code": "8311",
+  "category": "确定福利计划之再衡量数",
+  "amount": 0,
+  "percentage": 0,
+  "year": "111年1月1日 至 3月31日",
+  "year2": "110年1月1日 至 3月31日",
+  "amount2": 0,
+  "percentage2": 0
+},
+{
+  "code": "8316",
+  "category": "透过其他综合损益按公允价值衡量之权益工具投资未实现评价损益",
+  "amount": 1142716,
+  "percentage": 1,
+  "year": "111年1月1日 至 3月31日",
+  "year2": "110年1月1日 至 3月31日",
+  "amount2": 646386,
+  "percentage2": 1
+},
+{
+  "code": "8317",
+  "category": "避险工具之损益",
+  "amount": 870509,
+  "percentage": 1,
+  "year": "111年1月1日 至 3月31日",
+  "year2": "110年1月1日 至 3月31日",
+  "amount2": 47248,
+  "percentage2": 0
+},
+{
+  "code": "8320",
+  "category": "采用权益法之关联企业之其他综合损益之份额",
+  "amount": -20315,
+  "percentage": 0,
+  "year": "111年1月1日 至 3月31日",
+  "year2": "110年1月1日 至 3月31日",
+  "amount2": 25290,
+  "percentage2": 0
+},
+{
+  "code": "8349",
+  "category": "与不重分类之项目相关之所得税利益（费用）",
+  "amount": -96647,
+  "percentage": 0,
+  "year": "111年1月1日 至 3月31日",
+  "year2": "110年1月1日 至 3月31日",
+  "amount2": 53996,
+  "percentage2": 0
+},
+{
+  "code": "8360",
+  "category": "后续可能重分类至损益之项目",
+  "amount": 0,
+  "percentage": 0,
+  "year": "111年1月1日 至 3月31日",
+  "year2": "110年1月1日 至 3月31日",
+  "amount2": 0,
+  "percentage2": 0
+},
+{
+  "code": "8361",
+  "category": "国外营运机构财务报表换算之兑换差额",
+  "amount": 2246789,
+  "percentage": 2,
+  "year": "111年1月1日 至 3月31日",
+  "year2": "110年1月1日 至 3月31日",
+  "amount2": -47282,
+  "percentage2": 0
+},
+{
+  "code": "8367",
+  "category": "透过其他综合损益按公允价值衡量之债务工具投资未实现评价损益",
+  "amount": -435,
+  "percentage": 0,
+  "year": "111年1月1日 至 3月31日",
+  "year2": "110年1月1日 至 3月31日",
+  "amount2": -2097,
+  "percentage2": 0
+}
+}
+```

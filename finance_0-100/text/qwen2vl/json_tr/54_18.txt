@@ -1,0 +1,21 @@
+```json
+{
+  "注4": "因當地法令限制，其中71%股份係透過他人名義持有。",
+  "注5": "民國110年度新成立或併購取得之公司。",
+  "注6": "於民國110年10月完成解散清算。",
+  "注7": "於民國110年12月完成解散清算。",
+  "注8": "Eltekenergy International de México, S. de R.L. de C.V.於民國110年12月由DELTA ELECTRONICS (USA) INC.及DELTA ELECTRONICS HOLDINGS (USA) INC.出售予DHK及DIH。Eltekenergy International de México, S. de R.L. de C.V.與DEIL-MX決議民國111年2月1日爲合併基準日，存續公司爲DEIL-MX，惟截至民國111年9月30日止合併程序尚未完成。",
+  "注9": "原名爲Infinova (Canada) Limited，於民國110年12月更名爲March Networks Holdings Ltd。",
+  "注10": "Delta Electronics (H.K.) Ltd.於民國110年12月向Delta Networks (HK) Limited購買其持有達創科技(東莞)有限公司51%股權。",
+  "注11": "民國111年度新成立或併購取得之公司。",
+  "注12": "於民國111年2月完成解散清算。",
+  "注13": "原名爲Eltek Sistemas de Energia Industria e Comercio S.A.於民國111年2月更名爲ELTEK SISTEMAS DE ENERGIA INDUSTRIA E COMERCIO LTDA。",
+  "注14": "於民國111年3月完成解散清算。",
+  "注15": "原名爲Delta Greentech (Brasil) S.A.於民國111年2月更名爲DELTA GREENTECH (BRASIL) LTDA。",
+  "注16": "如注12所述解散清算案，投資公司變更為Delta Energy Systems (Singapore) PTE. LTD。",
+  "注17": "本公司與展茂於民國111年5月辦理合併，合併後本公司為存續公司，展茂為消滅公司。",
+  "注18": "上海中達能源於民國111年6月完成註銷。上海浦環中達能源科技有限公司原由上海中達能源持有，改由臺達企管及中達電通共同持有，上海中達能源註銷後與上海浦環中達能源有限公司合併，已於民國111年7月完成合併。",
+  "注19": "原名Eltek Power (UK) Ltd.於民國111年6月更名爲DELTA ELECTRONICS (UK) LTD。",
+  "注20": "原名Eltek Deutschland GmbH於民國111年9月更名爲DELTA Electronics (Germany) GmbH。"
+}
+```
