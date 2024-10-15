@@ -1,0 +1,206 @@
+```json
+{
+  "main_title": "合併公司設定作為長期銀行借款擔保之存貨金額",
+  "sub_title": "十三、子公司",
+  "sub_sub_title": "列入合併財務報告之子公司",
+  "table": {
+    "investment_company": {
+      "name": "國巨股份有限公司",
+      "subsidiaries": [
+        {
+          "name": "國巨百基達控股有限公司",
+          "percentage": "100%",
+          "type": "一般投資業務",
+          "amount": "100%"
+        },
+        {
+          "name": "國巨投資股份有限公司",
+          "percentage": "100%",
+          "type": "一般投資業務",
+          "amount": "100%"
+        },
+        {
+          "name": "君耀控股股份有限公司",
+          "percentage": "100%",
+          "type": "一般投資業務",
+          "amount": "100%"
+        },
+        {
+          "name": "Yageo Corporation (South Asia)",
+          "percentage": "100%",
+          "type": "電子元件之銷售及買賣",
+          "amount": "100%"
+        },
+        {
+          "name": "Yageo Europe Holding B.V.",
+          "percentage": "100%",
+          "type": "一般投資控股",
+          "amount": "100%"
+        },
+        {
+          "name": "Yageo South Asia (M) Sdn. Bhd.",
+          "percentage": "100%",
+          "type": "電子元件之銷售及買賣",
+          "amount": "100%"
+        },
+        {
+          "name": "Pulse Electronics Corporation",
+          "percentage": "100%",
+          "type": "一般投資控股",
+          "amount": "100%"
+        },
+        {
+          "name": "Yageo Holding Hungary LLC",
+          "percentage": "100%",
+          "type": "一般投資控股",
+          "amount": "100%"
+        },
+        {
+          "name": "國創半導體股份有限公司",
+          "percentage": "35%",
+          "type": "各類型應用晶體電路之設計、測試及銷售",
+          "amount": "35%"
+        },
+        {
+          "name": "奇力新電子股份有限公司",
+          "percentage": "100%",
+          "type": "電子零件之製造及銷售",
+          "amount": "100%"
+        },
+        {
+          "name": "國巨北美（香港）有限公司",
+          "percentage": "100%",
+          "type": "一般投資業務",
+          "amount": "100%"
+        },
+        {
+          "name": "國創半導體股份有限公司",
+          "percentage": "15%",
+          "type": "各類型應用晶體電路之設計、測試及銷售",
+          "amount": "9%"
+        },
+        {
+          "name": "國巨百基達控股有限公司",
+          "percentage": "100%",
+          "type": "一般投資業務",
+          "amount": "100%"
+        },
+        {
+          "name": "國巨香港有限公司",
+          "percentage": "100%",
+          "type": "一般投資業務",
+          "amount": "100%"
+        },
+        {
+          "name": "國巨北美（香港）有限公司",
+          "percentage": "100%",
+          "type": "一般投資業務",
+          "amount": "100%"
+        },
+        {
+          "name": "國巨控股（蘇州）有限公司",
+          "percentage": "97.15%",
+          "type": "一般投資業務",
+          "amount": "100%"
+        },
+        {
+          "name": "Vitrohm Holding GmbH",
+          "percentage": "100%",
+          "type": "一般投資業務",
+          "amount": "100%"
+        },
+        {
+          "name": "Yageo Korea",
+          "percentage": "100%",
+          "type": "一般投資業務",
+          "amount": "100%"
+        },
+        {
+          "name": "Yageo Japan",
+          "percentage": "100%",
+          "type": "一般投資業務",
+          "amount": "100%"
+        },
+        {
+          "name": "香港旭泰有限公司",
+          "percentage": "100%",
+          "type": "一般投資業務",
+          "amount": "100%"
+        },
+        {
+          "name": "Belkin International Enterprises Limited",
+          "percentage": "46%",
+          "type": "一般投資業務",
+          "amount": "46%"
+        },
+        {
+          "name": "君耀控股股份有限公司",
+          "percentage": "100%",
+          "type": "一般投資業務",
+          "amount": "100%"
+        },
+        {
+          "name": "Pulse Electronics Corporation",
+          "percentage": "100%",
+          "type": "電子零件之銷售",
+          "amount": "100%"
+        },
+        {
+          "name": "Pulse Electronics (Singapore) Pte. Ltd.",
+          "percentage": "100%",
+          "type": "電子零件之銷售",
+          "amount": "100%"
+        },
+        {
+          "name": "Egston Holding GmbH",
+          "percentage": "100%",
+          "type": "一般投資控股",
+          "amount": "100%"
+        },
+        {
+          "name": "Yageo Holding Hungary LLC",
+          "percentage": "100%",
+          "type": "一般投資",
+          "amount": "100%"
+        },
+        {
+          "name": "Yageo Holding Netherlands B.V.",
+          "percentage": "100%",
+          "type": "電子元件之銷售",
+          "amount": "100%"
+        },
+        {
+          "name": "KEMET Corporation",
+          "percentage": "100%",
+          "type": "電子元件之銷售",
+          "amount": "100%"
+        },
+        {
+          "name": "奇力新國際有限公司",
+          "percentage": "100%",
+          "type": "電子零件之買賣",
+          "amount": "100%"
+        },
+        {
+          "name": "奇力新控股（華摩）有限公司",
+          "percentage": "100%",
+          "type": "一般投資",
+          "amount": "100%"
+        },
+        {
+          "name": "奇力新控股（香港）有限公司",
+          "percentage": "94.15%",
+          "type": "一般投資",
+          "amount": "94.15%"
+        },
+        {
+          "name": "奇力新亞洲投資有限公司",
+          "percentage": "100%",
+          "type": "一般投資",
+          "amount": "100%"
+        }
+      ]
+    }
+  }
+}
+```

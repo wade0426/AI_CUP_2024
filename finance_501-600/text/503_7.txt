@@ -1,0 +1,160 @@
+```json
+{
+  "主要標題": {
+    "111年3月31日": {
+      "子公司名稱": {
+        "ASUS NORDIC AB (ACN)": {
+          "業務性質": "北歐地區3C資訊產品之支援",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS COMPUTER COLOMBIA S. A. S. (ACCO)": {
+          "業務性質": "哥倫比亞地區3C資訊產品之支援",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS (THAILAND) CO., LTD. (ACTH)": {
+          "業務性質": "泰國地區3C資訊產品之支援",
+          "所持股權百分比": "100.00"
+        },
+        "ASUSTEK COMPUTERS (PTY) LIMITED (ACZA)": {
+          "業務性質": "非洲地區3C資訊產品之支援及維修",
+          "所持股權百分比": "100.00"
+        },
+        "ASUSTEK COMPUTER MALAYSIA SDN. BHD. (ACMY)": {
+          "業務性質": "馬來西亞地區3C資訊產品之支援及維修",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS BILGISAYAR SISTEMLERI TICARET LIMITED SIRKETI (ACTR)": {
+          "業務性質": "土耳其地區3C資訊產品之支援及維修",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS CHILE SPA (ACCL)": {
+          "業務性質": "智利地區3C資訊產品之支援",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS TEKNOLOJI SERVİSLERİ TİCARET LIMITED ŞİRKETİ (ASTR)": {
+          "業務性質": "土耳其地區3C資訊產品之維修",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS SERVICE (THAILAND) CO., LTD. (ASTH)": {
+          "業務性質": "泰國地區3C資訊產品之維修",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS PHILIPPINES CORPORATION (ASPH)": {
+          "業務性質": "菲律賓地區3C資訊產品之支援及維修",
+          "所持股權百分比": "100.00"
+        },
+        "QC SERVER AB (QCS)": {
+          "業務性質": "資訊技術之服務",
+          "所持股權百分比": "100.00"
+        },
+        "上海華維電腦有限公司 (上海華維)": {
+          "業務性質": "3C資訊產品之維修",
+          "所持股權百分比": "100.00"
+        },
+        "華碩置業(蘇州)有限公司 (華碩置業蘇州)": {
+          "業務性質": "不動產之出租",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS CZECH SERVICE S. R. O. (ACCZS)": {
+          "業務性質": "歐洲地區3C資訊產品之維修",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS PROPERTIES (VIETNAM) LTD. (APVK)": {
+          "業務性質": "不動產之出租及買賣",
+          "所持股權百分比": "100.00"
+        },
+        "LIABILITY LIMITED COMPANY A25 (A25)": {
+          "業務性質": "俄羅斯地區3C資訊產品之銷售",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS UKRAINE LIMITED LIABILITY COMPANY (ACUKR)": {
+          "業務性質": "烏克蘭地區3C資訊產品之支援",
+          "所持股權百分比": "100.00"
+        }
+      }
+    },
+    "110年12月31日": {
+      "子公司名稱": {
+        "ASUS NORDIC AB (ACN)": {
+          "業務性質": "北歐地區3C資訊產品之支援",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS COMPUTER COLOMBIA S. A. S. (ACCO)": {
+          "業務性質": "哥倫比亞地區3C資訊產品之支援",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS (THAILAND) CO., LTD. (ACTH)": {
+          "業務性質": "泰國地區3C資訊產品之支援",
+          "所持股權百分比": "100.00"
+        },
+        "ASUSTEK COMPUTERS (PTY) LIMITED (ACZA)": {
+          "業務性質": "非洲地區3C資訊產品之支援及維修",
+          "所持股權百分比": "100.00"
+        },
+        "ASUSTEK COMPUTER MALAYSIA SDN. BHD. (ACMY)": {
+          "業務性質": "馬來西亞地區3C資訊產品之支援及維修",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS BILGISAYAR SISTEMLERI TICARET LIMITED SIRKETI (ACTR)": {
+          "業務性質": "土耳其地區3C資訊產品之支援及維修",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS CHILE SPA (ACCL)": {
+          "業務性質": "智利地區3C資訊產品之支援",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS TEKNOLOJI SERVİSLERİ TİCARET LIMITED ŞİRKETİ (ASTR)": {
+          "業務性質": "土耳其地區3C資訊產品之維修",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS SERVICE (THAILAND) CO., LTD. (ASTH)": {
+          "業務性質": "泰國地區3C資訊產品之維修",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS PHILIPPINES CORPORATION (ASPH)": {
+          "業務性質": "菲律賓地區3C資訊產品之支援及維修",
+          "所持股權百分比": "100.00"
+        },
+        "QC SERVER AB (QCS)": {
+          "業務性質": "資訊技術之服務",
+          "所持股權百分比": "100.00"
+        },
+        "上海華維電腦有限公司 (上海華維)": {
+          "業務性質": "3C資訊產品之維修",
+          "所持股權百分比": "100.00"
+        },
+        "華碩置業(蘇州)有限公司 (華碩置業蘇州)": {
+          "業務性質": "不動產之出租",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS CZECH SERVICE S. R. O. (ACCZS)": {
+          "業務性質": "歐洲地區3C資訊產品之維修",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS PROPERTIES (VIETNAM) LTD. (APVK)": {
+          "業務性質": "不動產之出租及買賣",
+          "所持股權百分比": "100.00"
+        },
+        "LIABILITY LIMITED COMPANY A25 (A25)": {
+          "業務性質": "俄羅斯地區3C資訊產品之銷售",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS UKRAINE LIMITED LIABILITY COMPANY (ACUKR)": {
+          "業務性質": "烏克蘭地區3C資訊產品之支援",
+          "所持股權百分比": "100.00"
+        }
+      }
+    },
+    "110年3月31日": {
+      "子公司名稱": {
+        "ASUS NORDIC AB (ACN)": {
+          "業務性質": "北歐地區3C資訊產品之支援",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS COMPUTER COLOMBIA S. A. S. (ACCO)": {
+          "業務性質": "哥倫比亞地區3C資訊產品之支援",
+          "所持股權百分比": "100.00"
+        },
+        "ASUS (THAILAND) CO., LTD. (ACTH)": {
+          "業務性質": "泰國地區3C資訊產品之支援",
+          "所持股權百分比": "100

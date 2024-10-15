@@ -1,0 +1,194 @@
+```json
+{
+  "主要標題": {
+    "112年": {
+      "9月30日": {
+        "Ferrosucube International Holding B.V.": {
+          "業務性質": "一般投資",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Europe Holding B.V.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Holding (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (S) PTE. LTD.": {
+          "業務性質": "一般投資控股",
+          "所持股權百分比": "100%"
+        },
+        "Yageo Electronics Investment (

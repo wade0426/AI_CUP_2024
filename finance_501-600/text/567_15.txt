@@ -1,0 +1,85 @@
+```json
+{
+  "主要標題": [
+    {
+      "日期": "民國 111 年",
+      "項目": [
+        {
+          "標題": "Delta Electronics (H.K.) Ltd.",
+          "子鍵": [
+            {
+              "標題": "向 Delta Networks (HK) Limited 購買其持有之達創科技(東莞)有限公司 49%及 51%股權。",
+              "數值": "49%及 51%"
+            }
+          ]
+        },
+        {
+          "標題": "民國 111 年新成立或併購取得之公司。",
+          "子鍵": [
+            {
+              "標題": "原名為 Eltek Sistemas de Energia Industria e Commercio S.A. 於民國 111 年 2 月更名為 ELTEK SISTEMAS DE ENERGIA INDUSTRIA E COMERCIO LTDA.",
+              "數值": "ELTEK SISTEMAS DE ENERGIA INDUSTRIA E COMERCIO LTDA."
+            },
+            {
+              "標題": "原名為 Delta Greentech (Brasil) S.A. 於民國 111 年 2 月更名為 DELTA GREENTECH (BRASIL) LTDA.",
+              "數值": "DELTA GREENTECH (BRASIL) LTDA."
+            },
+            {
+              "標題": "本公司與展茂於民國 111 年 5 月辦理合併，合併後本公司為存續公司，展茂為消滅公司。",
+              "數值": "存續公司，展茂為消滅公司"
+            },
+            {
+              "標題": "上海中達能源於民國 111 年 6 月完成註銷。上海浦環中達能源科技有限公司原由上海中達能源持有，改由台達企管及中達電通共同持有，上海中達能源註銷後與上海浦環中達能源有限公司合併，已於民國 111 年 7 月完成合併。",
+              "數值": "上海浦環中達能源有限公司"
+            },
+            {
+              "標題": "原名 Eltek Power (UK) Ltd. 於民國 111 年 6 月更名為 DELTA ELECTRONICS (UK) LTD.",
+              "數值": "DELTA ELECTRONICS (UK) LTD."
+            },
+            {
+              "標題": "原名 Eltek Deutschland GmbH 於民國 111 年 9 月更名為 DELTA Electronics (Germany) GmbH.",
+              "數值": "DELTA Electronics (Germany) GmbH."
+            },
+            {
+              "標題": "原名 Eltek Montage GmbH 於民國 111 年 9 月更名為 DELTA Montage GmbH.",
+              "數值": "DELTA Montage GmbH."
+            },
+            {
+              "標題": "Delta Electronics (H.K.) Ltd. 於民國 111 年 12 月向 CYNTEC HOLDING (HK) LIMITED 購買其持有之吳江華豐電子科技有限公司 100%股權。",
+              "數值": "100%"
+            },
+            {
+              "標題": "原名為 ELTEK POWER FRANCE SAS 於民國 111 年 11 月更名為 DELTA ELECTRONICS (France) SAS.",
+              "數值": "DELTA ELECTRONICS (France) SAS."
+            },
+            {
+              "標題": "於民國 111 年 12 月完成解散清算。",
+              "數值": "解散清算"
+            },
+            {
+              "標題": "原名 DET International Holding Limited 於民國 111 年 12 月更名為 DET International Holding B.V.",
+              "數值": "DET International Holding B.V."
+            },
+            {
+              "標題": "原名 Samtartess Investments sp. z o.o. 於民國 111 年 10 月更名為 March Networks Poland Sp. Z o.o.",
+              "數值": "March Networks Poland Sp. Z o.o."
+            },
+            {
+              "標題": "於民國 112 年 1 月完成解散清算。",
+              "數值": "解散清算"
+            },
+            {
+              "標題": "於民國 112 年 3 月完成解散清算。",
+              "數值": "解散清算"
+            },
+            {
+              "標題": "原名 ELTEK AS 於民國 112 年 3 月更名為 DELTA ELECTRONICS (NORWAY) AS.",
+              "數值": "DELTA ELECTRONICS (NORWAY) AS."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```

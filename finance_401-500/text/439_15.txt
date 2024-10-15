@@ -1,0 +1,103 @@
+```json
+{
+  "主要標題": [
+    {
+      "日期": "民國 111 年 2 月 1 日",
+      "項目": [
+        {
+          "公司": "Eltekenergy International de Mexico, S. de R.L. de C.V.",
+          "事件": "與 DEIL-MX 決議民國 111 年 2 月 1 日為合併基準日，存續公司為 DEIL-MX，已於民國 111 年 12 月完成合併程序。"
+        },
+        {
+          "公司": "Delta Electronics (H.K.) Ltd.",
+          "項目": [
+            {
+              "事件": "分別於民國 111 年及民國 110 年 12 月向 Delta Networks (HK) Limited 購買其持有之達創科技(東莞)有限公司 49%及 51%股權。"
+            }
+          ]
+        },
+        {
+          "公司": "Boom Treasure Limited",
+          "項目": [
+            {
+              "事件": "於民國 112 年 6 月發行新股予 Delta Electronics (Netherlands) B.V. 以取得其持有之 Delta Greentech SGP Pte. Ltd. 100%股權。"
+            }
+          ]
+        },
+        {
+          "公司": "Delta International Holding Limited B.V.",
+          "項目": [
+            {
+              "事件": "於民國 112 年 5 月向 Delta Electronics (Netherlands) B.V. 購買其持有之 Amerlux, LLC 100%股權。"
+            }
+          ]
+        },
+        {
+          "公司": "Drake Investment (HK) Limited",
+          "項目": [
+            {
+              "事件": "於民國 112 年 7 月發行新股予 Delta Electronics (Netherlands) B.V. 以取得其持有的 Boom Treasure Limited 100%股權。"
+            }
+          ]
+        },
+        {
+          "公司": "Delta Electronics (H.K.) Ltd.",
+          "項目": [
+            {
+              "事件": "於民國 111 年 12 月向 CYNTEC HOLDING (HK) LIMITED 購買其持有之吳江華豐電子科技有限公司 100%股權。"
+            }
+          ]
+        },
+        {
+          "公司": "原名為 ELTEK POWER FRANCE SAS",
+          "項目": [
+            {
+              "事件": "於民國 111 年 11 月更名為 DELTA ELECTRONICS (France) SAS。"
+            }
+          ]
+        },
+        {
+          "公司": "於民國 111 年 12 月完成解散清算。",
+          "項目": [
+            {
+              "事件": "原名 DET International Holding Limited 於民國 111 年 12 月更名為 DET International Holding B.V。"
+            }
+          ]
+        },
+        {
+          "公司": "原名 Samartess Investments sp. z o.o.",
+          "項目": [
+            {
+              "事件": "於民國 111 年 10 月更名為 March Networks Poland Sp. Z o.o。"
+            }
+          ]
+        },
+        {
+          "公司": "於民國 112 年 1 月完成解散清算。",
+          "項目": [
+            {
+              "事件": "於民國 112 年 3 月完成解散清算。"
+            }
+          ]
+        },
+        {
+          "公司": "原名 ELTEK AS",
+          "項目": [
+            {
+              "事件": "於民國 112 年 3 月更名為 DELTA ELECTRONICS (NORWAY) AS。"
+            }
+          ]
+        },
+        {
+          "公司": "於民國 112 年 3 月處分，不再對其具有控制力。",
+          "項目": [
+            {
+              "事件": "Delta International Holding Limited B.V. 於民國 112 年 3 月向 Delta Electronics (Netherlands) B.V. 購買其持有之 Delta America Ltd. 及 Trihedral Engineering Limited 100%股權。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,102 @@
+```json
+{
+  "投資公司": {
+    "102": {
+      "名稱": "Delta Electronics (Slovakia) s.r.o.",
+      "子公司": "Delta Energy Systems (Singapore) PTE. LTD.",
+      "業務性質": "電源供應器、電源系統、OEM電源系統製造及銷售業務",
+      "112年": "100.00",
+      "111年": "100.00",
+      "111年": "100.00"
+    },
+    "103": {
+      "名稱": "Delta Energy Systems (Romania) S.R.L.",
+      "子公司": "Delta Energy Systems Property (Germany) GmbH",
+      "業務性質": "研發",
+      "112年": "100.00",
+      "111年": "100.00",
+      "111年": "100.00"
+    },
+    "104": {
+      "名稱": "Delta Energy Systems Property (Germany) GmbH",
+      "子公司": "Delta Electronics Holdings Australia Pty Ltd",
+      "業務性質": "產權業務",
+      "112年": "100.00",
+      "111年": "100.00",
+      "111年": "100.00"
+    },
+    "105": {
+      "名稱": "Delta Electronics Holdings Australia Pty Ltd",
+      "子公司": "Delta Electronics India Pvt. Ltd.",
+      "業務性質": "再生能源產品行銷及銷售業務",
+      "112年": "100.00",
+      "111年": "100.00",
+      "111年": "100.00"
+    },
+    "106": {
+      "名稱": "Delta Electronics India Pvt. Ltd.",
+      "子公司": "Delta Electronics (Myanmar) Co., Ltd.",
+      "業務性質": "非通訊電源系統及不斷電式電源供應器之製造、行銷及銷售不斷電式電源供應器",
+      "112年": "100.00",
+      "111年": "100.00",
+      "111年": "100.00"
+    },
+    "107": {
+      "名稱": "Delta Electronics (Myanmar) Co., Ltd.",
+      "子公司": "Delta Energy Systems (UK) Ltd.",
+      "業務性質": "機械及運用於CIM製程之電子產品之製造",
+      "112年": "100.00",
+      "111年": "100.00",
+      "111年": "100.00"
+    },
+    "108": {
+      "名稱": "Delta Energy Systems (UK) Ltd.",
+      "子公司": "Delta Greentech (Netherlands) B.V.",
+      "業務性質": "電子產品之研發",
+      "112年": "100.00",
+      "111年": "100.00",
+      "111年": "100.00"
+    },
+    "109": {
+      "名稱": "Delta Greentech (Netherlands) B.V.",
+      "子公司": "Delta Energy Systems LLC",
+      "業務性質": "投資事業",
+      "112年": "100.00",
+      "111年": "100.00",
+      "111年": "100.00"
+    },
+    "110": {
+      "名稱": "Delta Energy Systems LLC",
+      "子公司": "Eltek s.r.o.",
+      "業務性質": "電源系統之行銷及銷售",
+      "112年": "100.00",
+      "111年": "100.00",
+      "111年": "100.00"
+    },
+    "111": {
+      "名稱": "Eltek s.r.o.",
+      "子公司": "Delta Electronics (Automotive) Americas Inc.",
+      "業務性質": "製造通訊電源系統",
+      "112年": "100.00",
+      "111年": "100.00",
+      "111年": "100.00"
+    },
+    "112": {
+      "名稱": "Delta Electronics (Automotive) Americas Inc.",
+      "子公司": "DEN Amerlux, LLC (Amerlux)",
+      "業務性質": "研發汽車動力及牽引逆變器",
+      "112年": "100.00",
+      "111年": "100.00",
+      "111年": "100.00"
+    },
+    "113": {
+      "名稱": "DEN Amerlux, LLC (Amerlux)",
+      "子公司": "",
+      "業務性質": "專用照明系統及設施之設計及生產",
+      "112年": "100.00",
+      "111年": "100.00",
+      "111年": "100.00"
+    }
+  }
+}
+```

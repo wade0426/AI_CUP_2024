@@ -1,0 +1,239 @@
+```json
+{
+  "主要標題": {
+    "112年": {
+      "9月30日": {
+        "蘇州爾達醫療設備有限公司": {
+          "子公司": {
+            "蘇州爾達醫療設備有限公司": {
+              "業務性質": "醫療器材製造、批發與銷售",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Controls Inc. (DCI)": {
+          "子公司": {
+            "Delta Controls Inc. (DCI)": {
+              "業務性質": "提供楼宇管理與控制解決方案",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Electronics (Norway) AS": {
+          "子公司": {
+            "Delta Electronics (Norway) AS": {
+              "業務性質": "經營電源供應器等之研發及銷售業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Electronics Holding (USA) INC.": {
+          "子公司": {
+            "Delta Electronics Holding (USA) INC.": {
+              "業務性質": "投資事業",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Electronics (Pakistan) (Private) Limited": {
+          "子公司": {
+            "Delta Electronics (Pakistan) (Private) Limited": {
+              "業務性質": "經營電源供應器等之銷售業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Electronics (Germany) GmbH": {
+          "子公司": {
+            "Delta Electronics (Germany) GmbH": {
+              "業務性質": "經營電源供應器等之銷售業務及系統建置業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Electronics (Australia) Pty Ltd": {
+          "子公司": {
+            "Delta Electronics (Australia) Pty Ltd": {
+              "業務性質": "",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Eltek Egypt for Power Supply S.A.E.": {
+          "子公司": {
+            "Eltek Egypt for Power Supply S.A.E.": {
+              "業務性質": "經營電源供應器等之銷售業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Eltek SGS Pvt Ltd.": {
+          "子公司": {
+            "Eltek SGS Pvt Ltd.": {
+              "業務性質": "經營電源供應器等之銷售業務及系統建置業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Eltek SGS Mechanics Pvt Ltd.": {
+          "子公司": {
+            "Eltek SGS Mechanics Pvt Ltd.": {
+              "業務性質": "經營電源供應器等之銷售業務",
+              "合併所持股權百分比": "51.00"
+            }
+          }
+        },
+        "Delta Electronics (France) SAS": {
+          "子公司": {
+            "Delta Electronics (France) SAS": {
+              "業務性質": "經營電源供應器等之銷售業務及系統建置業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Eltek MEA DMCC": {
+          "子公司": {
+            "Eltek MEA DMCC": {
+              "業務性質": "經營電源供應器等之銷售業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        }
+      }
+    },
+    "111年": {
+      "12月31日": {
+        "蘇州爾達醫療設備有限公司": {
+          "子公司": {
+            "蘇州爾達醫療設備有限公司": {
+              "業務性質": "醫療器材製造、批發與銷售",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Controls Inc. (DCI)": {
+          "子公司": {
+            "Delta Controls Inc. (DCI)": {
+              "業務性質": "提供楼宇管理與控制解決方案",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Electronics (Norway) AS": {
+          "子公司": {
+            "Delta Electronics (Norway) AS": {
+              "業務性質": "經營電源供應器等之研發及銷售業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Electronics Holding (USA) INC.": {
+          "子公司": {
+            "Delta Electronics Holding (USA) INC.": {
+              "業務性質": "投資事業",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Electronics (Pakistan) (Private) Limited": {
+          "子公司": {
+            "Delta Electronics (Pakistan) (Private) Limited": {
+              "業務性質": "經營電源供應器等之銷售業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Electronics (Germany) GmbH": {
+          "子公司": {
+            "Delta Electronics (Germany) GmbH": {
+              "業務性質": "經營電源供應器等之銷售業務及系統建置業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Electronics (Australia) Pty Ltd": {
+          "子公司": {
+            "Delta Electronics (Australia) Pty Ltd": {
+              "業務性質": "",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Eltek Egypt for Power Supply S.A.E.": {
+          "子公司": {
+            "Eltek Egypt for Power Supply S.A.E.": {
+              "業務性質": "經營電源供應器等之銷售業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Eltek SGS Pvt Ltd.": {
+          "子公司": {
+            "Eltek SGS Pvt Ltd.": {
+              "業務性質": "經營電源供應器等之銷售業務及系統建置業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Eltek SGS Mechanics Pvt Ltd.": {
+          "子公司": {
+            "Eltek SGS Mechanics Pvt Ltd.": {
+              "業務性質": "經營電源供應器等之銷售業務",
+              "合併所持股權百分比": "51.00"
+            }
+          }
+        },
+        "Delta Electronics (France) SAS": {
+          "子公司": {
+            "Delta Electronics (France) SAS": {
+              "業務性質": "經營電源供應器等之銷售業務及系統建置業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Eltek MEA DMCC": {
+          "子公司": {
+            "Eltek MEA DMCC": {
+              "業務性質": "經營電源供應器等之銷售業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        }
+      }
+    },
+    "110年": {
+      "9月30日": {
+        "蘇州爾達醫療設備有限公司": {
+          "子公司": {
+            "蘇州爾達醫療設備有限公司": {
+              "業務性質": "醫療器材製造、批發與銷售",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Controls Inc. (DCI)": {
+          "子公司": {
+            "Delta Controls Inc. (DCI)": {
+              "業務性質": "提供楼宇管理與控制解決方案",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Electronics (Norway) AS": {
+          "子公司": {
+            "Delta Electronics (Norway) AS": {
+              "業務性質": "經營電源供應器等之研發及銷售業務",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Electronics Holding (USA) INC.": {
+          "子公司": {
+            "Delta Electronics Holding (USA) INC.": {
+              "業務性質": "投資事業",
+              "合併所持股權百分比": "100.00"
+            }
+          }
+        },
+        "Delta Electronics (Pakistan) (Private) Limited": {
+          "子公司": {

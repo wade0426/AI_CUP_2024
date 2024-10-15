@@ -1,0 +1,134 @@
+```json
+{
+  "主要標題": {
+    "112年": {
+      "9月30日": {
+        "100.00": {
+          "子公司": {
+            "Delta Electronics (Slovakia) s.r.o.": {
+              "業務性質": "電源供應器、電源系統、OEM電源系統製造及銷售業務"
+            },
+            "Delta Energy Systems (Romania) S.R.L.": {
+              "業務性質": "研發"
+            },
+            "Delta Energy Systems Property (Germany) GmbH": {
+              "業務性質": "產權業務"
+            },
+            "Delta Energy Systems (Singapore) PTE. LTD.": {
+              "業務性質": "再生能源產品行銷及銷售業務"
+            },
+            "Delta Electronics India Pvt. Ltd.": {
+              "業務性質": "非通訊電源系統及不斷電式電源供應器之製造、行銷及銷售不斷電式電源供應器"
+            },
+            "Delta Electronics (Myanmar) Co., Ltd.": {
+              "業務性質": "機械及運用於CMP製程之電子產品之製造"
+            },
+            "Delta Energy Systems (UK) Ltd.": {
+              "業務性質": "電子產品之研發"
+            },
+            "Delta Greentech (Netherlands) B.V.": {
+              "業務性質": "投資事業"
+            },
+            "Delta Energy Systems LLC": {
+              "業務性質": "電源系統之行銷及銷售"
+            },
+            "Eltek s.r.o.": {
+              "業務性質": "製造通訊電源系統"
+            },
+            "Delta Electronics (Automotive) Americas Inc.": {
+              "業務性質": "研發汽車動力及牽引逆變器"
+            },
+            "Amerlux, LLC (Amerlux)": {
+              "業務性質": "專用照明系統及設施之設計及生產"
+            }
+          }
+        }
+      },
+      "12月31日": {
+        "100.00": {
+          "子公司": {
+            "Delta Electronics (Slovakia) s.r.o.": {
+              "業務性質": "電源供應器、電源系統、OEM電源系統製造及銷售業務"
+            },
+            "Delta Energy Systems (Romania) S.R.L.": {
+              "業務性質": "研發"
+            },
+            "Delta Energy Systems Property (Germany) GmbH": {
+              "業務性質": "產權業務"
+            },
+            "Delta Energy Systems (Singapore) PTE. LTD.": {
+              "業務性質": "再生能源產品行銷及銷售業務"
+            },
+            "Delta Electronics India Pvt. Ltd.": {
+              "業務性質": "非通訊電源系統及不斷電式電源供應器之製造、行銷及銷售不斷電式電源供應器"
+            },
+            "Delta Electronics (Myanmar) Co., Ltd.": {
+              "業務性質": "機械及運用於CMP製程之電子產品之製造"
+            },
+            "Delta Energy Systems (UK) Ltd.": {
+              "業務性質": "電子產品之研發"
+            },
+            "Delta Greentech (Netherlands) B.V.": {
+              "業務性質": "投資事業"
+            },
+            "Delta Energy Systems LLC": {
+              "業務性質": "電源系統之行銷及銷售"
+            },
+            "Eltek s.r.o.": {
+              "業務性質": "製造通訊電源系統"
+            },
+            "Delta Electronics (Automotive) Americas Inc.": {
+              "業務性質": "研發汽車動力及牽引逆變器"
+            },
+            "Amerlux, LLC (Amerlux)": {
+              "業務性質": "專用照明系統及設施之設計及生產"
+            }
+          }
+        }
+      },
+      "9月30日": {
+        "100.00": {
+          "子公司": {
+            "Delta Electronics (Slovakia) s.r.o.": {
+              "業務性質": "電源供應器、電源系統、OEM電源系統製造及銷售業務"
+            },
+            "Delta Energy Systems (Romania) S.R.L.": {
+              "業務性質": "研發"
+            },
+            "Delta Energy Systems Property (Germany) GmbH": {
+              "業務性質": "產權業務"
+            },
+            "Delta Energy Systems (Singapore) PTE. LTD.": {
+              "業務性質": "再生能源產品行銷及銷售業務"
+            },
+            "Delta Electronics India Pvt. Ltd.": {
+              "業務性質": "非通訊電源系統及不斷電式電源供應器之製造、行銷及銷售不斷電式電源供應器"
+            },
+            "Delta Electronics (Myanmar) Co., Ltd.": {
+              "業務性質": "機械及運用於CMP製程之電子產品之製造"
+            },
+            "Delta Energy Systems (UK) Ltd.": {
+              "業務性質": "電子產品之研發"
+            },
+            "Delta Greentech (Netherlands) B.V.": {
+              "業務性質": "投資事業"
+            },
+            "Delta Energy Systems LLC": {
+              "業務性質": "電源系統之行銷及銷售"
+            },
+            "Eltek s.r.o.": {
+              "業務性質": "製造通訊電源系統"
+            },
+            "Delta Electronics (Automotive) Americas Inc.": {
+              "業務性質": "研發汽車動力及牽引逆變器"
+            },
+            "Amerlux, LLC (Amerlux)": {
+              "業務性質": "專用照明系統及設施之設計及生產"
+            }
+          }
+        }
+      }
+    }
+  }
+}
+```
