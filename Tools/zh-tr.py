@@ -53,8 +53,13 @@ def convert_simplified_to_traditional(input_path, output_path):
 
 if __name__ == "__main__":
     
-    folder_path = "D:/NTCUST/Project/Competition/AI_CUP/AI_CUP_2024/finance_0-100/text/qwen2vl/"
+    # folder_path = "D:/NTCUST/Project/Competition/AI_CUP/AI_CUP_2024/finance_0-100/text/qwen2vl/"
+    folder_path = input("請輸入文件夾路徑：")
+    folder_path = folder_path.replace('"', '')
     os.chdir(folder_path)
+
+    if not os.path.exists('tr'):
+        os.makedirs('tr')
 
     start_time = time.time()  # Start time
 
@@ -84,3 +89,4 @@ if __name__ == "__main__":
     end_time = time.time()  # End time
     execution_time = end_time - start_time
     print(f"Done! Execution time: {execution_time} seconds")
+    time.sleep(180)
