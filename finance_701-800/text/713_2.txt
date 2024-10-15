@@ -1,0 +1,35 @@
+```json
+{
+  "主要標題": {
+    "日期": {
+      "112年3月31日": {
+        "外幣資產": {
+          "貨幣性項目": {
+            "美元": {
+              "1,116,175": {
+                "匯率": "6.8586",
+                "金額": "33,926,130"
+              },
+              "876,042": {
+                "匯率": "30.3950",
+                "金額": "26,627,308"
+              },
+              "55,197": {
+                "匯率": "7.8499",
+                "金額": "1,677,717"
+              },
+              "34,382": {
+                "匯率": "34.0200",
+                "金額": "1,045,049"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "純文字描述": {
+    "Sensor Electronic Technology, Inc.控告LITE-ON Technology Corporation, LITE-ON TECHNOLOGY USA, INC., LITE-ON, INC.及LITE-ON TRADING USA, INC.所生產／販售之特定產品侵害其專利權並請求支付權利金，由於Sensor Electronic Technology, Inc.指稱集團侵權之產品晶片係由晶片供應商供應，該供應商已聘請外部律師針對訴訟案進行處理，目前評估對集團營運及財務無重大影響。LITE-ON Technology Corporation及Genesis Photonics Inc.亦於110年9月17日聘請外部律師對Sensor Electronic Technology, Inc.提出反訴以維護公司之智慧財產權權利。Nitek, Inc.控告LITE-ON Technology Corporation, LITE-ON TECHNOLOGY USA, INC., LITE-ON, INC.及LITE-ON TRADING USA, INC.所生產／販售之特定產品侵害其專利權並請求支付權利金，由於Nitek, Inc.指稱集團侵權之產品晶片係由晶片供應商供應，該供應商已聘請外部律師針對訴訟案進行處理，目前評估對集團營運及財務無重大影響。"
+  }
+}
+```

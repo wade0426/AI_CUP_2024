@@ -1,0 +1,182 @@
+```json
+{
+  "主要標題": {
+    "日期": {
+      "110年": {
+        "9月30日": {
+          "PLDS Germany GmbH": {
+            "業務": "開發、銷售車用播放錄製模組",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "Philips & Lite-On Digital Solutions USA, Inc.": {
+            "業務": "光碟機銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "-"
+          },
+          "Philips & Lite-On Digital Solutions Korea Ltd.": {
+            "業務": "光碟機銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "Lite-On Automotive International (Cayman) Co., Ltd": {
+            "業務": "一般投資業",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO., LIMITED": {
+            "業務": "電子產品之加工、製造及銷售",
+            "性質": "資",
+            "資": "100.00",
+            "股權百分比": "100.00",
+            "說明": "1"
+          },
+          "LITE-ON AUTOMOTIVE HOLDINGS (HONG KONG) CO.,
