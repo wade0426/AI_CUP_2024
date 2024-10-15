@@ -91,6 +91,15 @@ function init() {
 
   body.appendChild(prevButton);
   body.appendChild(nextButton);
+
+  // 添加鍵盤事件監聽器
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'ArrowLeft') {
+      navigatePDF('prev');
+    } else if (event.key === 'ArrowRight') {
+      navigatePDF('next');
+    }
+  });
 }
 
 // 等待 DOM 完全加載后再初始化
