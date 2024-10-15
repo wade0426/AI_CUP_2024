@@ -1,0 +1,271 @@
+```json
+{
+  "主要標題": {
+    "日期": {
+      "111.8": {
+        "TCC Hong Kong Cement (International) Ltd": {
+          "TCC Hong Kong Cement (International) Ltd": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC Hong Kong Cement (IVI) Holdings Ltd": {
+          "TCC Hong Kong Cement (IVI) Holdings Ltd": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC Hong Kong Cement (QHC) Ltd": {
+          "TCC Hong Kong Cement (QHC) Ltd": {
+            "業務性質": "投資控股",
+            "70.0": {}
+          }
+        },
+        "Chieffolk Company Ltd": {
+          "Chieffolk Company Ltd": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC International (Luzhou) Ltd": {
+          "TCC International (Luzhou) Ltd": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC Luzhou Company Ltd": {
+          "TCC Luzhou Company Ltd": {
+            "業務性質": "投資控股",
+            "60.0": {}
+          }
+        },
+        "TCC Hong Kong Cement (Philippines) Ltd": {
+          "TCC Hong Kong Cement (Philippines) Ltd": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC Hong Kong Cement (International) Ltd": {
+          "TCC Hong Kong Cement (International) Ltd": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "Jiangpu TCC Investment Co., Ltd": {
+          "Jiangpu TCC Investment Co., Ltd": {
+            "業務性質": "投資控股",
+            "52.5": {}
+          }
+        },
+        "Jingyang Industrial Limited": {
+          "Jingyang Industrial Limited": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC International (Guangxi) Ltd": {
+          "TCC International (Guangxi) Ltd": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK) (HK)": {
+            "業務性質": "投資控股",
+            "100.0": {}
+          }
+        },
+        "TCC (HK) (HK)": {
+          "TCC (HK)

@@ -1,0 +1,162 @@
+```json
+{
+  "主要標題": {
+    "112年9月30日": {
+      "流動資產": {
+        "SHARP CORPORATION": 242893782,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 242893782
+      },
+      "非流動資產": {
+        "SHARP CORPORATION": 157184102,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 157184102
+      },
+      "流動負債": {
+        "SHARP CORPORATION": 211810059,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 211810059
+      },
+      "非流動負債": {
+        "SHARP CORPORATION": 126216695,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 126216695
+      },
+      "淨資產總額": {
+        "SHARP CORPORATION": 62051130,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 62051130
+      },
+      "會計原則影響數": {
+        "SHARP CORPORATION": 3495706,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 3495706
+      },
+      "商標及其他無形、有形淨資產公允價值調整": {
+        "SHARP CORPORATION": 84083366,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 84083366
+      },
+      "調整後淨資產總額": {
+        "SHARP CORPORATION": 142638790,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 142638790
+      },
+      "占關聯企業淨資產之份額": {
+        "SHARP CORPORATION": 47619442,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 47619442
+      },
+      "商譽": {
+        "SHARP CORPORATION": 12145317,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 12145317
+      },
+      "其他": {
+        "SHARP CORPORATION": -3991015,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": -3991015
+      },
+      "關聯企業帳面價值": {
+        "SHARP CORPORATION": 55773744,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 55773744
+      }
+    },
+    "111年12月31日": {
+      "流動資產": {
+        "SHARP CORPORATION": 283275149,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 283275149
+      },
+      "非流動資產": {
+        "SHARP CORPORATION": 212357361,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 212357361
+      },
+      "流動負債": {
+        "SHARP CORPORATION": 220950582,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 220950582
+      },
+      "非流動負債": {
+        "SHARP CORPORATION": 163825035,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 163825035
+      },
+      "淨資產總額": {
+        "SHARP CORPORATION": 110856893,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 110856893
+      },
+      "會計原則影響數": {
+        "SHARP CORPORATION": 4598929,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 4598929
+      },
+      "商標及其他無形、有形淨資產公允價值調整": {
+        "SHARP CORPORATION": 90929084,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 90929084
+      },
+      "調整後淨資產總額": {
+        "SHARP CORPORATION": 197187048,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 197187048
+      },
+      "占關聯企業淨資產之份額": {
+        "SHARP CORPORATION": 66089430,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 66089430
+      },
+      "商譽": {
+        "SHARP CORPORATION": 12574548,
+        "興微(廣州)產業投資合夥企業(有限合夥)": -,
+        "鴻準精密工業股份有限公司": -,
+        "ZHEN DING TECHNOLOGY HOLDING LIMITED": -,
+        "總計": 12574548
+      },
+      "其他": {
+        "SHARP CORPORATION": 3

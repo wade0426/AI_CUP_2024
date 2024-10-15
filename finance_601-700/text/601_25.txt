@@ -1,0 +1,82 @@
+```json
+{
+  "main_title": "111年1月1日至3月31日",
+  "sub_titles": [
+    {
+      "title": "客戶合約之收入",
+      "data": [
+        {
+          "department": "船東",
+          "amount": 176351261
+        },
+        {
+          "department": "代理行",
+          "amount": 4382048
+        },
+        {
+          "department": "櫃場碼頭",
+          "amount": 3834343
+        },
+        {
+          "department": "其他",
+          "amount": 666654
+        }
+      ],
+      "total": 185234306
+    },
+    {
+      "title": "其他-船租收入",
+      "data": [
+        {
+          "department": "船東",
+          "amount": 151921
+        },
+        {
+          "department": "代理行",
+          "amount": 54500
+        }
+      ],
+      "total": 206421
+    }
+  ],
+  "main_title": "110年1月1日至3月31日",
+  "sub_titles": [
+    {
+      "title": "客戶合約收入之細分",
+      "data": [
+        {
+          "department": "船東",
+          "amount": 91381405
+        },
+        {
+          "department": "代理行",
+          "amount": 2614827
+        },
+        {
+          "department": "櫃場碼頭",
+          "amount": 3115303
+        },
+        {
+          "department": "其他",
+          "amount": 469505
+        }
+      ],
+      "total": 97581040
+    },
+    {
+      "title": "合約資產及合約負債",
+      "data": [
+        {
+          "department": "合約資產-貨運收入",
+          "amount": 3664425
+        },
+        {
+          "department": "合約負債-預收貨運收入",
+          "amount": -19027923
+        }
+      ],
+      "total": -15363498
+    }
+  ]
+}
+```

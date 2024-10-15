@@ -1,0 +1,221 @@
+```json
+{
+  "main_title": "111年3月31日",
+  "sub_titles": [
+    {
+      "title": "A1",
+      "data": [
+        {
+          "code": "A1",
+          "amount": 57,414,807,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業收入"
+        },
+        {
+          "code": "A1",
+          "amount": 2,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業成本"
+        },
+        {
+          "code": "A1",
+          "amount": 488,542,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業費用"
+        },
+        {
+          "code": "A1",
+          "amount": 49,322,480,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "A1",
+          "amount": 3,609,866,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "A1",
+          "amount": 61,868,387,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "A1",
+          "amount": 5,533,576,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "A1",
+          "amount": 4,599,491,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "A1",
+          "amount": 14,798,526,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "A1",
+          "amount": 218,830,053,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        }
+      ]
+    },
+    {
+      "title": "D1",
+      "data": [
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業收入"
+        },
+        {
+          "code": "D1",
+          "amount": 2,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業成本"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業費用"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業損益"
+        },
+        {
+          "code": "D1",
+          "amount": 1,000,000,
+          "currency": "$",
+          "description": "110年1月1日至3月31日止營業

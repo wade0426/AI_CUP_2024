@@ -1,0 +1,42 @@
+```json
+{
+  "關係人名稱": {
+    "Colon Container Terminal S.A. (CCT)": "關聯企業",
+    "PT. Evergreen Shipping Agency Indonesia (EMI)": "關聯企業",
+    "Evergreen Shipping Agency Co. (U.A.E) LLC (UAE)": "關聯企業",
+    "Evergreen Shipping Agency Lanka (Private) Limited (ELK)": "關聯企業",
+    "VIP Greenport Joint Stock Company (VGP)": "關聯企業",
+    "Ics Depot Services Sdn. Bhd. (IDS)": "關聯企業",
+    "長榮國際(股)公司(長榮國際)": "其他關係人",
+    "長榮航勤(股)公司(長榮航勤)": "其他關係人",
+    "財團法人張榮發慈善基金會(張榮發慈善基金會)": "其他關係人",
+    "財團法人張榮發基金會(張榮發基金會)": "其他關係人",
+    "長榮鋼鐵(股)公司(長榮鋼鐵)": "其他關係人",
+    "長友營造(股)公司(長友營造)": "其他關係人",
+    "長榮航太科技(股)公司(長榮航太)": "其他關係人",
+    "長榮物流(股)公司(長榮物流)": "其他關係人",
+    "長榮空廚(股)公司(長榮空廚)": "其他關係人",
+    "長榮空運倉儲(股)公司(長榮空儲)": "其他關係人",
+    "中央再保險股份有限公司(中再保)": "其他關係人",
+    "Evergreen International S.A. (EIS)": "其他關係人",
+    "Evergreen Marine (Singapore) Pte. Ltd. (EMS)": "其他關係人",
+    "Gaining Enterprise S.A. (GES)": "其他關係人",
+    "Evergreen Insurance Company Ltd. (EINS)": "其他關係人",
+    "Evergreen Shipping Agency (America) Corporation (EGA)": "其他關係人",
+    "Evergreen Shipping Agency (Japan) Corporation (EGJ)": "其他關係人",
+    "Evergreen International Myanmar Co., Ltd. (EIM)": "其他關係人",
+    "Advanced Business Process, Inc. (ABPI)": "其他關係人",
+    "Unigreen Marine S.A. (UMS)": "其他關係人",
+    "Evergreen Logistics Philippines Corp. (ELCP)": "其他關係人",
+    "Round the World S.A. (RTW)": "其他關係人",
+    "Evergreen Logistics Co., Ltd. (ELCSH)": "其他關係人",
+    "Evergreen Logistics (HK) Ltd. (ELCHK)": "其他關係人",
+    "Round the World Logistics (U.S.A.) Corps. (RTWL)": "其他關係人",
+    "Evergreen Logistics (Thailand) Co., Ltd. (ELCTH)": "其他關係人",
+    "Evergreen Logistics Vietnam Company Ltd. (ELCVN)": "其他關係人",
+    "Evergreen Logistics Malaysia Sdn. Bhd. (ELCMY)": "其他關係人",
+    "Evergreen Logistics (India) Pvt. Ltd. (ELCIN)": "其他關係人",
+    "Evergreen International Logistics (HK) Limited. (EILCHK)": "其他關係人"
+  }
+}
+```

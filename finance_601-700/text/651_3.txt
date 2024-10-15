@@ -1,0 +1,82 @@
+```json
+{
+  "2. 列入合併財務報表之子公司：": {
+    "投資公司": {
+      "台灣碼頭服務股份有限公司（台灣碼頭）": {
+        "子公司": {
+          "Evergreen Marine (Hong Kong) Ltd. (EGH)": {
+            "業務性質": "貨櫃運送之國際海運業及貨運與船務代理業務",
+            "所持股權百分比": "79.00",
+            "說明": ""
+          },
+          "Evergreen Marine (Asia) Pte. Ltd. (EMA)": {
+            "業務性質": "貨櫃運送之國際海運業",
+            "所持股權百分比": "100.00",
+            "說明": ""
+          },
+          "Evergreen Heavy Industrial Corp. (Malaysia) Berhad (EHICM)": {
+            "業務性質": "鋼製乾貨櫃、貨櫃零件及有關大型沖壓件製造",
+            "所持股權百分比": "84.44",
+            "說明": ""
+          },
+          "Evergreen Shipping Agency (Korea) Corporation (EGK)": {
+            "業務性質": "貨運及船務代理業務",
+            "所持股權百分比": "100.00",
+            "說明": ""
+          },
+          "Evergreen Shipping Agency (Thailand) Co., Ltd. (EGT)": {
+            "業務性質": "貨運及船務代理業務",
+            "所持股權百分比": "85.00",
+            "說明": ""
+          }
+        }
+      },
+      "永華投資Greencompass Marine S.A. (GMS)": {
+        "子公司": {
+          "Evergreen Marine (UK) Limited (EMU)": {
+            "業務性質": "貨櫃運送之國際海運業",
+            "所持股權百分比": "51.00",
+            "說明": ""
+          }
+        }
+      },
+      "永華投資Clove Holding Ltd. (Clove)": {
+        "子公司": {
+          "Evergreen Heavy Industrial Corp. (Malaysia) Berhad (EHICM)": {
+            "業務性質": "鋼製乾貨櫃、貨櫃零件及有關大型沖壓件製造",
+            "所持股權百分比": "84.44",
+            "說明": ""
+          }
+        }
+      },
+      "永華投資長華國際物流（天津）有限公司（長華天津）": {
+        "子公司": {
+          "Evergreen Heavy Industrial Corp. (Malaysia) Berhad (EHICM)": {
+            "業務性質": "鋼製乾貨櫃、貨櫃零件及有關大型沖壓件製造",
+            "所持股權百分比": "84.44",
+            "說明": ""
+          }
+        }
+      },
+      "永華投資PT. Multi Bina Pura International (MBPI)": {
+        "子公司": {
+          "Evergreen Heavy Industrial Corp. (Malaysia) Berhad (EHICM)": {
+            "業務性質": "鋼製乾貨櫃、貨櫃零件及有關大型沖壓件製造",
+            "所持股權百分比": "84.44",
+            "說明": ""
+          }
+        }
+      },
+      "永華投資PT. Multi Bina Transport (MBT)": {
+        "子公司": {
+          "Evergreen Heavy Industrial Corp. (Malaysia) Berhad (EHICM)": {
+            "業務性質": "鋼製乾貨櫃、貨櫃零件及有關大型沖壓件製造",
+            "所持股權百分比": "84.44",
+            "說明": ""
+          }
+        }
+      }
+    }
+  }
+}
+```
