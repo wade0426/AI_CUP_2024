@@ -1,0 +1,26 @@
+.pdf-nav-button {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  padding: 20px 10px;
+  cursor: pointer;
+  z-index: 10000;
+  font-size: 24px;
+  transition: background-color 0.3s;
+}
+
+.pdf-nav-button:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.prev-button {
+  left: 0;
+  border-radius: 0 5px 5px 0;
+}
+
+.next-button {
+  right: 0;
+  border-radius: 5px 0 0 5px;
+}
