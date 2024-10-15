@@ -1,5 +1,3 @@
----
-
 **2024/10/15 更新**  
 發現 `finance_304-400` 資料夾中存在錯誤檔案。
 [304_28.txt](<https://github.com/wade0426/AI_CUP_2024/blob/main/finance_301-400/text/304_28.txt>)
