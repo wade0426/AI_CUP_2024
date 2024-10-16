@@ -1,0 +1,39 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司名稱 | 子公司名稱 | 業務性質 | 111年9月30日 | 110年12月31日 | 110年9月30日 | 說明 |
+|--------------|------------|----------|--------------|---------------|--------------|------|
+| Trihedral    | Trihedral Inc. | 圖控軟體和相關工程服務 | 100.00 | 100.00 | 100.00 | （註1）（註2） |
+| Trihedral UK Limited | " | " | 100.00 | 100.00 | 100.00 | （註2） |
+| DIH | March Networks Holdings Ltd. | 投資事業 | 100.00 | 100.00 | - | （註1）（註5）（註9） |
+| March Networks Holdings Ltd. | March Networks Corporation | 安全監控軟硬體和相關工程服務 | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks Corporation | March Networks, Inc. | " | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks de Mexico, S.A.de C.V. | " | " | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks (Australia) Pty Limited | " | " | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks Limited | " | " | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks (Singapore) Pte. Limited | " | " | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks B.V. | " | " | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks S.r.l. | " | " | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks (France) SAS | " | " | 100.00 | 100.00 | - | （註1）（註5） |
+| DHK | 台達電子(重慶)有限公司 | 生產新能源汽車電子零件及電子設備電源零件 | 100.00 | - | - | （註1）（註11） |
+| 台達電子工業股份有限公司 | 達慧互聯股份有限公司 | 提供行業應用加值整合服務 | 70.00 | - | - | （註1）（註11） |
+
+#### 文本输出
+
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 111年9月30日 | 110年12月31日 | 110年9月30日 | 說明 |
+|--------------|------------|----------|--------------|---------------|--------------|------|
+| Trihedral    | Trihedral Inc. | 圖控軟體和相關工程服務 | 100.00 | 100.00 | 100.00 | （註1）（註2） |
+| Trihedral UK Limited | " | " | 100.00 | 100.00 | 100.00 | （註2） |
+| DIH | March Networks Holdings Ltd. | 投資事業 | 100.00 | 100.00 | - | （註1）（註5）（註9） |
+| March Networks Holdings Ltd. | March Networks Corporation | 安全監控軟硬體和相關工程服務 | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks Corporation | March Networks, Inc. | " | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks de Mexico, S.A.de C.V. | " | " | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks (Australia) Pty Limited | " | " | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks Limited | " | " | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks (Singapore) Pte. Limited | " | " | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks B.V. | " | " | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks S.r.l. | " | " | 100.00 | 100.00 | - | （註1）（註5） |
+| March Networks (France) SAS | " | " | 100.00 | 100.00 | - | （註1）（註5） |
+| DHK | 台達電子(重慶)有限公司 | 生產新能源汽車電子零件及電子設備電源零件 | 100.00 | - | - | （註1）（註11） |
+| 台達電子工業股份有限公司 | 達慧互聯股份有限公司 | 提供行業應用加值整合服務 | 70.00 | - | - | （註1）（註11） |

@@ -1,0 +1,29 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司名稱 | 子公司名稱 | 業務性質 | 111年9月30日 | 110年12月31日 | 110年9月30日 | 說明 |
+|--------------|------------|----------|--------------|---------------|--------------|------|
+| DEIL-SG      | ELTEK POWER INCORPORATED | 經營電源供應器等之銷售業務 | 100.00        | 100.00        | 100.00       | 註1  |
+|              | ELTEK POWER CO., LTD.       | "                    | 100.00        | 100.00        | 100.00       | 註2  |
+|              | ELTEK POWER (CAMBODIA) LTD. | "                    | 100.00        | 100.00        | 100.00       | 註3  |
+|              | ELTEK POWER (MALAYSIA) SDN. BHD. | "                    | 100.00        | 100.00        | 100.00       | 註4  |
+| DHK          | 易達電源科技(東莞)有限公司 | 開發、生產和銷售接入網路通訊配套智能化電源設備及系統，生產和銷售再生能源配套智能化電源設備 | -             | -             | 100.00     | 註7  |
+| DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (USA) INC. | 經營電源供應器等之製造及銷售業務 | 100.00        | 100.00        | 100.00       | 註1  |
+| DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (ARGENTINA) S.R.L. | 經營電源供應器等之銷售業務 | 100.00        | 100.00        | 100.00       | 註1  |
+| DEN、DELTA ELECTRONICS (USA) INC. | ELTEK SISTEMAS DE ENERGIA INDUSTRIA E COMERCIO LTDA. | 經營電源供應器等之製造及銷售業務 | 100.00        | 100.00        | 100.00       | 註1  |
+
+#### 文本输出
+
+以下是财务报告表格数据的文本输出：
+
+| 投资公司名稱 | 子公司名稱 | 業務性質 | 111年9月30日 | 110年12月31日 | 110年9月30日 | 說明 |
+|--------------|------------|----------|--------------|---------------|--------------|------|
+| DEIL-SG      | ELTEK POWER INCORPORATED | 經營電源供應器等之銷售業務 | 100.00        | 100.00        | 100.00       | 註1  |
+|              | ELTEK POWER CO., LTD.       | "                    | 100.00        | 100.00        | 100.00       | 註2  |
+|              | ELTEK POWER (CAMBODIA) LTD. | "                    | 100.00        | 100.00        | 100.00       | 註3  |
+|              | ELTEK POWER (MALAYSIA) SDN. BHD. | "                    | 100.00        | 100.00        | 100.00       | 註4  |
+| DHK          | 易達電源科技(東莞)有限公司 | 開發、生產和銷售接入網路通訊配套智能化電源設備及系統，生產和銷售再生能源配套智能化電源設備 | -             | -             | 100.00     | 註7  |
+| DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (USA) INC. | 經營電源供應器等之製造及銷售業務 | 100.00        | 100.00        | 100.00       | 註1  |
+| DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (ARGENTINA) S.R.L. | 經營電源供應器等之銷售業務 | 100.00        | 100.00        | 100.00       | 註1  |
+| DEN、DELTA ELECTRONICS (USA) INC. | ELTEK SISTEMAS DE ENERGIA INDUSTRIA E COMERCIO LTDA. | 經營電源供應器等之製造及銷售業務 | 100.00        | 100.00        | 100.00       | 註1  |

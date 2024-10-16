@@ -1,0 +1,26 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司 | 子公司 | 業務性質 | 111年 | 110年 | 110年 | 說明 |
+|----------|--------|----------|-------|-------|-------|------|
+| 142. 台達電子工業股份有限公司、台達資本 | 確基半導體股份有限公司 | 氮化鎵技術與解決方案 | 79.15 | - | - | （註1）（註11） |
+| 143. DIH | UI Acquisition Holding Co. | 投資事業 | 100.00 | - | - | （註1）（註11） |
+| 144. UI Acquisition Holding Co. | UI Holding Co. | " | 100.00 | - | - | （註1）（註11） |
+| 145. UI Holding Co. | Universal Instruments Corporation | 自動化設備解決方案 | 100.00 | - | - | （註1）（註11） |
+| 146. " | Hover-Davis, Inc. | " | 100.00 | - | - | （註1）（註11） |
+| 147. UI Acquisition Holding Co.、UI Cooperatief U.A. | UI European Holdco. | 投資事業 | 100.00 | - | - | （註1）（註11） |
+| 148. UI European Holdco. Cooperatief U.A. | 環球儀器(香港)有限公司 | 自動化設備解決方案 | 100.00 | - | - | （註1）（註11） |
+| 149. " | Universal Instruments s.r.o. | " | 100.00 | - | - | （註1）（註11） |
+| 150. " | 環儀精密設備製造(深圳)有限公司 | " | 100.00 | - | - | （註1）（註11） |
+| 151. UI Holding Co.、UI European Holdco. Cooperatief U.A. | Universal Instrument de Mexico S.A. de C.V | " | 100.00 | - | - | （註1）（註11） |
+| 152. ELTEK AS | Graterudveien 8 AS | 產權業務 | 100.00 | - | - | （註1）（註11） |
+| 153. March Networks S.r.l. | Samtartess Investments sp. z o.o. | 商業智慧應用之研發 | 100.00 | - | - | （註1）（註11） |
+
+#### 文本输出
+
+（註1）因不符合重要子公司之定義，其民國111年9月30日之財務報告未經會計師核閱。
+
+（註2）因不符合重要子公司之定義，其民國110年9月30日之財務報告未經會計師核閱。
+
+（註3）因當地法令限制，其中55％股份係透過他人名義持有。

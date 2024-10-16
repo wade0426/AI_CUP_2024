@@ -66,66 +66,142 @@ def find_similar_text(text):
     return duplicates
 
 
+# 檢查相似度 輸入字串和文件內容
+def check_similarity(input_string, file_content):
+    # 將輸入字串和文件內容放入列表中
+    documents = [input_string, file_content]
+    
+    # 使用CountVectorizer進行文本向量化
+    vectorizer = CountVectorizer().fit_transform(documents)
+    vectors = vectorizer.toarray()
+    
+    # 計算餘弦相似度
+    cosine_sim = cosine_similarity(vectors)
+    
+    # 找出文本中分數最高的字串
+    file_content_lines = file_content.splitlines()
+    max_similarity = 0
+    max_similarity_string = ""
+    
+    for line in file_content_lines:
+        if line.strip():  # 忽略空行
+            line_vectorizer = CountVectorizer()
+            line_similarity = cosine_similarity(
+                line_vectorizer.fit_transform([input_string, line])
+            )[0][1]
+            if line_similarity > max_similarity:
+                max_similarity = line_similarity
+                max_similarity_string = line
+    
+    # 返回相似度值（第一個與第二個的相似度）和分數最高的字串
+    return cosine_sim[0][1], max_similarity_string
+
+
+# 檢查相似度 輸入字串和文件內容 返回相似度
+def check_similarity_return_similarity(input_string, file_content):
+    
+    # 將輸入字串和文件內容放入列表中
+    documents = [input_string, file_content]
+    
+    # 使用CountVectorizer進行文本向量化
+    vectorizer = CountVectorizer().fit_transform(documents)
+    vectors = vectorizer.toarray()
+    
+    # 計算餘弦相似度
+    cosine_sim = cosine_similarity(vectors)
+    
+    # 返回相似度值（第一個與第二個的相似度）
+    return cosine_sim[0][1]
+
+
 if __name__ == "__main__":
 
-    path = "D:\\NTCUST\\Project\\Competition\\AI_CUP\\AI_CUP_2024\\finance_301-400\\text\\"
+    # path = "D:\\NTCUST\\Project\\Competition\\AI_CUP\\AI_CUP_2024\\finance_301-400\\text\\"
+    
+    # path = "D:\\NTCUST\\Project\\Competition\\AI_CUP\\AI_CUP_2024\\finance_301-400\\text\\v1\\"
+    # os.chdir(path)
+
+    # # 用來計算平均值
+    # n_newline_list = []
+    # n_space_list = []
+    # # 基於文本相似度的檢查
+    # similar_text_list = []
+
+    # for text_path in os.listdir(path):
+
+    #     # 開檔
+    #     with open(text_path, 'r', encoding='utf-8') as file:
+    #         text = file.read()
+
+    #     # print(os.getcwd())
+
+    #     n_newline, n_space = check_text_errors(text)
+    #     n_newline_list.append(n_newline)
+    #     n_space_list.append(n_space)
+
+    #     similar_text_list.append(len(find_similar_text(text)))
+    #     print(f"{text_path},換行: {n_newline}, 空白: {n_space}, 相似文本: {len(find_similar_text(text))}")
+
+    # newline_average = sum(n_newline_list) / len(n_newline_list)
+    # space_average = sum(n_space_list) / len(n_space_list)
+    # similar_text_average = sum(similar_text_list) / len(similar_text_list)
+
+    # print(f"\n\n換行平均: {newline_average}")
+    # print(f"空白平均: {space_average}")
+    # print(f"相似文本平均: {similar_text_average}")
+    # # 設定閥值
+    # n_newline_threshold = newline_average*1.7
+    # n_space_threshold = space_average*1.8
+    # similar_text_threshold = similar_text_average*3.38
+    # space_bad_text_list = []
+    # similar_bad_text_list = []
+
+    # for text_path in os.listdir(path):
+
+    #     # 開檔
+    #     with open(text_path, 'r', encoding='utf-8') as file:
+    #         text = file.read()
+
+    #     n_newline, n_space = check_text_errors(text)
+    #     if n_space > n_space_threshold:
+    #         space_bad_text_list.append(text_path)
+        
+    #     if len(find_similar_text(text)) > similar_text_threshold:
+    #         similar_bad_text_list.append(text_path)
+
+    # print(f"根據空白閥值，可能壞檔案: {space_bad_text_list}")
+    # print(f"\n根據相似文本閥值，可能壞檔案: {similar_bad_text_list}")
+    # print(f"\n聯集: {space_bad_text_list + similar_bad_text_list}")
+
+
+
+    # for text_path in os.listdir(path):
+
+    #     # 開檔
+    #     with open(text_path, 'r', encoding='utf-8') as file:
+    #         text = file.read()
+
+    #     if len(find_similar_text(text)) > similar_text_threshold:
+    #         similar_bad_text_list.append(text_path)
+
+    # print(f"根據相似文本閥值，可能壞檔案: {similar_bad_text_list}")
+
+    path = "D:\\NTCUST\\Project\\Competition\\AI_CUP\\AI_CUP_2024\\finance_0-100\\text\\v2\\"
     os.chdir(path)
 
-    # 用來計算平均值
-    n_newline_list = []
-    n_space_list = []
-    # 基於文本相似度的檢查
-    similar_text_list = []
+    # 0.21高
+    with open("4_1.txt", 'r', encoding='utf-8') as file:
+        file_content = file.read()
 
-    for text_path in os.listdir(path):
-
-        # 開檔
-        with open(text_path, 'r', encoding='utf-8') as file:
-            text = file.read()
-
-        # print(os.getcwd())
-
-        n_newline, n_space = check_text_errors(text)
-        n_newline_list.append(n_newline)
-        n_space_list.append(n_space)
-
-        similar_text_list.append(len(find_similar_text(text)))
-        print(f"{text_path},換行: {n_newline}, 空白: {n_space}, 相似文本: {len(find_similar_text(text))}")
-
-    newline_average = sum(n_newline_list) / len(n_newline_list)
-    space_average = sum(n_space_list) / len(n_space_list)
-    similar_text_average = sum(similar_text_list) / len(similar_text_list)
-
-    print(f"\n\n換行平均: {newline_average}")
-    print(f"空白平均: {space_average}")
-    print(f"相似文本平均: {similar_text_average}")
-    # 設定閥值
-    n_newline_threshold = newline_average*1.7
-    n_space_threshold = space_average*1.8
-    similar_text_threshold = similar_text_average*1.8
-    bad_text_list = []
-
-    for text_path in os.listdir(path):
-
-        # 開檔
-        with open(text_path, 'r', encoding='utf-8') as file:
-            text = file.read()
-
-        n_newline, n_space = check_text_errors(text)
-        if n_space > n_space_threshold:
-            bad_text_list.append(text_path)
-
-    print(f"根據空白閥值，可能壞檔案: {bad_text_list}")
-
-    bad_text_list = []
-
-    for text_path in os.listdir(path):
-
-        # 開檔
-        with open(text_path, 'r', encoding='utf-8') as file:
-            text = file.read()
-
-        if len(find_similar_text(text)) > similar_text_threshold:
-            bad_text_list.append(text_path)
-
-    print(f"根據相似文本閥值，可能壞檔案: {bad_text_list}")
+    print()
+    print(check_similarity_return_similarity("""| 项目 | 112年3月31日 | 111年12月31日 | 111年3月31日 |
+|------|--------------|---------------|--------------|
+| 庫存现金 | $ 1,777 | $ 1,750 | $ 2,137 |
+| 活期存款 | 25,699,639 | 33,243,220 | 39,578,483 |
+| 总计 | $ 77,674,551 | $ 91,065,529 | $ 68,517,225 |""", file_content))
+    print()
+    
+    # 0.159
+    # similarity, max_similarity_string = check_similarity("""输入图像描述：财务报告页面的图像，包含""", file_content)
+    # print(f"\n相似度: {similarity}")
+    # print(f"最高相似文本: {max_similarity_string}\n")

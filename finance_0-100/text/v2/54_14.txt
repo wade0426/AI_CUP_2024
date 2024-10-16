@@ -1,0 +1,29 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司 | 子公司 | 業務性質 | 111年 | 110年 | 110年 |
+|----------|--------|----------|-------|-------|-------|
+| 108.     | DET International Holding Limited | Delta Energy Systems (Romania) S.R.L. | 研發 | 100.00 | 100.00 | 100.00 |
+| 109.     | Delta Energy Systems (Germany) GmbH | Delta Energy Systems Property (Germany) GmbH | 產權業務 | 100.00 | 100.00 | 100.00 |
+| 110.     | Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics Holdings Australia Pty Ltd | 再生能源產品行銷及銷售業務 | 100.00 | 100.00 | 100.00 |
+| 111.     | Delta Electronics India Pvt. Ltd. | 非通訊電源系統及不斷電式電源供應器之製造、行銷及銷售不斷電式電源供應器 | 100.00 | 100.00 | 100.00 |
+| 112.     | Delta Electronics (Myanmar) Co., Ltd. | 機械及運用於CMP製程之電子產品之製造 | 100.00 | 100.00 | 100.00 |
+| 113.     | Delta Energy Systems (UK) Ltd. | 電子產品之研發 | 100.00 | 100.00 | 100.00 |
+| 114.     | Delta Greentech (Netherlands) Cooperatie U.A. | 投資事業 | - | 100.00 | 100.00 (注12) |
+| 115.     | Delta Greentech (Netherlands) B.V. | Delta Greentech (Netherlands) B.V. | 100.00 | 100.00 | 100.00 (注16) |
+| 116.     | Delta Greentech (Netherlands) B.V. | Delta Energy Systems LLC | 電源系統之行銷及銷售 | 100.00 | 100.00 | 100.00 |
+
+#### 文本输出
+
+| 投資公司 | 子公司 | 業務性質 | 111年 | 110年 | 110年 |
+|----------|--------|----------|-------|-------|-------|
+| 108.     | DET International Holding Limited | Delta Energy Systems (Romania) S.R.L. | 研發 | 100.00 | 100.00 | 100.00 |
+| 109.     | Delta Energy Systems (Germany) GmbH | Delta Energy Systems Property (Germany) GmbH | 產權業務 | 100.00 | 100.00 | 100.00 |
+| 110.     | Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics Holdings Australia Pty Ltd | 再生能源產品行銷及銷售業務 | 100.00 | 100.00 | 100.00 |
+| 111.     | Delta Electronics India Pvt. Ltd. | 非通訊電源系統及不斷電式電源供應器之製造、行銷及銷售不斷電式電源供應器 | 100.00 | 100.00 | 100.00 |
+| 112.     | Delta Electronics (Myanmar) Co., Ltd. | 機械及運用於CMP製程之電子產品之製造 | 100.00 | 100.00 | 100.00 |
+| 113.     | Delta Energy Systems (UK) Ltd. | 電子產品之研發 | 100.00 | 100.00 | 100.00 |
+| 114.     | Delta Greentech (Netherlands) Cooperatie U.A. | 投資事業 | - | 100.00 | 100.00 (注12) |
+| 115.     | Delta Greentech (Netherlands) B.V. | Delta Greentech (Netherlands) B.V. | 100.00 | 100.00 | 100.00 (注16) |
+| 116.     | Delta Greentech (Netherlands) B.V. | Delta Energy Systems LLC | 電源系統之行銷及銷售 | 100.00 | 100.00 | 100.00 |
