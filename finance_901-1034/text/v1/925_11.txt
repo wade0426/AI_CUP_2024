@@ -1,0 +1,196 @@
+```json
+{
+  "表格信息": {
+    "日期": {
+      "2011年": {
+        "3月31日": {
+          "POWER INNOVATIONS INTERNATIONAL, INC.": {
+            "业务性质": "电源控制及能源管理之技术开发、设计和制造"
+          },
+          "LITE-ON TECHNOLOGY SERVICE, INC.": {
+            "业务性质": "3C产品及光电产品等之售後服务"
+          },
+          "LITE-ON INTERNATIONAL HOLDING CO., LTD.": {
+            "业务性质": "一般投资业"
+          },
+          "LITE-ON CHINA HOLDING CO., LTD.": {
+            "业务性质": "生产和销售新型电子零件、电力电子零件"
+          },
+          "LITE-ON SINGAPORE PTE. LTD.": {
+            "业务性质": "生产和销售新型电子零件、电力电子零件"
+          },
+          "LITE-ON AUTOMOTIVE ELECTRONICS MEXICO, S.A. DE C.V.": {
+            "业务性质": "节流设备之生产及销售"
+          },
+          "LITE-ON POWER ELECTRONIC INDIA PRIVATE LIMITED": {
+            "业务性质": "製造及销售手机充电器及电源供应产品"
+          },
+          "光寶科技（上海）有限公司": {
+            "业务性质": "路燈、交通信号燈、室内外景觀燈、室内外照明燈、新型電子元器件、零件國內採購、批發、進出口業務及安裝施工"
+          },
+          "LTC GROUP LTD.": {
+            "业务性质": "一般投资业"
+          },
+          "TITANIC CAPITAL SERVICES LTD.": {
+            "业务性质": "系统产品生产及销售"
+          },
+          "LTC INTERNATIONAL LTD.": {
+            "业务性质": "系统产品生产及销售"
+          },
+          "LITE-ON TECHNOLOGY (FINLAND) OY": {
+            "业务性质": "从事行动电话模组、组装线设计、製造与销售"
+          },
+          "LITE-ON MOBILE OY": {
+            "业务性质": "从事行动电话模组、组装线设计、製造与销售"
+          },
+          "LITE-ON CHINA HOLDING CO., LTD.": {
+            "业务性质": "一般投资业"
+          },
+          "YET FOUNDATE LIMITED": {
+            "业务性质": "橡（塑）胶製品及电脑週边北製造"
+          },
+          "FORIXGOOD ELECTRONIC LIMITED": {
+            "业务性质": "進出口貿易、代理、控股等业务"
+          },
+          "G&W TECHNOLOGY (BVI) LIMITED": {
+            "业务性质": "不動產資產"
+          },
+          "G&W TECHNOLOGY LIMITED": {
+            "业务性质": "租赁業"
+          },
+          "EAGLE ROCK INVESTMENT LTD.": {
+            "业务性质": "生产销售各种电脑、电子、家电用變壓器及週邊配套材料"
+          },
+          "HIGH YIELD GROUP CO., LTD.": {
+            "业务性质": "光碟機銷售"
+          },
+          "LITE-ON IT INTERNATIONAL (HK) LIMITED": {
+            "业务性质": "汽车零部件及配件製造"
+          },
+          "LITE-ON IT INTERNATIONAL (HK) LIMITED": {
+            "业务性质": "汽车零部件及配件製造"
+          },
+          "建興（广州）电子科技有限公司": {
+            "业务性质": "光碟機生產及銷售"
+          },
+          "建興光電科技（北海）有限公司": {
+            "业务性质": "光碟機生產及銷售"
+          }
+        }
+      },
+      "12月31日": {
+        "POWER INNOVATIONS INTERNATIONAL, INC.": {
+          "业务性质": "电源控制及能源管理之技术开发、设计和制造"
+        },
+        "LITE-ON TECHNOLOGY SERVICE, INC.": {
+          "业务性质": "3C产品及光电产品等之售後服务"
+        },
+        "LITE-ON INTERNATIONAL HOLDING CO., LTD.": {
+          "业务性质": "一般投资业"
+        },
+        "LITE-ON CHINA HOLDING CO., LTD.": {
+          "业务性质": "生产和销售新型电子零件、电力电子零件"
+        },
+        "LITE-ON SINGAPORE PTE. LTD.": {
+          "业务性质": "生产和销售新型电子零件、电力电子零件"
+        },
+        "LITE-ON AUTOMOTIVE ELECTRONICS MEXICO, S.A. DE C.V.": {
+          "业务性质": "节流设备之生产及销售"
+        },
+        "LITE-ON POWER ELECTRONIC INDIA PRIVATE LIMITED": {
+          "业务性质": "製造及销售手机充电器及电源供应产品"
+        },
+        "光寶科技（上海）有限公司": {
+          "业务性质": "路燈、交通信号燈、室内外景觀燈、室内外照明燈、新型電子元器件、零件國內採購、批發、進出口業務及安裝施工"
+        },
+        "LTC GROUP LTD.": {
+          "业务性质": "一般投资业"
+        },
+        "TITANIC CAPITAL SERVICES LTD.": {
+          "业务性质": "系统产品生产及销售"
+        },
+        "LTC INTERNATIONAL LTD.": {
+          "业务性质": "系统产品生产及销售"
+        },
+        "LITE-ON TECHNOLOGY (FINLAND) OY": {
+          "业务性质": "从事行动电话模组、组装线设计、製造与销售"
+        },
+        "LITE-ON MOBILE OY": {
+          "业务性质": "从事行动电话模组、组装线设计、製造与销售"
+        },
+        "LITE-ON CHINA HOLDING CO., LTD.": {
+          "业务性质": "一般投资业"
+        },
+        "YET FOUNDATE LIMITED": {
+          "业务性质": "橡（塑）胶製品及电脑週边北製造"
+        },
+        "FORIXGOOD ELECTRONIC LIMITED": {
+          "业务性质": "進出口貿易、代理、控股等业务"
+        },
+        "G&W TECHNOLOGY (BVI) LIMITED": {
+          "业务性质": "不動產資產"
+        },
+        "G&W TECHNOLOGY LIMITED": {
+          "业务性质": "租赁業"
+        },
+        "EAGLE ROCK INVESTMENT LTD.": {
+          "业务性质": "生产销售各种电脑、电子、家电用變壓器及週邊配套材料"
+        },
+        "HIGH YIELD GROUP CO., LTD.": {
+          "业务性质": "光碟機銷售"
+        },
+        "LITE-ON IT INTERNATIONAL (HK) LIMITED": {
+          "业务性质": "汽车零部件及配件製造"
+        },
+        "LITE-ON IT INTERNATIONAL (HK) LIMITED": {
+          "业务性质": "汽车零部件及配件製造"
+        },
+        "建興（广州）电子科技有限公司": {
+          "业务性质": "光碟機生產及銷售"
+        },
+        "建興光電科技（北海）有限公司": {
+          "业务性质": "光碟機生產及銷售"
+        }
+      },
+      "3月31日": {
+        "POWER INNOVATIONS INTERNATIONAL, INC.": {
+          "业务性质": "电源控制及能源管理之技术开发、设计和制造"
+        },
+        "LITE-ON TECHNOLOGY SERVICE, INC.": {
+          "业务性质": "3C产品及光电产品等之售後服务"
+        },
+        "LITE-ON INTERNATIONAL HOLDING CO., LTD.": {
+          "业务性质": "一般投资业"
+        },
+        "LITE-ON CHINA HOLDING CO., LTD.": {
+          "业务性质": "生产和销售新型电子零件、电力电子零件"
+        },
+        "LITE-ON SINGAPORE PTE. LTD.": {
+          "业务性质": "生产和销售新型电子零件、电力电子零件"
+        },
+        "LITE-ON AUTOMOTIVE ELECTRONICS MEXICO, S.A. DE C.V.": {
+          "业务性质": "节流设备之生产及销售"
+        },
+        "LITE-ON POWER ELECTRONIC INDIA PRIVATE LIMITED": {
+          "业务性质": "製造及销售手机充电器及电源供应产品"
+        },
+        "光寶科技（上海）有限公司": {
+          "业务性质": "路燈、交通信号燈、室内外景觀燈、室内外照明燈、新型電子元器件、零件國內採購、批發、進出口業務及安裝施工"
+        },
+        "LTC GROUP LTD.": {
+          "业务性质": "一般投资业"
+        },
+        "TITANIC CAPITAL SERVICES LTD.": {
+          "业务性质": "系统产品生产及销售"
+        },
+        "LTC INTERNATIONAL LTD.": {
+          "业务性质": "系统产品生产及销售"
+        },
+        "LITE-ON TECHNOLOGY (FINLAND) OY": {
+          "业务性质": "从事行动电话模组、组装线设计、製造与销售"
+        },
+        "LITE-ON MOBILE OY": {
+          "业务性质": "从事行动电话模组、组装线设计、製造与销售"
+        },
+        "LITE-ON CHINA HOLDING CO., LTD.": {
+          "业务性质": "一般

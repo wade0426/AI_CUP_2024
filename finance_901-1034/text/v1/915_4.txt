@@ -1,0 +1,324 @@
+```json
+{
+  "text": [
+    "9. 子公司中華精測於 110 年 8 月按原持股比例增資 Chunghwa Precision Test Tech USA Corporation，本集團對其持股比例不變。",
+    "10. 子公司中華精測於 110 年 4 月按原持股比例增資 Chunghwa Precision Test Tech. International, Ltd.，本集團對其持股比例不變。",
+    "11. 子公司中華精測於 111 年 3 月投資成立測冠投資公司，持股比例為 100%。",
+    "12. 子公司 Senao International HK Limited 於 109 年 11 月及 110 年 5 月現金減資退股款，並於 110 年 1 月及 8 月減資彌補虧損，減資比例為 8.15% 及 47.79%，本集團對其持股比例不變。",
+    "13. 子公司神豐商貿（上海）已於 110 年 4 月清算完結。",
+    "14. 子公司上海立華於 109 年 8 月決議結束營業辦理清算，清算程序尚在進行中。",
+    "15. 子公司 Chunghwa Precision Test Tech. International, Ltd. 於 110 年 7 月按原持股比例增資蘇州晶測科技，本集團對其持股比例不變。",
+    "16. 子公司資拓宏宇（上海）信息科技已於 110 年 8 月清算完結。",
+    "111 年 3 月 31 日日本集團之投資關係及所持股權比例如下所示:"
+  ],
+  "table": {
+    "rows": [
+      {
+        "columns": [
+          {
+            "title": "中華電信股份有限公司",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom Co., Ltd.",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom Singapore Pte. Ltd.",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Inc.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "data": [
+              {
+                "value": "100%"
+              }
+            ]
+          },
+          {
+            "title": "Chunghwa Telecom (Cloud, Co., Ltd.)",
+            "

@@ -1,0 +1,73 @@
+```json
+{
+  "text": "前述貴金屬借料交易與相關金融負債條件相同，是以子公司採質性評估判定貴金屬借料交易及被避險金融負債之價值會因被避險國際貴金屬價格之變動而有系統地反向變動。避險關係之避險無效性主要來自於子公司與交易對方之信用風險對貴金屬借料交易公允價值之影響，此信用風險並不會影響被避險項目導因於國際貴金屬價格之公允價值變動。於避險期間並未出現避險無效性之其他來源。",
+  "tables": [
+    {
+      "date": "111年9月30日",
+      "contracts": [
+        {
+          "contract_type": "貴金屬借料交易",
+          "contract_amount": 126819,
+          "contract_currency": "美元",
+          "contract_maturity_date": "到期期間",
+          "contract_value": "公允價值",
+          "contract_value_currency": "美元",
+          "contract_value_amount": 115578,
+          "contract_value_change": 11241
+        }
+      ],
+      "assets": [
+        {
+          "asset_type": "資產負債表",
+          "asset_value": "帳面金額",
+          "asset_value_currency": "美元",
+          "asset_value_amount": 115578,
+          "asset_value_change": 11241
+        }
+      ],
+      "liabilities": [
+        {
+          "liability_type": "負債",
+          "liability_value": "帳面金額",
+          "liability_value_currency": "美元",
+          "liability_value_amount": 115578,
+          "liability_value_change": 11241
+        }
+      ]
+    },
+    {
+      "date": "110年9月30日",
+      "contracts": [
+        {
+          "contract_type": "貴金屬借料交易",
+          "contract_amount": 179047,
+          "contract_currency": "美元",
+          "contract_maturity_date": "到期期間",
+          "contract_value": "公允價值",
+          "contract_value_currency": "美元",
+          "contract_value_amount": 158955,
+          "contract_value_change": 20092
+        }
+      ],
+      "assets": [
+        {
+          "asset_type": "資產負債表",
+          "asset_value": "帳面金額",
+          "asset_value_currency": "美元",
+          "asset_value_amount": 158955,
+          "asset_value_change": 20092
+        }
+      ],
+      "liabilities": [
+        {
+          "liability_type": "負債",
+          "liability_value": "帳面金額",
+          "liability_value_currency": "美元",
+          "liability_value_amount": 158955,
+          "liability_value_change": 20092
+        }
+      ]
+    }
+  ]
+}
+```

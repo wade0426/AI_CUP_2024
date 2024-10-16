@@ -1,0 +1,324 @@
+```json
+{
+  "main_title": "112年5月31日",
+  "sub_titles": [
+    {
+      "title": "A1",
+      "data": [
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 61252340
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 2000000
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 56757470
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 21889935
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 25446640
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 29318000
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 7799352
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 26588909
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 35488895
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 204477335
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 21377340
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 225654873
+        }
+      ]
+    },
+    {
+      "title": "D1",
+      "data": [
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1200118
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1204144
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1272
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1276
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1283826
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 635760
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1200364
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 2399368
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 3267896
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 9113820
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 130505
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 9264325
+        }
+      ]
+    },
+    {
+      "title": "D3",
+      "data": [
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1200118
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1204144
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1272
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1276
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1283826
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 635760
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1200364
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 2399368
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 3267896
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 9113820
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 130505
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 9264325
+        }
+      ]
+    },
+    {
+      "title": "D5",
+      "data": [
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1200118
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1204144
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1272
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1276
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1283826
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 635760
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1200364
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 2399368
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 3267896
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 9113820
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 130505
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 9264325
+        }
+      ]
+    },
+    {
+      "title": "M7",
+      "data": [
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1200118
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1204144
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1272
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1276
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1283826
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 635760
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 1200364
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 2399368
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 3267896
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 9113820
+        },
+        {
+          "department": "總部",
+          "category": "資本",
+          "amount": 130505
+        },
+        {
+          "

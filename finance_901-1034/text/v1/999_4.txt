@@ -1,0 +1,13 @@
+```json
+{
+  "11": "子公司中華精測於 111 年 3 月投資成立測冠投資，持股比例為 100%。",
+  "12": "子公司測冠投資於 111 年 5 月投資成立揚弈科技，持股比例為 54.25%。",
+  "13": "子公司 Senao International HK Limited 已於 112 年 7 月清算完結。",
+  "14": "子公司上海立華已於 111 年 10 月清算完結。",
+  "15": "子公司 Infoexplorer International Co., Ltd.已於 112 年 9 月清算完結。",
+  "16": "子公司 IISI Investment Co., Ltd.、Leading Tech Co., Ltd.及 Leading Systems Co., Ltd.已於 111 年 9 月清算完結。",
+  "17": "子公司資拓宏宇國際於 112 年 8 月購入榮利科技股權，致 112 年 9 月 30 日本集團對榮利科技持股比例上升為 100%。",
+  "18": "子公司 International Integrated Systems (Hong Kong) Limited 已於 112 年 6 月清算完結。",
+  "112年9月30日本集團之投資關係及所持股權比例如下所示："
+}
+```

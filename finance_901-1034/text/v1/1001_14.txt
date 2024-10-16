@@ -1,0 +1,20 @@
+```json
+{
+  "1. 無形資產攤銷明細如下：": {
+    "112年1月1日至3月31日": {
+      "營業成本": "$17,875",
+      "推銷費用": "444,592",
+      "管理費用": "36,965",
+      "研究發展費用": "484,276",
+      "總計": "$983,708"
+    },
+    "111年1月1日至3月31日": {
+      "營業成本": "$16,306",
+      "推銷費用": "423,228",
+      "管理費用": "73,092",
+      "研究發展費用": "441,077",
+      "總計": "$953,703"
+    }
+  },
+  "2. 本集團所購買": {
+    "VivoteK、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、Vivitek、

@@ -1,0 +1,316 @@
+```json
+{
+  "text": "2. 於民國 111 年 7 月 18 日以現金 $2,766,456 購入 UI Acquisition Holding Co. 之 100% 股權取得對其之控制，並於民國 111 年第四季按合約價格調整機制調增價款 $30,890，本集團預期收購後可完善工業自動化之佈局，對 UI Acquisition Holding Co. 之相關收購價格分攤已於民國 112 年第一季完成，依據會計師查核後之報表調整股權淨值，使得收購價格分攤金額調減 $33,473。 \n(3) 於民國 110 年 12 月 1 日原以 $3,472,680 購入 March Networks Holdings Ltd. 之 100% 股權取得對其之控制，本集團預期收購後可完善安防及樓宇自動化之佈局，對 March 之相關收購價格分攤於民國 111 年第二季完成，或有對價並按預估支付數調減 $10,556。 \n2. 收購上述子公司所支付之對價、所取得之資產和承擔之負債在收購日之公允價值，以及在收購日非控制權益公允價值之資訊如下：",
+  "table": {
+    "rows": [
+      {
+        "columns": [
+          {
+            "title": "冠信(註)",
+            "data": [
+              {
+                "value": "950,259",
+                "type": "number"
+              },
+              {
+                "value": "2,797,346",
+                "type": "number"
+              },
+              {
+                "value": "3,376,535",
+                "type": "number"
+              }
+            ]
+          },
+          {
+            "title": "UI(註)",
+            "data": [
+              {
+                "value": "-",
+                "type": "number"
+              },
+              {
+                "value": "-",
+                "type": "number"
+              },
+              {
+                "value": "85,589",
+                "type": "number"
+              }
+            ]
+          },
+          {
+            "title": "March(註)",
+            "data": [
+              {
+                "value": "-",
+                "type": "number"
+              },
+              {
+                "value": "-",
+                "type": "number"
+              },
+              {
+                "value": "3,462,124",
+                "type": "number"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "columns": [
+          {
+            "title": "收購對價",
+            "data": [
+              {
+                "value": "950,259",
+                "type": "number"
+              },
+              {
+                "value": "2,797,346",
+                "type": "number"
+              },
+              {
+                "value": "3,376,535",
+                "type": "number"
+              }
+            ]
+          },
+          {
+            "title": "或有對價",
+            "data": [
+              {
+                "value": "-",
+                "type": "number"
+              },
+              {
+                "value": "-",
+                "type": "number"
+              },
+              {
+                "value": "85,589",
+                "type": "number"
+              }
+            ]
+          },
+          {
+            "title": "非控制權益公允價值",
+            "data": [
+              {
+                "value": "391,199",
+                "type": "number"
+              },
+              {
+                "value": "-",
+                "type": "number"
+              },
+              {
+                "value": "-",
+                "type": "number"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "columns": [
+          {
+            "title": "取得可辨認資產及承擔",
+            "data": [
+              {
+                "value": "1,541,458",
+                "type": "number"
+              },
+              {
+                "value": "2,797,346",
+                "type": "number"
+              },
+              {
+                "value": "3,462,124",
+                "type": "number"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "columns": [
+          {
+            "title": "負債之公允價值",
+            "data": [
+              {
+                "value": "421,004",
+                "type": "number"
+              },
+              {
+                "value": "171,888",
+                "type": "number"
+              },
+              {
+                "value": "510,591",
+                "type": "number"
+              }
+            ]
+          },
+          {
+            "title": "現金及銀行存款",
+            "data": [
+              {
+                "value": "392,688",
+                "type": "number"
+              },
+              {
+                "value": "2,960,518",
+                "type": "number"
+              },
+              {
+                "value": "1,218,552",
+                "type": "number"
+              }
+            ]
+          },
+          {
+            "title": "其他流動資產",
+            "data": [
+              {
+                "value": "5,169",
+                "type": "number"
+              },
+              {
+                "value": "143,360",
+                "type": "number"
+              },
+              {
+                "value": "44,809",
+                "type": "number"
+              }
+            ]
+          },
+          {
+            "title": "不動產、廠房及設備",
+            "data": [
+              {
+                "value": "527,207",
+                "type": "number"
+              },
+              {
+                "value": "523,953",
+                "type": "number"
+              },
+              {
+                "value": "821,850",
+                "type": "number"
+              }
+            ]
+          },
+          {
+            "title": "無形資產",
+            "data": [
+              {
+                "value": "210",
+                "type": "number"
+              },
+              {
+                "value": "265,321",
+                "type": "number"
+              },
+              {
+                "value": "403,881",
+                "type": "number"
+              }
+            ]
+          },
+          {
+            "title": "遞延所得稅資產",
+            "data": [
+              {
+                "value": "35,865",
+                "type": "number"
+              },
+              {
+                "value": "54,254",
+                "type": "number"
+              },
+              {
+                "value": "242,838",
+                "type": "number"
+              }
+            ]
+          },
+          {
+            "title": "其他非流動資產",
+            "data": [
+              {
+                "value": "411,714",
+                "type": "number"
+              },
+              {
+                "value": "1,553,995",
+                "type": "number"
+              },
+              {
+                "value": "475,624",
+                "type": "number"
+              }
+            ]
+          },
+          {
+            "title": "其他非流動負債",
+            "data": [
+              {
+                "value": "-",
+                "type": "number"
+              },
+              {
+                "value": "68,845",
+                "type": "number"
+              },
+              {
+                "value": "236,879",
+                "type": "number"
+              }
+            ]
+          },
+          {
+            "title": "可辨認淨資產總額",
+            "data": [
+              {
+                "value": "935,429",
+                "type": "number"
+              },
+              {
+                "value": "2,496,454",
+                "type": "number"
+              },
+              {
+                "value": "2,530,018",
+                "type": "number"
+              }
+            ]
+          },
+          {
+            "title": "商譽",
+            "data": [
+              {
+                "value": "606,029",
+                "type": "number"
+              },
+              {
+                "value": "300,892",
+                "type": "number"
+              },
+              {
+                "value": "932,106",
+                "type": "number"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "footnotes": [
+      {
+        "text": "3. UI 之收購價格分攤於民國 112 年第一季分攤完成，取得可辨認無形資產及商譽之公允價值分別為 $523,953 及 $300,892。",
+        "type": "footnote"
+     
