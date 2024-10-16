@@ -11,6 +11,7 @@ if __name__ == "__main__":
         folder_list = ["finance_0-100", "finance_101-200", "finance_201-300", "finance_301-400", "finance_401-500", "finance_501-600", "finance_601-700", "finance_701-800", "finance_801-900", "finance_901-1034"]
         # 紀錄刪除的檔案數量
         delete_count = 0
+        total_delete_count = 0
 
         for folder in folder_list:
 
@@ -22,8 +23,10 @@ if __name__ == "__main__":
                 delete_count += 1
 
             print(f"{folder} 刪除的檔案數量: {delete_count}")
+            total_delete_count += delete_count
+            delete_count = 0
     
-        print(f"總共刪除的檔案數量: {delete_count}")
+        print(f"總共刪除的檔案數量: {total_delete_count}")
 
     else:
         print("取消刪除")
