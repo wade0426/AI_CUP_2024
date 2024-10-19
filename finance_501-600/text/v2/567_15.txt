@@ -1,0 +1,35 @@
+根据提供的PDF财务报告图像，以下是提取的文本和表格信息：
+
+### 文本内容
+- (注7) Delta Electronics (H.K.) Ltd. 分别于民国111年及民国110年12月向 Delta Networks (HK) Limited 购买其持有之达创科技(东莞)有限公司49%及51%股权。
+- (注8) 民国111年度新成立或并购取得之公司。
+- (注9) 原名为 Eltek Sistemas de Energia Industria e Comercio S.A. 於民国111年2月更名为 ELTEK SISTEMAS DE ENERGIA INDUSTRIA E COMERCIO LTDA.。
+- (注10) 原名为 Delta Greentech (Brasil) S.A. 於民国111年2月更名为 DELTA GREENTECH (BRASIL) LTDA.。
+- (注11) 本公司与展茂於民国111年5月办理合併，合併後本公司为存续公司，展茂为消滅公司。
+- (注12) 上海中達能源於民国111年6月完成注销。上海浦環中達能源科技有限公司原由上海中達能源持有，改由台達企管及中達電通共同持有，上海中達能源注销後與上海浦環中達能源有限公司合併，已於民国111年7月完成合併。
+- (注13) 原名 Eltek Power (UK) Ltd. 於民国111年6月更名为 DELTA ELECTRONICS (UK) LTD。
+- (注14) 原名 Eltek Deutschland GmbH 於民国111年9月更名为 DELTA Electronics (Germany) GmbH。
+- (注15) 原名 Eltek Montage GmbH 於民国111年9月更名为 DELTA Montage GmbH。
+- (注16) Delta Electronics (H.K.) Ltd. 於民国111年12月向 CYNTEC HOLDING (HK) LIMITED 购买其持有之吴江华丰电子科技有限公司100%股权。
+- (注17) 原名为 ELTEK POWER FRANCE SAS 於民国111年11月更名为 DELTA ELECTRONICS (France) SAS。
+- (注18) 於民国111年12月完成解散清算。
+- (注19) 原名 DET International Holding Limited 於民国111年12月更名为 DET International Holding B.V.。
+- (注20) 原名 Sam tartess Investments sp. z o.o. 於民国111年10月更名为 March Networks Poland Sp. Z o.o.。
+- (注21) 於民国112年1月完成解散清算。
+- (注22) 於民国112年3月完成解散清算。
+- (注23) 原名 ELTEK AS 於民国112年3月更名为 DELTA ELECTRONICS (NORWAY) AS。
+
+### Markdown表格格式
+| 项目 | 112年3月31日 | 111年12月31日 | 111年3月31日 |
+|------|--------------|---------------|--------------|
+| 庫存现金 | $ 1,777 | $ 1,750 | $ 2,137 |
+| 活期存款 | 25,699,639 | 33,243,220 | 39,578,483 |
+| 总计 | $ 77,674,551 | $ 91,065,529 | $ 68,517,225 |
+
+### 注意事项
+- 在表格中，定期验证与下划线和特殊符号相关的关键术语如"总计"至关重要。
+- 输入图像描述：财务报告页面的图像，包含标题、多个表格和周围的解释性文本。
+- 特别注意确保数值的准确性和上下文的保留，尤其是在财务数据表示方面。
+- 智能处理潜在的图像噪声或失真，以保持数据的完整性。
+- 请确保提取的数据准确反映财务报告中的表格数据和文本，提供超出标准OCR通常能力的全面输出。
+- 表格资料将以Markdown表格格式呈现，方便后续处理、分析和与RAG结合使用。

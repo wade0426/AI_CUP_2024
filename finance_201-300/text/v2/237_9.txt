@@ -1,0 +1,44 @@
+### 财务报告
+
+#### 投资公司名称
+| 投资公司名称 | 子公司名称 | 持股比例 | 说明 |
+|--------------|------------|----------|------|
+| LITE-ON ELECTRONICS (EUROPE) LIMITED | Lite-On Technology (Europe) B.V. | 100.00% |  |
+| Lite-On Technology (Europe) B.V. |  |  |  |
+| Lite-On Overseas Trading Co., Ltd. |  |  |  |
+| Lite-On Overseas Trading Co., Ltd. |  |  |  |
+| LITE-ON SINGAPORE PTE. LTD. |  |  |  |
+| LITE-ON VIETNAM CO., LTD. |  |  |  |
+| EAGLE ROCK INVESTMENT LTD. |  |  |  |
+| LITE-ON MOBILE PTE. LTD. |  |  |  |
+| HIGH YIELD GROUP CO., LTD. |  |  |  |
+| 飞利浦建兴数位科技股份有限公司 |  |  |  |
+| LET (HK) LIMITED |  |  |  |
+| Lite-On Automotive International (Cayman) Co., Ltd. |  |  |  |
+| LITE-ON AUTOMOTIVE ELECTRONICS MEXICO, S.A. DE C.V. |  |  |  |
+| LITE-ON POWER ELECTRONIC INDIA PRIVATE LIMITED |  |  |  |
+| KBW-LITEON Jordan Private Shareholding Limited |  |  |  |
+| KBW-LEOTEK Jordan Private Shareholding Limited |  |  |  |
+| 光林智能科技股份有限公司（原名：光林智通股份有限公司） |  |  |  |
+| LITE-ON MOBILE INDUSTRIA E COMERCIO DE PLÁSTICOS LTDA. |  |  |  |
+| CEDARS DIGITAL PTE. LTD. |  |  |  |
+| 光宝绿色能资科技股份有限公司 |  |  |  |
+| 源泰投资股份有限公司 |  |  |  |
+| Lite-On Green Energy (HK) Limited |  |  |  |
+| Lite-On Technology (Europe) B.V. |  |  |  |
+| LITE-ON GREEN ENERGY (SINGAPORE) PTE. LTD. |  |  |  |
+| Lite-On Green Technologies B.V. |  |  |  |
+| Lite-On Green Energy B.V. |  |  |  |
+
+#### 财务数据
+| 项目 | 112年3月31日 | 111年12月31日 | 111年3月31日 |
+|------|--------------|---------------|--------------|
+| 庫存现金 | $ 1,777 | $ 1,750 | $ 2,137 |
+| 活期存款 | 25,699,639 | 33,243,220 | 39,578,483 |
+| 总计 | $ 77,674,551 | $ 91,065,529 | $ 68,517,225 |
+
+#### 说明
+- 以上数据为财务报告中的部分信息，具体数据请参考完整报告。
+- 表格中的数据已进行整理和结构化，方便后续处理和分析。
+- 特别注意确保数据的准确性和上下文的保留，尤其是在财务数据表示方面。
+- 表格资料将以Markdown表格格式呈现，方便后续处理、分析和与RAG结合使用。

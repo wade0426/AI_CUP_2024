@@ -1,0 +1,43 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司名称 | 子公司名称 | 主要业务 | 设立及营运地点 | 本公司所持有之所有权权益百分比 | 说明 |
+|--------------|------------|----------|----------------|--------------------------------|------|
+| 台积电公司   | TSMC Design Technology Japan, Inc. (TSMC JDC) | 工程支援业务 | Yokohama, Japan | 100% | 注一 |
+| 台积电公司   | TSMC Japan 3DIC R&D Center, Inc. (TSMC 3DIC) | 工程支援业务 | Yokohama, Japan | 100% | 注一 |
+| 台积电公司   | TSMC Korea Limited (TSMC Korea) | 客户服务及支援业务 | Seoul, Korea | 100% | 注一 |
+| 台积电公司   | TSMC Partners, Ltd. (TSMC Partners) | 半导体设计、制造等相关投资业务及一般投资业务 | Tortola, British Virgin Islands | 100% | 注一 |
+| 台积电公司   | TSMC Global Ltd. (TSMC Global) | 一般投资业务 | Tortola, British Virgin Islands | 100% | 注一 |
+| 台积电（中国）有限公司（台积电中国子公司） | 硅体电路及其他半导体装置之制造、销售、测试与电脑辅助设计 | 中国上海市 | 100% | 100% | 注一 |
+| 台积电（南京）有限公司（台积电南京子公司） | 硅体电路及其他半导体装置之制造、销售、测试与电脑辅助设计 | 中国南京市 | 100% | 100% | 注一 |
+| 采銑科技股份有限公司（采銑公司） | 彩色滤光膜产品相关研究、设计、开发、制造、销售及封装测试 | 新竹市 | 68% | 73% | 73% | 注二 |
+| TSMC Arizona Corporation (TSMC Arizona) | 硅体电路及其他半导体装置之制造、销售与测试 | Phoenix, Arizona, U.S.A. | 100% | 100% | 注一及注三 |
+| Japan Advanced Semiconductor Manufacturing, Inc. (JASM) | 硅体电路及其他半导体装置之制造、销售、测试与电脑辅助设计 | Kumamoto, Japan | 71% | 100% | 注一及注四 |
+| VentureTech Alliance Fund II, L.P. (VTAF II) | 新创科技事业之投资 | Cayman Islands | 98% | 98% | 98% | 注一 |
+| VentureTech Alliance Fund III, L.P. (VTAF III) | 新创科技事业之投资 | Cayman Islands | 98% | 98% | 98% | 注一 |
+| Emerging Fund L.P. (Emerging Fund) | 新创科技事业之投资 | Cayman Islands | 99.9% | 99.9% | 99.9% | 注一 |
+| TSMC Partners | TSMC Development, Inc. (TSMC Development) | 半导体制造相关投资业务 | Delaware, U.S.A. | 100% | 注一 |
+| TSMC Partners | TSMC Technology, Inc. (TSMC Technology) | 工程支援业务 | Delaware, U.S.A. | 100% | 注一 |
+
+#### 文本输出
+
+以下是财务报告表格数据的文本输出：
+
+| 投资公司名称 | 子公司名称 | 主要业务 | 设立及营运地点 | 本公司所持有之所有权权益百分比 | 说明 |
+|--------------|------------|----------|----------------|--------------------------------|------|
+| 台积电公司   | TSMC Design Technology Japan, Inc. (TSMC JDC) | 工程支援业务 | Yokohama, Japan | 100% | 注一 |
+| 台积电公司   | TSMC Japan 3DIC R&D Center, Inc. (TSMC 3DIC) | 工程支援业务 | Yokohama, Japan | 100% | 注一 |
+| 台积电公司   | TSMC Korea Limited (TSMC Korea) | 客户服务及支援业务 | Seoul, Korea | 100% | 注一 |
+| 台积电公司   | TSMC Partners, Ltd. (TSMC Partners) | 半导体设计、制造等相关投资业务及一般投资业务 | Tortola, British Virgin Islands | 100% | 注一 |
+| 台积电公司   | TSMC Global Ltd. (TSMC Global) | 一般投资业务 | Tortola, British Virgin Islands | 100% | 注一 |
+| 台积电（中国）有限公司（台积电中国子公司） | 硅体电路及其他半导体装置之制造、销售、测试与电脑辅助设计 | 中国上海市 | 100% | 100% | 注一 |
+| 台积电（南京）有限公司（台积电南京子公司） | 硅体电路及其他半导体装置之制造、销售、测试与电脑辅助设计 | 中国南京市 | 100% | 100% | 注一 |
+| 采銑科技股份有限公司（采銑公司） | 彩色滤光膜产品相关研究、设计、开发、制造、销售及封装测试 | 新竹市 | 68% | 73% | 73% | 注二 |
+| TSMC Arizona Corporation (TSMC Arizona) | 硅体电路及其他半导体装置之制造、销售与测试 | Phoenix, Arizona, U.S.A. | 100% | 100% | 注一及注三 |
+| Japan Advanced Semiconductor Manufacturing, Inc. (JASM) | 硅体电路及其他半导体装置之制造、销售、测试与电脑辅助设计 | Kumamoto, Japan | 71% | 100% | 注一及注四 |
+| VentureTech Alliance Fund II, L.P. (VTAF II) | 新创科技事业之投资 | Cayman Islands | 98% | 98% | 98% | 注一 |
+| VentureTech Alliance Fund III, L.P. (VTAF III) | 新创科技事业之投资 | Cayman Islands | 98% | 98% | 98% | 注一 |
+| Emerging Fund L.P. (Emerging Fund) | 新创科技事业之投资 | Cayman Islands | 99.9% | 99.9% | 99.9% | 注一 |
+| TSMC Partners | TSMC Development, Inc. (TSMC Development) | 半导体制造相关投资业务 | Delaware, U.S.A. | 100% | 注一 |
+| TSMC Partners | TSMC Technology, Inc. (TSMC Technology) | 工程支援业务 | Delaware, U.S.A. | 100% | 注一 |

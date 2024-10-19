@@ -1,0 +1,57 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司名称 | 子公司名称 | 名称 | 业务 | 性质 | 9月30日 | 12月31日 | 9月30日 | 说明 |
+|--------------|------------|------|------|------|--------|--------|--------|------|
+| Chung Mao Trading (Samoa) Corporation | 上海综贸国际贸易有限公司 (上海综贸) | | | | 100 | 100 | 100 | |
+| 和贸国际股份有限公司 | 中贸国际日本株式会社 (中贸日本) | | | | 100 | 100 | 100 | |
+| Chung Mao Trading (BVI) Corporation | 中贸国际香港有限公司 (中贸香港) | | | | - | 100 | 100 | 111年4月清算完成 |
+| CSGT International Corporation | CSGT Metals Vietnam Joint Stock Company (中贸金属) | 钢材裁剪加工 | | | 60 | 60 | 60 | |
+| CSGT Trading India Private Limited (中贸印度) | | | | | 99 | 99 | 99 | 直接及间接持股合计为100% |
+| 中联资源股份有限公司 | 联钢开发股份有限公司 (联发) | 铁粉产销、耐火材料加工、贸易、人力派遣 | | | 93 | 93 | 93 | |
+| | 寶固實業股份有限公司 (寶固) | 飞灰买卖、水泥乾拌砂产销、贸易 | | | 51 | 51 | 51 | |
+| | 友成石灰工场股份有限公司 (友成) | 不動産租賃、原物料理貨協力 | | | 90 | 90 | 90 | |
+| | CHC Resources Vietnam Co., Ltd (中联越南) | 炉石粉产销、水淬炉石销售 | | | 85 | 85 | 85 | |
+| | 茂联實業股份有限公司 (茂联) | 不動産租賃 | | | - | - | 100 | 110年12月与中联资源合并后消减 |
+| 中冠资讯股份有限公司 | Info-Champ System (B.V.I) Corporation (中冠BVI) | 投资控股 | | | 100 | 100 | 100 | |
+| Info-Champ System (B.V.I) Corporation | 中冠信息科技（武汉）有限公司 (中冠信息) | 企业资讯系统整合服务 | | | 100 | 100 | 100 | |
+| 中國鋼鐵結構股份有限公司 | 联钢营造工程股份有限公司 (联钢营造) | 土木营造业等工程之承揽及管理等业务 | | | 100 | 100 | 100 | |
+| | China Steel Structure Holding Co., Ltd. (CSSHCL) | 投资控股 | | | 100 | 100 | 100 | |
+| | China Steel Structure Investment Pte. Ltd. (CSSIPL) | | | | - | - | - | 110年8月清算完成 |
+| 联钢营造工程股份有限公司 | United Steel Investment Pte Ltd (USIPL) | 投资控股 | | | 100 | 100 | 100 | |
+| | United Steel Construction (Vietnam) Co., Ltd. (USCVC) | 土木营造业等工程之承揽及管理等业务 | | | 100 | 100 | 100 | |
+| 中宇环保工程股份有限公司 | CEC International Corporation (中宇国际) | 投资控股 | | | 100 | 100 | 100 | |
+| | CEC Development Corporation (中宇开发) | 投资控股 | | | 100 | 100 | 100 | |
+| | 中宇营造股份有限公司 (中宇营造) | 工程业 | | | - | - | - | 110年6月清算完成 |
+| | CEC Holding Company Limited (中宇控股) | 投资控股 | | | - | - | - | 110年5月清算完成 |
+| CEC International Corporation | China Ecotek India Private Limited (中宇印度) | 工程设计建造服务 | | | 100 | 100 | 100 | |
+
+#### 文本输出
+
+以下是财务报告表格数据的文本输出：
+
+| 投资公司名称 | 子公司名称 | 名称 | 业务 | 性质 | 9月30日 | 12月31日 | 9月30日 | 说明 |
+|--------------|------------|------|------|------|--------|--------|--------|------|
+| Chung Mao Trading (Samoa) Corporation | 上海综贸国际贸易有限公司 (上海综贸) | | | | 100 | 100 | 100 | |
+| 和贸国际股份有限公司 | 中贸国际日本株式会社 (中贸日本) | | | | 100 | 100 | 100 | |
+| Chung Mao Trading (BVI) Corporation | 中贸国际香港有限公司 (中贸香港) | | | | - | 100 | 100 | 111年4月清算完成 |
+| CSGT International Corporation | CSGT Metals Vietnam Joint Stock Company (中贸金属) | 钢材裁剪加工 | | | 60 | 60 | 60 | |
+| CSGT Trading India Private Limited (中贸印度) | | | | | 99 | 99 | 99 | 直接及间接持股合计为100% |
+| 中联资源股份有限公司 | 联钢开发股份有限公司 (联发) | 铁粉产销、耐火材料加工、贸易、人力派遣 | | | 93 | 93 | 93 | |
+| | 寶固實業股份有限公司 (寶固) | 飞灰买卖、水泥乾拌砂产销、贸易 | | | 51 | 51 | 51 | |
+| | 友成石灰工场股份有限公司 (友成) | 不動産租賃、原物料理貨協力 | | | 90 | 90 | 90 | |
+| | CHC Resources Vietnam Co., Ltd (中联越南) | 炉石粉产销、水淬炉石销售 | | | 85 | 85 | 85 | |
+| | 茂联實業股份有限公司 (茂联) | 不動産租賃 | | | - | - | 100 | 110年12月与中联资源合并后消减 |
+| 中冠资讯股份有限公司 | Info-Champ System (B.V.I) Corporation (中冠BVI) | 投资控股 | | | 100 | 100 | 100 | |
+| Info-Champ System (B.V.I) Corporation | 中冠信息科技（武汉）有限公司 (中冠信息) | 企业资讯系统整合服务 | | | 100 | 100 | 100 | |
+| 中國鋼鐵結構股份有限公司 | 联钢营造工程股份有限公司 (联钢营造) | 土木营造业等工程之承揽及管理等业务 | | | 100 | 100 | 100 | |
+| | China Steel Structure Holding Co., Ltd. (CSSHCL) | 投资控股 | | | 100 | 100 | 100 | |
+| | China Steel Structure Investment Pte. Ltd. (CSSIPL) | | | | - | - | - | 110年8月清算完成 |
+| 联钢营造工程股份有限公司 | United Steel Investment Pte Ltd (USIPL) | 投资控股 | | | 100 | 100 | 100 | |
+| | United Steel Construction (Vietnam) Co., Ltd. (USCVC) | 土木营造业等工程之承揽及管理等业务 | | | 100 | 100 | 100 | |
+| 中宇环保工程股份有限公司 | CEC International Corporation (中宇国际) | 投资控股 | | | 100 | 100 | 100 | |
+| | CEC Development Corporation (中宇开发) | 投资控股 | | | 100 | 100 | 100 | |
+| | 中宇营造股份有限公司 (中宇营造) | 工程业 | | | - | - | - | 110年6月清算完成 |
+| | CEC Holding Company Limited (中宇控股) | 投资控股 | | | - | - | - | 110年5月清算完成 |
+| CEC

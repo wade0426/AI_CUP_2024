@@ -1,0 +1,54 @@
+### 财务报告
+
+#### 投资公司名称
+| 投资公司名称 | 子公司名称 | 持股比例（%） | 说明 |
+|--------------|------------|----------------|------|
+| 光宝科技（江苏）有限公司 | 光宝医疗器械（常州）有限公司 | 100.00 | 医疗器械设备之生产及销售 |
+| 光宝科技（江苏）有限公司 | 常州光林新能源贸易有限公司 | 100.00 | 路灯、交通信号灯、室内外景观灯、照明灯、新型电子元器件、零件国内采购、批发、进出口业务及安装施工 |
+| 光宝汽车电子（常州）有限公司 | 光宝汽车电子（常州）有限公司 | 100.00 | 电子产品的加工、制造及销售 |
+| 光宝汽车电子（常州）有限公司 | 光宝汽车电子（常州）有限公司 | 100.00 | 太阳能系统工程 |
+| 光宝汽车电子（常州）有限公司 | 光宝汽车电子（常州）有限公司 | 100.00 | 生产销售电脑主机及其配件、键盘、扫描器、印表机及滑鼠 |
+| 光宝力信科技（赣州）有限公司 | 光宝力信科技（赣州）有限公司 | 100.00 | 生产销售各种新型电子元件、电力电子器件 |
+| LITE-ON TECHNOLOGY USA, INC. | LITE-ON, INC. | 100.00 | 光电产品及电源供应器之销售资料处理事业 |
+| LITE-ON TRADING USA, INC. | LITE-ON TRADING USA, INC. | 100.00 | 3C产品及光电产品等之销售 |
+| LEOTEK ELECTRONICS USA LLC | LEOTEK ELECTRONICS USA LLC | 100.00 | 销售发光二极管应用产品 |
+| POWER INNOVATIONS INTERNATIONAL, INC. | POWER INNOVATIONS INTERNATIONAL, INC. | 100.00 | 電源控制及能源管理之技术开发、设计和制造 |
+| LITE-ON TECHNOLOGY SERVICE, INC. | LITE-ON TECHNOLOGY SERVICE, INC. | 100.00 | 3C产品及光电产品等之售後服务 |
+| Lite-On International Holding Co., Ltd. | Lite-On International Holding Co., Ltd. | 100.00 | 一般投资业 |
+| LITE-ON SINGAPORE PTE. LTD. | LITE-ON SINGAPORE PTE. LTD. | 100.00 | 生产和销售新型电子零件、电力电子零件 |
+| 光宝科技（上海）有限公司 | 光宝科技（上海）有限公司 | 100.00 | 节能设备之生产及销售 |
+| 光宝科技（上海）有限公司 | LITE-ON AUTOMOTIVE ELECTRONICS MEXICO, S.A. DE C.V. | 100.00 | 生产、制造、销售、进口与出口光电装置、关键电子零组件、通讯装置、资讯科技装置、半导体应用产品、一般照明装置、车用电子产品、再生能源产品与服务、汽车用系统与维修 |
+| LITE-ON POWER ELECTRONIC INDIA PRIVATE LIMITED | LITE-ON POWER ELECTRONIC INDIA PRIVATE LIMITED | 100.00 | 製造及销售手机充电器及电源供应产品 |
+| 光宝科技（上海）有限公司 | 光宝智慧能源（盐城）有限公司 | 100.00 | 路灯、交通信号灯、室内外景观灯、室内外照明灯、新型电子元器件、零件国内采购、批发、进出口业务及安装施工 |
+| LTC GROUP LTD. | LTC GROUP LTD. | 100.00 | 一般投资业 |
+| Lite-On Technology (Europe) B.V. | Lite-On (Finland) Oy | 100.00 | 從事行動電話模具、组装线设计、製造与销售 |
+| Lite-On (Finland) Oy | Lite-On Mobile Oyj | 100.00 | 從事行動電話模具、组装线设计、製造与销售 |
+| Lite-On Electronics Company Limited | Lite-On Electronics Company Limited | 100.00 | 一般投资业 |
+| YET FOUNDATE LIMITED | YET FOUNDATE LIMITED | 100.00 | 橡（塑）胶制品及电脑週邊之製造 |
+| FORDGOOD ELECTRONIC LIMITED | FORDGOOD ELECTRONIC LIMITED | 100.00 | 進出口貿易、製造、控股買賣不動產、代理等業務 |
+| G&W TECHNOLOGY (BVI) LIMITED | G&W TECHNOLOGY (BVI) LIMITED | 50.00 | 不動產買賣 |
+| G&W TECHNOLOGY (BVI) LIMITED | G&W TECHNOLOGY (BVI) LIMITED | 50.00 | 租賃業 |
+| EAGLE ROCK INVESTMENT LTD. | EAGLE ROCK INVESTMENT LTD. | 100.00 | 生產銷售各種電腦、電子、家電用變壓器及週邊配套材料 |
+| HIGH YIELD GROUP CO., LTD. | HIGH YIELD GROUP CO., LTD. | 100.00 | 光碟機銷售 |
+
+#### 财务报告（续）
+
+| 投资公司名称 | 子公司名称 | 持股比例（%） | 说明 |
+|--------------|------------|----------------|------|
+| 光宝科技（上海）有限公司 | 光宝科技（上海）有限公司 | 100.00 | 节能设备之生产及销售 |
+| 光宝科技（上海）有限公司 | LITE-ON AUTOMOTIVE ELECTRONICS MEXICO, S.A. DE C.V. | 100.00 | 生产、制造、销售、进口与出口光电装置、关键电子零组件、通讯装置、资讯科技装置、半导体应用产品、一般照明装置、车用电子产品、再生能源产品与服务、汽车用系统与维修 |
+| LITE-ON POWER ELECTRONIC INDIA PRIVATE LIMITED | LITE-ON POWER ELECTRONIC INDIA PRIVATE LIMITED | 100.00 | 製造及销售手机充电器及电源供应产品 |
+| 光宝科技（上海）有限公司 | 光宝智慧能源（盐城）有限公司 | 100.00 | 路灯、交通信号灯、室内外景观灯、室内外照明灯、新型电子元器件、零件国内采购、批发、进出口业务及安装施工 |
+| LTC GROUP LTD. | LTC GROUP LTD. | 100.00 | 一般投资业 |
+| Lite-On Technology (Europe) B.V. | Lite-On (Finland) Oy | 100.00 | 從事行動電話模具、组装线设计、製造与销售 |
+| Lite-On (Finland) Oy | Lite-On Mobile Oyj | 100.00 | 從事行動電話模具、组装线设计、製造与销售 |
+| Lite-On Electronics Company Limited | Lite-On Electronics Company Limited | 100.00 | 一般投资业 |
+| YET FOUNDATE LIMITED | YET FOUNDATE LIMITED | 100.00 | 橡（塑）胶制品及电脑週邊之製造 |
+| FORDGOOD ELECTRONIC LIMITED | FORDGOOD ELECTRONIC LIMITED | 100.00 | 進出口貿易、製造、控股買賣不動產、代理等業務 |
+| G&W TECHNOLOGY (BVI) LIMITED | G&W TECHNOLOGY (BVI) LIMITED | 50.00 | 不動產買賣 |
+| G&W TECHNOLOGY (BVI) LIMITED | G&W TECHNOLOGY (BVI) LIMITED | 50.00 | 租賃業 |
+| EAGLE ROCK INVESTMENT LTD. | EAGLE ROCK INVESTMENT LTD. | 100.00 | 生產銷售各種電腦、電子、家電用變壓器及週邊配套材料 |
+| HIGH YIELD GROUP CO., LTD. | HIGH YIELD GROUP CO., LTD. | 100.00 | 光碟機銷售 |
+
+### 结论
+以上财务报告提供了投资公司及其子公司的持股比例和说明。报告涵盖了多个投资公司及其在不同子公司的持股情况，包括生产、销售、进出口业务、组装线设计、租赁等业务。报告还特别提到了一些子公司在不同领域的具体业务，如光电产品、汽车电子、电源供应产品、电脑周边产品等。

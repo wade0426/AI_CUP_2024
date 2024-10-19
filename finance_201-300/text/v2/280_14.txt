@@ -1,0 +1,27 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司 | 子公司 | 業務性質 | 111年3月31日 | 110年12月31日 | 110年3月31日 | 說明 |
+|----------|--------|----------|--------------|---------------|--------------|------|
+| DET      | Delta Green Industrial (Thailand) Co., Ltd. | 不斷電式電源供應器、太陽能逆變器、電動車充電器、資料中心之整合、銷售、貿易、安裝及服務 | 100.00 | 100.00 | 100.00 |  |
+| Delta Electronics (Vietnam) Company Limited | Delta Electronics (Vietnam) Company Limited | 電子產品買賣 | 100.00 | 100.00 | 100.00 |  |
+| DET、Delta Energy Systems (Singapore) PTE. LTD. | DELTA ELECTRONICS INDIA MANUFACTURING PRIVATE LIMITED | 電子產品之製造及銷售 | 100.00 | 100.00 | 100.00 | (注9) |
+| DET International Holding Limited | DET Logistics (USA) Corporation | 提供美國境內物流服務 | 100.00 | 100.00 | 100.00 |  |
+| Delta Energy Systems (Germany) GmbH | Delta Energy Systems (Germany) GmbH | 電子產品研發、行銷及銷售業務 | 100.00 | 100.00 | 100.00 |  |
+| Delta Energy Systems (India) Private Ltd. | Delta Energy Systems (India) Private Ltd. | 電子產品行銷及銷售業務 | 100.00 | 100.00 | 100.00 |  |
+| DET International Holding Limited、Delta Energy Systems (Slovakia) s.r.o. | Delta Electronics (Slovakia) s.r.o. | 電源供應器、電源系統、OEM電源系統製造及銷售業務 | 100.00 | 100.00 | 100.00 |  |
+| DET International Holding Limited | Delta Energy Systems (Romania) S.R.L. | 研發 | 100.00 | 100.00 | 100.00 |  |
+
+#### 文本输出
+
+| 投资公司 | 子公司 | 業務性質 | 111年3月31日 | 110年12月31日 | 110年3月31日 | 說明 |
+|----------|--------|----------|--------------|---------------|--------------|------|
+| DET      | Delta Green Industrial (Thailand) Co., Ltd. | 不斷電式電源供應器、太陽能逆變器、電動車充電器、資料中心之整合、銷售、貿易、安裝及服務 | 100.00 | 100.00 | 100.00 |  |
+| Delta Electronics (Vietnam) Company Limited | Delta Electronics (Vietnam) Company Limited | 電子產品買賣 | 100.00 | 100.00 | 100.00 |  |
+| DET、Delta Energy Systems (Singapore) PTE. LTD. | DELTA ELECTRONICS INDIA MANUFACTURING PRIVATE LIMITED | 電子產品之製造及銷售 | 100.00 | 100.00 | 100.00 | (注9) |
+| DET International Holding Limited | DET Logistics (USA) Corporation | 提供美國境內物流服務 | 100.00 | 100.00 | 100.00 |  |
+| Delta Energy Systems (Germany) GmbH | Delta Energy Systems (Germany) GmbH | 電子產品研發、行銷及銷售業務 | 100.00 | 100.00 | 100.00 |  |
+| Delta Energy Systems (India) Private Ltd. | Delta Energy Systems (India) Private Ltd. | 電子產品行銷及銷售業務 | 100.00 | 100.00 | 100.00 |  |
+| DET International Holding Limited、Delta Energy Systems (Slovakia) s.r.o. | Delta Electronics (Slovakia) s.r.o. | 電源供應器、電源系統、OEM電源系統製造及銷售業務 | 100.00 | 100.00 | 100.00 |  |
+| DET International Holding Limited | Delta Energy Systems (Romania) S.R.L. | 研發 | 100.00 | 100.00 | 100.00 |  |

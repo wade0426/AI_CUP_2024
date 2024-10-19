@@ -1,0 +1,52 @@
+### 财务报告
+
+#### 投资公司名称
+| 投资公司名称 | 子公司名称 | 持股比例 | 说明 |
+|--------------|------------|----------|------|
+| NHOA S.A.     | Comores Energie | 100.0 | 可再生能源和储能系统建设 |
+| NHOA S.A.     | NHOA CALLIOPE S.R.L. | 100.0 | 投资控股 |
+| NHOA S.A.     | NHOA CORPORATE S.R.L. | 100.0 | 投资控股 |
+| NHOA CORPORATE S.R.L. | ATLANTE S.R.L. | 100.0 | 再生能源与充电事业 |
+| NHOA CORPORATE S.R.L. | FREE2MOVE ESOLUTIONS S.P.A. | 49.9 | 電動汽車充電設備 |
+| NHOA ENERGY S.R.L. | NHOA AMERICAS LLC | 100.0 | 可再生能源和储能系统建设 |
+| NHOA ENERGY S.R.L. | NHOA AUSTRALIA PTY LTD | 100.0 | 可再生能源和储能系统建设 |
+| NHOA ENERGY S.R.L. | NHOA LATAM S.A.C. | 100.0 | 可再生能源和储能系统建设 |
+| NHOA ENERGY S.R.L. | 台湾新地平线能源有限公司 | 100.0 | 可再生能源和储能系统建设 |
+| NHOA ENERGY S.R.L. | NHOA UK LTD | 100.0 | 可再生能源和储能系统建设 |
+| NHOA CALLIOPE S.R.L. | ATLANTE S.R.L. | 100.0 | 再生能源与充电事业 |
+| NHOA AMERICAS LLC | NHOA LATAM S.A.C. | 100.0 | 可再生能源和储能系统建设 |
+| ATLANTE S.R.L. | ATLANTE IBERIA S.R.L. | 100.0 | 再生能源与充电事业 |
+| ATLANTE S.R.L. | ATLANTE FRANCE S.A.S. | 100.0 | 再生能源与充电事业 |
+| ATLANTE S.R.L. | ATLANTE INFRA PORTUGAL S.A. | 100.0 | 再生能源与充电事业 |
+| ATLANTE S.R.L. | ATLANTE ITALIA S.R.L. | 100.0 | 再生能源与充电事业 |
+| ATLANTE S.R.L. | ATLANTE Fast Charging Portugal LDA | 100.0 | 再生能源与充电事业 |
+| ATLANTE TOPCO S.R.L. | ATLANTE S.R.L. | 100.0 | 再生能源与充电事业 |
+| FREE2MOVE ESOLUTIONS S.P.A. | FREE2MOVE ESOLUTIONS FRANCE S.A.S. | 100.0 | 電動汽車充電設備 |
+| FREE2MOVE ESOLUTIONS S.P.A. | FREE2MOVE ESOLUTIONS SPAIN S.L.U. | 100.0 | 電動汽車充電設備 |
+| FREE2MOVE ESOLUTIONS S.P.A. | FREE2MOVE ESOLUTIONS NORTH AMERICA LLC | 100.0 | 電動汽車充電設備 |
+| FREE2MOVE ESOLUTIONS S.P.A. | FREE2MOVE ESOLUTIONS UK LTD | 100.0 | 電動汽車充電設備 |
+| 能元科技股份有限公司 | E-One Holdings Ltd. | 100.0 | 投资控股 |
+| 能元科技股份有限公司 | 三元能源科技股份有限公司（三元能源公司） | 100.0 | 投资控股 |
+| E-One Holdings Ltd. | E-One Moli Holdings (Canada) Ltd. | 100.0 | 投资控股 |
+| E-One Moli Holdings (Canada) Ltd. | E-One Moli Energy (Canada) Ltd. | 100.0 | 投资控股 |
+| TCCIH | 隆昌投资有限公司 | 100.0 | 投资控股 |
+| TCCIH | Upper Value Investments Ltd.（UPPV） | 100.0 | 投资控股 |
+| TCCIH | TCC Hong Kong Cement (BVI) Holdings Ltd. | 100.0 | 投资控股 |
+| TCCIH | Ulexite Investments Ltd. | 100.0 | 投资控股 |
+| TCCIH | 台泥循环能源公司 | 100.0 | 投资控股 |
+| TCCIH | TCC Dutch | 100.0 | 投资控股 |
+| 隆昌投资有限公司 | Prime York Ltd. | 100.0 | 投资控股 |
+
+#### 财务数据
+| 项目 | 112年3月31日 | 111年12月31日 | 111年3月31日 |
+|------|--------------|---------------|--------------|
+| 庫存现金 | $ 1,777 | $ 1,750 | $ 2,137 |
+| 活期存款 | 25,699,639 | 33,243,220 | 39,578,483 |
+| 总计 | $ 77,674,551 | $ 91,065,529 | $ 68,517,225 |
+
+#### 说明
+- 本报告为NHOA S.A.及其子公司在2011年和2012年的财务状况和经营成果的概述。
+- 报告中列出了NHOA S.A.及其子公司的主要投资和持股比例。
+- 每个子公司的业务性质和持股比例在表格中详细列出。
+- 报告中还提供了库存现金、活期存款等财务数据的比较。
+- 说明部分提供了对报告中数据的简要解释和背景信息。

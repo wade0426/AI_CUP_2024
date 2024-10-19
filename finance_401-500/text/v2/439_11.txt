@@ -1,0 +1,31 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司 | 子公司 | 業務性質 | 112年 | 111年 | 111年 |
+|----------|--------|----------|-------|-------|-------|
+| DET International Holding B.V.、Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Slovakia) s.r.o. | 電源供應器、電源系統、OEM電源系統製造及銷售業務 | 100.00 | 100.00 | 100.00 |
+| DET International Holding B.V. | Delta Energy Systems (Romania) S.R.L. | 研發 | 100.00 | 100.00 | 100.00 |
+| Delta Energy Systems (Germany) GmbH | Delta Energy Systems Property (Germany) GmbH | 產權業務 | 100.00 | 100.00 | 100.00 |
+| Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Holdings) Australia Pty Ltd | 再生能源產品行銷及銷售業務 | 100.00 | 100.00 | 100.00 |
+| Delta Electronics India Pvt. Ltd. | Delta Electronics (Myanmar) Co., Ltd. | 非通訊電源系統及不斷電式電源供應器之製造、行銷及銷售不斷電式電源供應器 | 100.00 | 100.00 | 100.00 |
+| Delta Electronics (UK) Ltd. | Delta Energy Systems LLC | 機械及運用於CMP製程之電子產品之製造 | 100.00 | 100.00 | 100.00 |
+| Delta Greentech (Netherlands) B.V. | Delta Greentech (Netherlands) B.V. | 電源系統之行銷及銷售 | 100.00 | 100.00 | 100.00 |
+| Eltek s.r.o. | Eltek s.r.o. | 製造通訊電源系統 | 100.00 | 100.00 | 100.00 |
+| Delta Electronics (Automotive) Americas Inc. | Delta Electronics (Automotive) Americas Inc. | 研發汽車動力及牽引逆變器 | 100.00 | 100.00 | 100.00 |
+| DIH/DEN | DIH/DEN | 專用照明系統及設施之設計及生產 | 100.00 | 100.00 | 100.00 |
+
+#### 文本输出
+
+| 投資公司 | 子公司 | 業務性質 | 112年 | 111年 | 111年 |
+|----------|--------|----------|-------|-------|-------|
+| DET International Holding B.V.、Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Slovakia) s.r.o. | 電源供應器、電源系統、OEM電源系統製造及銷售業務 | 100.00 | 100.00 | 100.00 |
+| DET International Holding B.V. | Delta Energy Systems (Romania) S.R.L. | 研發 | 100.00 | 100.00 | 100.00 |
+| Delta Energy Systems (Germany) GmbH | Delta Energy Systems Property (Germany) GmbH | 產權業務 | 100.00 | 100.00 | 100.00 |
+| Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Holdings) Australia Pty Ltd | 再生能源產品行銷及銷售業務 | 100.00 | 100.00 | 100.00 |
+| Delta Electronics India Pvt. Ltd. | Delta Electronics (Myanmar) Co., Ltd. | 非通訊電源系統及不斷電式電源供應器之製造、行銷及銷售不斷電式電源供應器 | 100.00 | 100.00 | 100.00 |
+| Delta Electronics (UK) Ltd. | Delta Energy Systems LLC | 機械及運用於CMP製程之電子產品之製造 | 100.00 | 100.00 | 100.00 |
+| Delta Greentech (Netherlands) B.V. | Delta Greentech (Netherlands) B.V. | 電源系統之行銷及銷售 | 100.00 | 100.00 | 100.00 |
+| Eltek s.r.o. | Eltek s.r.o. | 製造通訊電源系統 | 100.00 | 100.00 | 100.00 |
+| Delta Electronics (Automotive) Americas Inc. | Delta Electronics (Automotive) Americas Inc. | 研發汽車動力及牽引逆變器 | 100.00 | 100.00 | 100.00 |
+| DIH/DEN | DIH/DEN | 專用照明系統及設施之設計及生產 | 100.00 | 100.00 | 100.00 |

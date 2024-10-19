@@ -1,0 +1,34 @@
+根据提供的图像内容，以下是提取的文本和表格数据：
+
+### 文本内容
+- (注6) Eltekenergy International de México, S. de R.L. de C.V.与DEIL-MX决议民国111年2月1日为合并基准日，存续公司为DEIL-MX，已于民国111年12月完成合并程序。
+- (注7) Delta Electronics (H.K.) Ltd.分别于民国111年及民国110年12月向Delta Networks (HK) Limited购买其持有之达创科技(东莞)有限公司49%及51%股权。
+- (注8) 民国111年度新成立或并购取得之公司。
+- (注9) Boom Treasure Limited于民国112年6月发行新股予Delta Electronics (Netherlands) B.V.以取得其持有之Delta Greentech SGP Pte. Ltd.100%股权。
+- (注10) Delta International Holding Limited B.V.于民国112年5月向Delta Electronics (Netherlands) B.V.购买其持有之Amerlux, LLC 100%股权。
+- (注11) Drake Investment (HK) Limited于民国112年7月发行新股予Delta Electronics (Netherlands) B.V.以取得其持有的Boom Treasure Limited 100%股权。
+- (注12) Delta Electronics (H.K.) Ltd.于民国111年12月向CYNTEC HOLDING (HK) LIMITED购买其持有之吴江华丰电子科技有限公司100%股权。
+- (注13) 原名为ELTEK POWER FRANCE SAS于民国111年11月更名为DELTA ELECTRONICS (France) SAS。
+- (注14) 于民国111年12月完成解散清算。
+- (注15) 原名DET International Holding Limited于民国111年12月更名为DET International Holding B.V.。
+- (注16) 原名Sam tartess Investments sp. z o.o.于民国111年10月更名为March Networks Poland Sp. Z o.o.。
+- (注17) 于民国112年1月完成解散清算。
+- (注18) 于民国112年3月完成解散清算。
+- (注19) 原名ELTEK AS于民国112年3月更名为DELTA ELECTRONICS (NORWAY) AS。
+- (注20) 于民国112年3月处分，不再对其具有控制力。
+- (注21) Delta International Holding Limited B.V.于民国112年3月向Delta Electronics (Netherlands) B.V.购买其持有之Delta America Ltd.及Trihedral Engineering Limited 100%股权。
+
+### Markdown表格格式
+| 项目 | 112年3月31日 | 111年12月31日 | 111年3月31日 |
+|------|--------------|---------------|--------------|
+| 庫存现金 | $ 1,777 | $ 1,750 | $ 2,137 |
+| 活期存款 | 25,699,639 | 33,243,220 | 39,578,483 |
+| 总计 | $ 77,674,551 | $ 91,065,529 | $ 68,517,225 |
+
+### 注意事项
+- 在表格中，定期验证与下划线和特殊符号相关的关键术语如"总计"至关重要。
+- 输入图像描述：财务报告页面的图像，包含标题、多个表格和周围的解释性文本。
+- 特别注意确保数值的准确性和上下文的保留，尤其是在财务数据表示方面。
+- 智能处理潜在的图像噪声或失真，以保持数据的完整性。
+- 请确保提取的数据准确反映财务报告中的表格数据和文本，提供超出标准OCR通常能力的全面输出。
+- 表格资料将以Markdown表格格式呈现，方便后续处理、分析和与RAG结合使用。

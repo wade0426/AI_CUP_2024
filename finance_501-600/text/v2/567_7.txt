@@ -1,0 +1,37 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司 | 子公司 | 業務性質 | 112年3月31日 | 111年12月31日 | 111年3月31日 | 說明 |
+|----------|--------|----------|--------------|---------------|--------------|------|
+| 51.      | ELTEK MEA DMCC、DELTA ELECTRONICS (NORWAY) AS | ELTEK WEST AFRICA LIMITED | 經營電源供應器之銷售業務 | - | - | 100.00 (註2) (註18) |
+| 52.      | DELTA ELECTRONICS (NORWAY) AS | Eltek Italia S.r.l. | 經營電源供應器等之銷售業務 | - | 100.00 | 100.00 (註2) (註21) |
+| 53.      | Delta Electronics (Sweden) AB | " | 100.00 | 100.00 | 100.00 (註1) (註2) |
+| 54.      | DELTA ELECTRONICS (UK) LTD | " | 100.00 | 100.00 | 100.00 (註1) (註2) (註13) |
+| 55.      | " | OOO Eltek | 經營電源供應器等之銷售業務及系統建置業務 | 100.00 | 100.00 | 100.00 (註1) (註2) |
+| 56.      | DELTA Electronics (Germany) GmbH | DELTA Montage GmbH | 經營電源供應器之安裝及維修服務業務 | 100.00 | 100.00 | 100.00 (註1) (註2) (註15) |
+| 57.      | DEIL-SG | ELTEK POWER INCORPORATED | 經營電源供應器等之銷售業務 | 100.00 | 100.00 | 100.00 (註1) (註2) |
+| 58.      | " | ELTEK POWER CO., LTD. | " | 100.00 | 100.00 | 100.00 (註1) (註2) (註3) |
+| 59.      | " | ELTEK POWER (CAMBODIA) LTD | " | 100.00 | 100.00 | 100.00 (註1) (註2) |
+| 60.      | " | ELTEK POWER (MALAYSIA) SDN. BHD. | " | 100.00 | 100.00 | 100.00 (註1) (註2) (註4) |
+| 61.      | DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (USA) INC. | 經營電源供應器等之製造及銷售業務 | 100.00 | 100.00 | 100.00 |
+| 62.      | DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (ARGENTINA) S.R.L. | 經營電源供應器等之銷售業務 | 100.00 | 100.00 | 100.00 (註1) (註2) |
+
+#### 文本输出
+
+以下是财务报告表格数据的文本输出：
+
+| 投资公司 | 子公司 | 業務性質 | 112年3月31日 | 111年12月31日 | 111年3月31日 | 說明 |
+|----------|--------|----------|--------------|---------------|--------------|------|
+| 51.      | ELTEK MEA DMCC、DELTA ELECTRONICS (NORWAY) AS | ELTEK WEST AFRICA LIMITED | 經營電源供應器之銷售業務 | - | - | 100.00 (註2) (註18) |
+| 52.      | DELTA ELECTRONICS (NORWAY) AS | Eltek Italia S.r.l. | 經營電源供應器等之銷售業務 | - | 100.00 | 100.00 (註2) (註21) |
+| 53.      | Delta Electronics (Sweden) AB | " | 100.00 | 100.00 | 100.00 (註1) (註2) |
+| 54.      | DELTA ELECTRONICS (UK) LTD | " | 100.00 | 100.00 | 100.00 (註1) (註2) (註13) |
+| 55.      | " | OOO Eltek | 經營電源供應器等之銷售業務及系統建置業務 | 100.00 | 100.00 | 100.00 (註1) (註2) |
+| 56.      | DELTA Electronics (Germany) GmbH | DELTA Montage GmbH | 經營電源供應器之安裝及維修服務業務 | 100.00 | 100.00 | 100.00 (註1) (註2) (註15) |
+| 57.      | DEIL-SG | ELTEK POWER INCORPORATED | 經營電源供應器等之銷售業務 | 100.00 | 100.00 | 100.00 (註1) (註2) |
+| 58.      | " | ELTEK POWER CO., LTD. | " | 100.00 | 100.00 | 100.00 (註1) (註2) (註3) |
+| 59.      | " | ELTEK POWER (CAMBODIA) LTD | " | 100.00 | 100.00 | 100.00 (註1) (註2) |
+| 60.      | " | ELTEK POWER (MALAYSIA) SDN. BHD. | " | 100.00 | 100.00 | 100.00 (註1) (註2) (註4) |
+| 61.      | DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (USA) INC. | 經營電源供應器等之製造及銷售業務 | 100.00 | 100.00 | 100.00 |
+| 62.      | DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (ARGENTINA) S.R.L. | 經營電源供應器等之銷售業務 | 100.00 | 100.00 | 100.00 (註1) (註2) |

@@ -1,0 +1,34 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司编号 | 投资公司名称 | 子公司名称 | 业务性质 | 合并所持股权百分比 |
+|--------------|--------------|------------|----------|-------------------|
+| 102          | DET International Holding B.V.、Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Slovakia) s.r.o. | 电源供应器、电源系统、OEM电源系统制造及销售业务 | 100.00 |
+| 103          | DET International Holding B.V. | Delta Energy Systems (Romania) S.R.L. | 研发 | 100.00 |
+| 104          | Delta Energy Systems (Germany) GmbH | Delta Energy Systems Property (Germany) GmbH | 产权业务 | 100.00 |
+| 105          | Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Holdings) Australia Pty Ltd | 再生能源产品销售及销售业务 | 100.00 |
+| 106          | Delta Electronics India Pvt. Ltd. | 非通讯电源系统及不断电式电源供应器之制造、销售及销售不断电式电源供应器 | 100.00 |
+| 107          | Delta Electronics (Myanmar) Co., Ltd. | 機械及运用於CMP製程之電子产品之製造 | 100.00 |
+| 108          | Delta Energy Systems (UK) Ltd. | 電子产品之研发 | 100.00 |
+| 109          | Delta Greentech (Netherlands) B.V. | 投资事业 | 100.00 |
+| 110          | Delta Greentech (Netherlands) LLC | Delta Energy Systems | 電源系统之销售及销售 | 100.00 |
+| 111          | Eltek s.r.o. | 製造通讯电源系统 | 100.00 |
+| 112          | Delta Electronics (Automotive) Americas Inc. | 研发汽车动力及牵引逆变器 | 100.00 |
+| 113          | DEN | Amerlux, LLC (Amerlux) | 專用照明系统及设施之设计及生产 | 100.00 |
+
+#### 文本输出
+
+投资公司编号 | 投资公司名称 | 子公司名称 | 业务性质 | 合并所持股权百分比
+102 | DET International Holding B.V.、Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Slovakia) s.r.o. | 电源供应器、电源系统、OEM电源系统制造及销售业务 | 100.00
+103 | DET International Holding B.V. | Delta Energy Systems (Romania) S.R.L. | 研发 | 100.00
+104 | Delta Energy Systems (Germany) GmbH | Delta Energy Systems Property (Germany) GmbH | 产权业务 | 100.00
+105 | Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Holdings) Australia Pty Ltd | 再生能源产品销售及销售业务 | 100.00
+106 | Delta Electronics India Pvt. Ltd. | 非通讯电源系统及不断电式电源供应器之制造、销售及销售不断电式电源供应器 | 100.00
+107 | Delta Electronics (Myanmar) Co., Ltd. | 機械及运用於CMP製程之電子产品之製造 | 100.00
+108 | Delta Energy Systems (UK) Ltd. | 電子产品之研发 | 100.00
+109 | Delta Greentech (Netherlands) B.V. | 投资事业 | 100.00
+110 | Delta Greentech (Netherlands) LLC | Delta Energy Systems | 電源系统之销售及销售 | 100.00
+111 | Eltek s.r.o. | 製造通讯电源系统 | 100.00
+112 | Delta Electronics (Automotive) Americas Inc. | 研发汽车动力及牵引逆变器 | 100.00
+113 | DEN | Amerlux, LLC (Amerlux) | 專用照明系统及设施之设计及生产 | 100.00

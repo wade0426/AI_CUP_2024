@@ -1,0 +1,60 @@
+### 投资公司 子公司 持股百分比(%)
+
+| 项目 | 112年9月30日 | 111年12月31日 | 111年9月30日 | 说明 |
+|------|--------------|---------------|--------------|------|
+| 永华投资 Evergreen Marine Corp. (Malaysia) Sdn Bhd (EGM) | 100.00 | 100.00 | 100.00 |  |
+| 永华投资 Evergreen Marine (Hong Kong) Ltd. (EGH) | 1.00 | 1.00 | 1.00 | 註12 |
+| 永华投资 Evergreen Shipping Agency (Vietnam) Corp. (EGV) | 100.00 | 100.00 | 100.00 |  |
+| EGH | 長照(上海)企業管理諮詢有限公司（長照上海） | 100.00 | 100.00 | 100.00 |  |
+| EGH | 長照(寧波)企業管理諮詢有限公司（長照寧波） | 100.00 | 100.00 | 100.00 |  |
+| EGH | 長照(深圳)企業管理諮詢有限公司（長照深圳） | 100.00 | 100.00 | 100.00 |  |
+| EGH | 長照(青島)企業管理諮詢有限公司（長照青島） | 100.00 | 100.00 | 100.00 |  |
+| EGH | 長榮國際船務(深圳)有限責任公司(長榮國際船務深圳) | 65.00 | 65.00 | 65.00 |  |
+| EGH | 長華國際物流(天津)有限公司(長華天津) | 20.00 | 20.00 | 20.00 | 註12 |
+| EGH | Evergreen Shipping Services (Cambodia) Co., Ltd. (EKH) | 100.00 | 100.00 | 100.00 |  |
+| EGH | Evergreen Shipping Agency (Peru) S.A.C. (EPE) | 60.00 | 60.00 | 60.00 |  |
+| EGH | Evergreen Shipping Agency (Colombia) S.A.S. (ECO) | 75.00 | 75.00 | 75.00 |  |
+| EGH | Evergreen Shipping Agency (Chile) Spa (ECL) | 60.00 | 60.00 | 60.00 |  |
+| EGH | Evergreen Shipping Agency Mexico S.A. de C.V. (EMX) | 60.00 | 60.00 | 60.00 |  |
+
+### Markdown表格格式
+
+```markdown
+| 投资公司 | 子公司 | 持股百分比(%) |
+|----------|--------|---------------|
+| 永华投资 | Evergreen Marine Corp. (Malaysia) Sdn Bhd (EGM) | 100.00 |
+| 永华投资 | Evergreen Marine (Hong Kong) Ltd. (EGH) | 1.00 |
+| 永华投资 | Evergreen Shipping Agency (Vietnam) Corp. (EGV) | 100.00 |
+| EGH | 長照(上海)企業管理諮詢有限公司（長照上海） | 100.00 |
+| EGH | 長照(寧波)企業管理諮詢有限公司（長照寧波） | 100.00 |
+| EGH | 長照(深圳)企業管理諮詢有限公司（長照深圳） | 100.00 |
+| EGH | 長照(青島)企業管理諮詢有限公司（長照青島） | 100.00 |
+| EGH | 長榮國際船務(深圳)有限責任公司(長榮國際船務深圳) | 65.00 |
+| EGH | 長華國際物流(天津)有限公司(長華天津) | 20.00 |
+| EGH | Evergreen Shipping Services (Cambodia) Co., Ltd. (EKH) | 100.00 |
+| EGH | Evergreen Shipping Agency (Peru) S.A.C. (EPE) | 60.00 |
+| EGH | Evergreen Shipping Agency (Colombia) S.A.S. (ECO) | 75.00 |
+| EGH | Evergreen Shipping Agency (Chile) Spa (ECL) | 60.00 |
+| EGH | Evergreen Shipping Agency Mexico S.A. de C.V. (EMX) | 60.00 |
+```
+
+### 文本输出
+
+投资公司 子公司 持股百分比(%)
+
+| 项目 | 112年9月30日 | 111年12月31日 | 111年9月30日 | 说明 |
+|------|--------------|---------------|--------------|------|
+| 永华投资 Evergreen Marine Corp. (Malaysia) Sdn Bhd (EGM) | 100.00 | 100.00 | 100.00 |  |
+| 永华投资 Evergreen Marine (Hong Kong) Ltd. (EGH) | 1.00 | 1.00 | 1.00 | 註12 |
+| 永华投资 Evergreen Shipping Agency (Vietnam) Corp. (EGV) | 100.00 | 100.00 | 100.00 |  |
+| EGH | 長照(上海)企業管理諮詢有限公司（長照上海） | 100.00 | 100.00 | 100.00 |  |
+| EGH | 長照(寧波)企業管理諮詢有限公司（長照寧波） | 100.00 | 100.00 | 100.00 |  |
+| EGH | 長照(深圳)企業管理諮詢有限公司（長照深圳） | 100.00 | 100.00 | 100.00 |  |
+| EGH | 長照(青島)企業管理諮詢有限公司（長照青島） | 100.00 | 100.00 | 100.00 |  |
+| EGH | 長榮國際船務(深圳)有限責任公司(長榮國際船務深圳) | 65.00 | 65.00 | 65.00 |  |
+| EGH | 長華國際物流(天津)有限公司(長華天津) | 20.00 | 20.00 | 20.00 | 註12 |
+| EGH | Evergreen Shipping Services (Cambodia) Co., Ltd. (EKH) | 100.00 | 100.00 | 100.00 |  |
+| EGH | Evergreen Shipping Agency (Peru) S.A.C. (EPE) | 60.00 | 60.00 | 60.00 |  |
+| EGH | Evergreen Shipping Agency (Colombia) S.A.S. (ECO) | 75.00 | 75.00 | 75.00 |  |
+| EGH | Evergreen Shipping Agency (Chile) Spa (ECL) | 60.00 | 60.00 | 60.00 |  |
+| EGH | Evergreen Shipping Agency Mexico S.A. de C.V. (EMX) | 60.00 | 60.00 | 60.00 |  |

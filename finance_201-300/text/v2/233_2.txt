@@ -1,0 +1,34 @@
+关系人名称 | 与合并公司之关系
+------------ | -------------
+Colon Container Terminal S.A. (CCT) | 关联企业
+PT. Evergreen Shipping Agency Indonesia (EMI) | 关联企业
+Evergreen Shipping Agency Co. (U.A.E) LLC (UAE) | 关联企业
+Evergreen Shipping Agency Lanka (Private) Limited (ELK) | 关联企业
+VIP Greenport Joint Stock Company (VGP) | 关联企业
+Ics Depot Services Sdn. Bhd. (IDS) | 关联企业
+上海上港盛荣国际集装箱发展有限公司 (SSICD) | 其他关系人
+长荣钢铁(股)公司 (长荣钢铁) | 其他关系人
+长荣国际(股)公司 (长荣国际) | 其他关系人
+长荣航勤(股)公司 (长荣航勤) | 其他关系人
+财团法人张荣发慈善基金会 (张荣发慈善基金会) | 其他关系人
+财团法人张荣发基金会 (张荣发基金会) | 其他关系人
+长友营造(股)公司 (长友营造) | 其他关系人
+长荣航太科技(股)公司 (长荣航太) | 其他关系人
+长荣物流(股)公司 (长荣物流) | 其他关系人
+长荣空厨(股)公司 (长荣空厨) | 其他关系人
+长荣空运仓储(股)公司 (长荣空储) | 其他关系人
+中央再保险股份有限公司 (中再保) | 其他关系人
+Evergreen International S.A. (EIS) | 其他关系人
+Evergreen Marine (Singapore) Pte. Ltd. (EMS) | 其他关系人
+Gaining Enterprise S.A. (GESA) | 其他关系人
+Evergreen Insurance Company Ltd. (EINS) | 其他关系人
+Evergreen Shipping Agency (America) Corporation (EGA) | 其他关系人
+Evergreen Shipping Agency (Japan) Corporation (EGJ) | 其他关系人
+Evergreen International Myanmar Co., Ltd. (EIM) | 其他关系人
+Advanced Business Process, Inc. (ABPI) | 其他关系人
+Evergreen Logistics Philippines Corp. (ELCP) | 其他关系人
+Round the World S.A. (RTW) | 其他关系人
+Evergreen Logistics Co., Ltd. (ELCSH) | 其他关系人
+Evergreen Logistics (HK) Ltd. (ELCHK) | 其他关系人
+
+-60-

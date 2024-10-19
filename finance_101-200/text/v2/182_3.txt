@@ -1,0 +1,20 @@
+### 财务报告表格
+
+| 投资公司名称 | 子公司名称 | 业务性质 | 111年3月31日 | 110年12月31日 | 110年3月31日 | 说明 |
+|--------------|------------|----------|--------------|---------------|--------------|------|
+| Leading Enterprises Limited | Realtek Semiconductor (Japan) Corp. | 资讯收集与技术服务 | 100% | 100% | 100% | 註3 |
+| Leading Enterprises Limited | Circon Universal Inc. | 对各种事业之投资 | 100% | 100% | 100% | 註3 |
+| Amber Universal Inc. | Realtek Semiconductor (Hong Kong) Limited | 资讯及技术服务 | 100% | 100% | 100% | 註3 |
+| Amber Universal Inc. | 瑞昱半导体(深圳)有限公司 | 研发与技术服务 | 100% | 100% | 100% | 註3 |
+| Empsonic Enterprises Inc. | 瑞晟微电子(苏州)有限公司 | '' | 100% | 100% | 100% | 註3 |
+| Talent Eagle Enterprise Inc. | Ubilinx Technology Inc. | '' | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | Cortina Access Inc. | '' | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | 科缔纳科技股份有限公司 | '' | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | 科缔纳网络系统(上海)有限公司 | '' | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | Empsonic Enterprises Inc. | 对各种事业之投资 | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | Realtek Viet Nam Co., Ltd. | 研发与技术服务 | 100% | 100% | 100% | 註3 |
+
+### 总计
+| 项目 | 111年3月31日 | 110年12月31日 | 110年3月31日 |
+|------|--------------|---------------|--------------|
+| 总计 | $ 77,674,551 | $ 91,065,529 | $ 68,517,225 |

@@ -1,0 +1,35 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司名称 | 子公司名称 | 业务性质 | 112年9月30日 | 111年12月31日 | 111年9月30日 | 说明 |
+|--------------|------------|----------|--------------|---------------|--------------|------|
+| Realtek Singapore Private Limited | 科缔纳网络系统 (上海)有限公司 | " | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | Empsonic Enterprises Inc. | 对各种事业之投资 | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | Realtek Viet Nam Co., Ltd. | 研发与技术服务 | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | 合肥沛睿微电子股份有限公司 | 研究、开发、生产、制造、销售各种积体电路 | 19% | 19% | 19% | 註3 |
+| Realtek Singapore Private Limited | Leading Enterprises Limited | 对各种事业之投资 | 100% | 100% | - | 註1 |
+| Realtek Singapore Private Limited | Bluocean Inc. | " | 100% | 100% | - | 註1 |
+| Realtek Singapore Private Limited | Talent Eagle Enterprise Inc. | " | 100% | 100% | - | 註1 |
+| 瑞晟微电子 (苏州)有限公司 | 合肥沛睿微电子股份有限公司 | 研究、开发、生产、制造、销售各种积体电路 | 81% | 81% | 81% | 註3 |
+| 瑞晟微电子 (苏州)有限公司 | 蘇州磐聯集成电路科技股份有限公司 | " | 80% | 80% | 80% | 註3 |
+| 瑞昱半导体 (深圳)有限公司 | 蘇州磐聯集成电路科技股份有限公司 | " | 20% | 20% | 20% | 註3 |
+| Bluocean Inc. | Realtek Semiconductor (Malaysia) Sdn. Bhd. | 研发与技术服务 | 100% | 100% | 100% | 註3 |
+| Bluocean Inc. | Realtek Korea Inc. | " | 100% | 100% | 100% | 註3 |
+
+#### 文本输出
+
+投资公司名称 | 子公司名称 | 业务性质 | 112年9月30日 | 111年12月31日 | 111年9月30日 | 说明
+--------------|------------|----------|--------------|---------------|--------------|------
+Realtek Singapore Private Limited | 科缔纳网络系统 (上海)有限公司 | " | 100% | 100% | 100% | 註3
+Realtek Singapore Private Limited | Empsonic Enterprises Inc. | 对各种事业之投资 | 100% | 100% | 100% | 註3
+Realtek Singapore Private Limited | Realtek Viet Nam Co., Ltd. | 研发与技术服务 | 100% | 100% | 100% | 註3
+Realtek Singapore Private Limited | 合肥沛睿微电子股份有限公司 | 研究、开发、生产、制造、销售各种积体电路 | 19% | 19% | 19% | 註3
+Realtek Singapore Private Limited | Leading Enterprises Limited | 对各种事业之投资 | 100% | 100% | - | 註1
+Realtek Singapore Private Limited | Bluocean Inc. | " | 100% | 100% | - | 註1
+Realtek Singapore Private Limited | Talent Eagle Enterprise Inc. | " | 100% | 100% | - | 註1
+瑞晟微电子 (苏州)有限公司 | 合肥沛睿微电子股份有限公司 | 研究、开发、生产、制造、销售各种积体电路 | 81% | 81% | 81% | 註3
+瑞晟微电子 (苏州)有限公司 | 蘇州磐聯集成电路科技股份有限公司 | " | 80% | 80% | 80% | 註3
+瑞昱半导体 (深圳)有限公司 | 蘇州磐聯集成电路科技股份有限公司 | " | 20% | 20% | 20% | 註3
+Bluocean Inc. | Realtek Semiconductor (Malaysia) Sdn. Bhd. | 研发与技术服务 | 100% | 100% | 100% | 註3
+Bluocean Inc. | Realtek Korea Inc. | " | 100% | 100% | 100% | 註3

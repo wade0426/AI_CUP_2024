@@ -1,0 +1,33 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司 | 子公司 | 业务性质 | 111年3月31日 | 111年12月31日 | 111年3月31日 | 说明 |
+|----------|--------|----------|--------------|---------------|--------------|------|
+| 45.      | DIH    | Delta Controls Inc. (DCI) | 100.00       | 100.00        | 100.00       |       |
+| 46.      | "      | DELTA ELECTRONICS HOLDING (USA) INC. | 100.00       | 100.00        | 100.00       | (注1) (注2) |
+| 47.      | ELTEK AS | ELTEK PAKISTAN (PRIVATE) LIMITED | 100.00       | 100.00        | 100.00       | (注1) (注2) |
+| 48.      | "      | Eltek Deutschland GmbH | 100.00       | 100.00        | 100.00       | (注1) (注2) |
+| 49.      | Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Australia) Pty Ltd | 100.00       | 100.00        | 100.00       | (注4) |
+| 50.      | ELTEK AS | Eltek Egypt for Power Supply S.A.E. | 95.00        | 95.00         | 95.00        | (注1) (注2) |
+| 51.      | "      | Eltek SGS Pvt Ltd. | 100.00       | 100.00        | 100.00       | (注1) (注2) |
+| 52.      | ELTEK AS、Eltek SGS Pvt Ltd. | Eltek SGS Mechanics Pvt Ltd. | 51.00        | 51.00         | 51.00        | (注1) (注2) |
+| 53.      | Delta Electronics (Poland) Sp. z o.o. (Eltek Polska) | Eltek Polska Sp. z o.o. | -            | -             | 100.00      | (注1) (注5) |
+| 54.      | ELTEK AS | ELTEK POWER FRANCE SAS | 100.00       | 100.00        | 100.00       | (注1) (注2) (注8) |
+| 55.      | "      | ELTEK LIMITED | -            | -             | 100.00       | (注1) (注17) |
+
+#### 文本输出
+
+| 投资公司 | 子公司 | 业务性质 | 111年3月31日 | 111年12月31日 | 111年3月31日 | 说明 |
+|----------|--------|----------|--------------|---------------|--------------|------|
+| 45.      | DIH    | Delta Controls Inc. (DCI) | 100.00       | 100.00        | 100.00       |       |
+| 46.      | "      | DELTA ELECTRONICS HOLDING (USA) INC. | 100.00       | 100.00        | 100.00       | (注1) (注2) |
+| 47.      | ELTEK AS | ELTEK PAKISTAN (PRIVATE) LIMITED | 100.00       | 100.00        | 100.00       | (注1) (注2) |
+| 48.      | "      | Eltek Deutschland GmbH | 100.00       | 100.00        | 100.00       | (注1) (注2) |
+| 49.      | Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Australia) Pty Ltd | 100.00       | 100.00        | 100.00       | (注4) |
+| 50.      | ELTEK AS | Eltek Egypt for Power Supply S.A.E. | 95.00        | 95.00         | 95.00        | (注1) (注2) |
+| 51.      | "      | Eltek SGS Pvt Ltd. | 100.00       | 100.00        | 100.00       | (注1) (注2) |
+| 52.      | ELTEK AS、Eltek SGS Pvt Ltd. | Eltek SGS Mechanics Pvt Ltd. | 51.00        | 51.00         | 51.00        | (注1) (注2) |
+| 53.      | Delta Electronics (Poland) Sp. z o.o. (Eltek Polska) | Eltek Polska Sp. z o.o. | -            | -             | 100.00      | (注1) (注5) |
+| 54.      | ELTEK AS | ELTEK POWER FRANCE SAS | 100.00       | 100.00        | 100.00       | (注1) (注2) (注8) |
+| 55.      | "      | ELTEK LIMITED | -            | -             | 100.00       | (注1) (注17) |

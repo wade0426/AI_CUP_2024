@@ -1,0 +1,49 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司名称 | 子公司名称 | 业务性质 | 资质 | 所持股权百分比 | 说明 |
+|--------------|------------|----------|-----|----------------|------|
+| LITE-ON TECHNOLOGY USA, INC. | LITE-ON, INC. | 光电产品及电源供应器之销售资料处理事业 | 100.00 | 100.00 | 1 |
+| LITE-ON TRADING USA, INC. | 3C 产品及光电产品等之销售 | 100.00 | 100.00 | 100.00 | - |
+| POWER INNOVATIONS INTERNATIONAL, INC. | 電源控制及能源管理之技术开发、设计和製造 | 100.00 | 100.00 | 100.00 | 1 |
+| LITE-ON TECHNOLOGY SERVICE, INC. | 3C 产品及光电产品等之售後服务 | 100.00 | 100.00 | 100.00 | 1 |
+| Lite-On International Holding Co., Ltd. | 一般投资业 | 100.00 | 100.00 | 100.00 | - |
+| LITE-ON SINGAPORE PTE. LTD. | 光宝科技（咸宁）有限公司 | 生产和销售新型电子零件、电力电子零件 | 100.00 | 100.00 | 1 |
+| 光宝科技（上海）有限公司 | 節能設備之生产及銷售 | 100.00 | 100.00 | 100.00 | 1 |
+| LITE-ON AUTOMOTIVE ELECTRONICS MEXICO, S.A. DE C.V. | 生產、製造、銷售、進口與出口光電裝置、關鍵電子零組件、通訊裝置、資訊科技裝置、半導體應用產品、一般照明裝置、車用電子產品、再生能源產品與服務、汽車業用系統與維修 | 1.00 | 1.00 | 1.00 | 1 |
+| LITE-ON POWER ELECTRONIC INDIA PRIVATE LIMITED | 製造及銷售手機充電器及電源供應產品 | 1.00 | 1.00 | 1.00 | 1 |
+| 光宝科技（上海）有限公司 | 路燈、交通信號燈、室內外景觀燈、室內外照明燈、新型電子元器件、零件國內採購、批發、進出口業務及安裝施工 | 100.00 | 100.00 | 100.00 | 1 |
+| LTC GROUP LTD. | TITANIC CAPITAL SERVICES LTD. | 一般投资业 | 100.00 | 100.00 | 1 |
+| Lite-On Technology (Europe) B.V. | Lite-On (Finland) Oy | 從事行動電話模組、組裝線設計、製造與銷售 | 100.00 | 100.00 | 1 |
+| Lite-On (Finland) Oy | Lite-On Mobile Oyj | 從事行動電話模組、組裝線設計、製造與銷售 | - | 100.00 | 100.00 | 1,6 |
+| LITE-ON CHINA HOLDING CO. LTD. | LITE-ON ELECTRONICS COMPANY LIMITED | 一般投资业 | 100.00 | 100.00 | 1 |
+| YET FOUNDATE LIMITED | 橡（塑）膠製品及電腦週邊之製造 | 100.00 | 100.00 | 100.00 | 1 |
+| FORDGOOD ELECTRONIC LIMITED | 進出口貿易、製造、控股買賣不動產、代理等業務 | 100.00 | 100.00 | 100.00 | 1 |
+| G&W TECHNOLOGY (BVI) LIMITED | 不動產買賣 | 50.00 | 50.00 | 50.00 | 1 |
+| G&W TECHNOLOGY (BVI) LIMITED | 租賃業 | 100.00 | 100.00 | 100.00 | 1 |
+| EAGLE ROCK INVESTMENT LTD. | 惠州市力信電子有限公司 | 生產銷售各種電腦、電子、家電用變壓器及週邊配套材料 | 100.00 | 100.00 | 1 |
+| HIGH YIELD GROUP CO., LTD. | LITE-ON IT INTERNATIONAL (HK) LIMITED | 光碟機銷售 | 100.00 | 100.00 | 1 |
+| LITE-ON IT INTERNATIONAL (HK) LIMITED | 光宝智能汽车（广州）有限公司 | 汽车零部件及配件製造 | 100.00 | 100.00 | 1 |
+| 建興（广州）電子科技有限公司 | 光碟機生產及銷售 | 100.00 | 100.00 | 100.00 | 1,4 |
+| 建興光電科技（北海）有限公司 | 光碟機生產及銷售 | 100.00 | 100.00 | 100.00 | 1 |
+| PLDS Germany GmbH | 開發、銷售車用播放錄製模 | 100.00 | 100.00 | 100.00 | 1 |
+| Philips & Lite-On Digital Solutions USA, Inc. | 光碟機銷售 | 100.00 | 100.00 | 100.00 | - |
+| Philips & Lite-On Digital Solutions Korea Ltd. | 光碟機銷售 | - | 100.00 | 100.00 | 1,7 |
+| 飛利浦建興數位科技股份有限公司 | 光碟機銷售 | 100.00 | 100.00 | 100.00 | 1 |
+
+#### 文本输出
+
+财务报告表格数据如下：
+
+| 投资公司名称 | 子公司名称 | 业务性质 | 资质 | 所持股权百分比 | 说明 |
+|--------------|------------|----------|-----|----------------|------|
+| LITE-ON TECHNOLOGY USA, INC. | LITE-ON, INC. | 光电产品及电源供应器之销售资料处理事业 | 100.00 | 100.00 | 1 |
+| LITE-ON TRADING USA, INC. | 3C 产品及光电产品等之销售 | 100.00 | 100.00 | 100.00 | - |
+| POWER INNOVATIONS INTERNATIONAL, INC. | 電源控制及能源管理之技术开发、设计和製造 | 100.00 | 100.00 | 100.00 | 1 |
+| LITE-ON TECHNOLOGY SERVICE, INC. | 3C 产品及光电产品等之售後服务 | 100.00 | 100.00 | 100.00 | 1 |
+| Lite-On International Holding Co., Ltd. | 一般投资业 | 100.00 | 100.00 | 100.00 | - |
+| LITE-ON SINGAPORE PTE. LTD. | 光宝科技（咸宁）有限公司 | 生产和销售新型电子零件、电力电子零件 | 100.00 | 100.00 | 1 |
+| 光宝科技（上海）有限公司 | 節能設備之生产及銷售 | 100.00 | 100.00 | 100.00 | 1 |
+| LITE-ON AUTOMOTIVE ELECTRONICS MEXICO, S.A. DE C.V. | 生產、製造、銷售、進口與出口光電裝置、關鍵電子零組件、通訊裝置、資訊科技裝置、半導體應用產品、一般照明裝置、車用電子產品、再生能源產品與服務、汽車業用系統與維修 | 1.00 | 1.00 | 1.00 | 1 |
+| LITE-ON POWER ELECTRONIC INDIA PRIVATE LIMITED | 製造及銷售手機充電器及電源供應產品 | 1.00 | 1.00 | 1.00 | 1 |

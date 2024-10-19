@@ -1,0 +1,33 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司 | 子公司 | 业务性质 | 111年3月31日 | 111年12月31日 | 111年3月31日 | 说明 |
+|----------|--------|----------|--------------|---------------|--------------|------|
+| 86.      | DEN    | Delta Greentech Electronics Industry LLC | 100.00        | 100.00        | 100.00       | （注1）（注2） |
+| 87.      | DEN、Delta Electronics (USA) INC. (DGB) | Delta Greentech (BRASIL) LTDA. | 100.00        | 100.00        | 100.00       | （注1）（注2）（注26） |
+| 88.      | DECH   | Delta Electronics (Czech Republic), spol. s.r.o. | 100.00        | 100.00        | 100.00       | （注1）（注2） |
+| 89.      | "      | Delta Electronics (Italy) S.r.l. | 100.00        | 100.00        | 100.00       | （注1）（注2） |
+| 90.      | "      | Delta Electronics (Poland) Sp. z o.o. | 100.00        | 100.00        | 100.00       | （注1）（注2） |
+| 91.      | "      | Delta Solutions (Finland) Oy | 100.00        | 100.00        | 100.00       | （注1）（注2） |
+| 92.      | "      | Delta Electronics Solutions (Spain) SL | 100.00        | 100.00        | 100.00       | （注1）（注2） |
+| 93.      | ELTEK POWER FRANCE SAS | Delta Electronics (France) SA | -             | -             | 100.00       | （注1）（注8） |
+| 94.      | 台达电子工业股份有限公司 | 晶睿通讯股份有限公司（晶睿） | 55.65         | 55.09         | 52.65        | 影音压缩软件及编码、网络影音伺服器、网络摄影机及相关零组件之制造及销售 |
+| 95.      | 晶睿、睿盈 | 睿緻科技股份有限公司（睿緻） | -             | -             | 54.41        | 多媒体积体电路之设计及销售 |
+| 96.      | 晶睿 | Vivotek Holdings, Inc. | 100.00        | 100.00        | 100.00       | 控股公司 |
+
+#### 文本输出
+
+| 投资公司 | 子公司 | 业务性质 | 111年3月31日 | 111年12月31日 | 111年3月31日 | 说明 |
+|----------|--------|----------|--------------|---------------|--------------|------|
+| 86.      | DEN    | Delta Greentech Electronics Industry LLC | 100.00        | 100.00        | 100.00       | （注1）（注2） |
+| 87.      | DEN、Delta Electronics (USA) INC. (DGB) | Delta Greentech (BRASIL) LTDA. | 100.00        | 100.00        | 100.00       | （注1）（注2）（注26） |
+| 88.      | DECH   | Delta Electronics (Czech Republic), spol. s.r.o. | 100.00        | 100.00        | 100.00       | （注1）（注2） |
+| 89.      | "      | Delta Electronics (Italy) S.r.l. | 100.00        | 100.00        | 100.00       | （注1）（注2） |
+| 90.      | "      | Delta Electronics (Poland) Sp. z o.o. | 100.00        | 100.00        | 100.00       | （注1）（注2） |
+| 91.      | "      | Delta Solutions (Finland) Oy | 100.00        | 100.00        | 100.00       | （注1）（注2） |
+| 92.      | "      | Delta Electronics Solutions (Spain) SL | 100.00        | 100.00        | 100.00       | （注1）（注2） |
+| 93.      | ELTEK POWER FRANCE SAS | Delta Electronics (France) SA | -             | -             | 100.00       | （注1）（注8） |
+| 94.      | 台达电子工业股份有限公司 | 晶睿通讯股份有限公司（晶睿） | 55.65         | 55.09         | 52.65        | 影音压缩软件及编码、网络影音伺服器、网络摄影机及相关零组件之制造及销售 |
+| 95.      | 晶睿、睿盈 | 睿緻科技股份有限公司（睿緻） | -             | -             | 54.41        | 多媒体积体电路之设计及销售 |
+| 96.      | 晶睿 | Vivotek Holdings, Inc. | 100.00        | 100.00        | 100.00       | 控股公司 |

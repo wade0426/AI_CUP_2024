@@ -1,0 +1,27 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司 | 子公司 | 業務性質 | 112年3月31日 | 111年12月31日 | 111年3月31日 | 說明 |
+|----------|--------|----------|--------------|---------------|--------------|------|
+| 63.      | DEN、DELTA ELECTRONICS (USA) INC. | ELTEK SISTEMAS DE ENERGIA INDUSTRIA E COMERCIO LTDA. | 100.00        | 100.00        | 100.00       | 註1  |
+| 64.      | DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (PERU) INC. S.R.L. | 100.00        | 100.00        | 100.00       | 註1  |
+| 65.      | DELTA ELECTRONICS (USA) INC. | DELTA ELECTRONICS (COLOMBIA) S.A.S. | 100.00        | 100.00        | 100.00       | 註1  |
+| 66.      | DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. | Eltekennergy Services, S.A. de C.V. | 100.00        | 100.00        | 100.00       | 註1  |
+| 67.      | DHK、DIH | Eltekennergy International de México, S. de R.L. de C.V. | 100.00        | -             | -            | 註2  |
+| 68.      | DAL | Delta Electronics (Americas) Ltd. | 100.00        | 100.00        | 100.00       | 註2  |
+| 69.      | 乾坤 | 力林科技股份有限公司（力林） | 99.74         | 99.74         | 100.00       | 註1  |
+| 70.      | 台達企管、中達電通/上海中達能源科技有限公司 | 上海浦環中達能源科技有限公司 | 100.00        | 100.00        | 100.00       | 註1  |
+
+#### 文本输出
+
+| 投资公司 | 子公司 | 業務性質 | 112年3月31日 | 111年12月31日 | 111年3月31日 | 說明 |
+|----------|--------|----------|--------------|---------------|--------------|------|
+| 63.      | DEN、DELTA ELECTRONICS (USA) INC. | ELTEK SISTEMAS DE ENERGIA INDUSTRIA E COMERCIO LTDA. | 100.00        | 100.00        | 100.00       | 註1  |
+| 64.      | DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (PERU) INC. S.R.L. | 100.00        | 100.00        | 100.00       | 註1  |
+| 65.      | DELTA ELECTRONICS (USA) INC. | DELTA ELECTRONICS (COLOMBIA) S.A.S. | 100.00        | 100.00        | 100.00       | 註1  |
+| 66.      | DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. | Eltekennergy Services, S.A. de C.V. | 100.00        | 100.00        | 100.00       | 註1  |
+| 67.      | DHK、DIH | Eltekennergy International de México, S. de R.L. de C.V. | 100.00        | -             | -            | 註2  |
+| 68.      | DAL | Delta Electronics (Americas) Ltd. | 100.00        | 100.00        | 100.00       | 註2  |
+| 69.      | 乾坤 | 力林科技股份有限公司（力林） | 99.74         | 99.74         | 100.00       | 註1  |
+| 70.      | 台達企管、中達電通/上海中達能源科技有限公司 | 上海浦環中達能源科技有限公司 | 100.00        | 100.00        | 100.00       | 註1  |

@@ -1,0 +1,31 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司 | 子公司 | 业务性质 | 111年3月31日 | 111年12月31日 | 111年3月31日 | 说明 |
+|----------|--------|----------|--------------|---------------|--------------|------|
+| 12.      | DIH    | Delta Electronics (Japan), Inc. (DEJ) | 100.00        | 100.00        | 100.00       | （注2） |
+| 13.      | DEN    | Drake Investment (HK) Limited (Drake-HK) | 100.00        | 100.00        | 100.00       | |
+| 14.      | DGSG、Drake-HK、Boom | 中达电通股份有限公司（中达电通） | 95.91         | 95.91         | 95.91        | |
+| 15.      | DIH    | Vivitek Corporation (Vivitek) | -             | -             | 100.00       | （注1）（注3） |
+| 16.      | DEN    | Delta Greentech SGP Pte. Ltd. (DGSG) | 100.00        | 100.00        | 100.00       | |
+| 17.      | DIH    | Delta Electronics Europe Ltd. (DEU) | 100.00        | 100.00        | 100.00       | （注1）（注2） |
+| 18.      | DEN    | Boom Treasure Limited (Boom) | 100.00        | 100.00        | 100.00       | |
+| 19.      | DIH    | Apex Investment (HK) Limited (Apex-HK) | -             | -             | 100.00       | （注3） |
+| 20.      |        | Galaxy Star Investment (HK) Limited (Galaxy Star-HK) | -             | -             | 100.00       | （注16） |
+| 21.      | DHK    | 台达电子(东莞)有限公司（台达电子东莞） | 100.00        | 100.00        | 100.00       | （注11） |
+
+#### 文本输出
+
+| 投资公司 | 子公司 | 业务性质 | 111年3月31日 | 111年12月31日 | 111年3月31日 | 说明 |
+|----------|--------|----------|--------------|---------------|--------------|------|
+| 12.      | DIH    | Delta Electronics (Japan), Inc. (DEJ) | 100.00        | 100.00        | 100.00       | （注2） |
+| 13.      | DEN    | Drake Investment (HK) Limited (Drake-HK) | 100.00        | 100.00        | 100.00       | |
+| 14.      | DGSG、Drake-HK、Boom | 中达电通股份有限公司（中达电通） | 95.91         | 95.91         | 95.91        | |
+| 15.      | DIH    | Vivitek Corporation (Vivitek) | -             | -             | 100.00       | （注1）（注3） |
+| 16.      | DEN    | Delta Greentech SGP Pte. Ltd. (DGSG) | 100.00        | 100.00        | 100.00       | |
+| 17.      | DIH    | Delta Electronics Europe Ltd. (DEU) | 100.00        | 100.00        | 100.00       | （注1）（注2） |
+| 18.      | DEN    | Boom Treasure Limited (Boom) | 100.00        | 100.00        | 100.00       | |
+| 19.      | DIH    | Apex Investment (HK) Limited (Apex-HK) | -             | -             | 100.00       | （注3） |
+| 20.      |        | Galaxy Star Investment (HK) Limited (Galaxy Star-HK) | -             | -             | 100.00       | （注16） |
+| 21.      | DHK    | 台达电子(东莞)有限公司（台达电子东莞） | 100.00        | 100.00        | 100.00       | （注11） |

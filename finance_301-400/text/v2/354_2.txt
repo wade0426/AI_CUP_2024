@@ -1,0 +1,55 @@
+### 财务报告分析
+
+#### 1. 合并财务报告编制基础及原则
+
+| 投资公司名称 | 子公司名称 | 主要业务 | 设立及营运地点 | 本公司所持有之所有权权益百分比 |
+|--------------|------------|----------|----------------|----------------------------------|
+| 台积电公司   | TSMC North America | 线体电路及其他半导体装置之销售业务 | San Jose, California, U.S.A. | 100% |
+| TSMC Europe B.V.（TSMC Europe） | 客户服务及支援业务 | Amsterdam, the Netherlands | 100% |
+| TSMC Japan Limited（TSMC Japan） | 客户服务及支援业务 | Yokohama, Japan | 100% |
+| TSMC Design Technology Japan, Inc.（TSMC JDC） | 工程支援业务 | Yokohama, Japan | 100% |
+| TSMC Japan 3DIC R&D Center, Inc.（TSMC 3DIC） | 工程支援业务 | Yokohama, Japan | 100% |
+| TSMC Korea Limited（TSMC Korea） | 客户服务及支援业务 | Seoul, Korea | 100% |
+| TSMC Partners, Ltd.（TSMC Partners） | 半导体设计、制造等相关投资业务及一般投资业务 | Tortola, British Virgin Islands | 100% |
+
+#### 2. 列入合并财务报告之子公司
+
+| 投资公司名称 | 子公司名称 | 主要业务 | 设立及营运地点 | 本公司所持有之所有权权益百分比 |
+|--------------|------------|----------|----------------|----------------------------------|
+| 台积电公司   | TSMC North America | 线体电路及其他半导体装置之销售业务 | San Jose, California, U.S.A. | 100% |
+| TSMC Europe B.V.（TSMC Europe） | 客户服务及支援业务 | Amsterdam, the Netherlands | 100% |
+| TSMC Japan Limited（TSMC Japan） | 客户服务及支援业务 | Yokohama, Japan | 100% |
+| TSMC Design Technology Japan, Inc.（TSMC JDC） | 工程支援业务 | Yokohama, Japan | 100% |
+| TSMC Japan 3DIC R&D Center, Inc.（TSMC 3DIC） | 工程支援业务 | Yokohama, Japan | 100% |
+| TSMC Korea Limited（TSMC Korea） | 客户服务及支援业务 | Seoul, Korea | 100% |
+| TSMC Partners, Ltd.（TSMC Partners） | 半导体设计、制造等相关投资业务及一般投资业务 | Tortola, British Virgin Islands | 100% |
+
+#### 3. 重大会计政策之汇总说明
+
+除下列说明外，本合并财务报告所采用之会计政策与111年度合并财务报告相同。
+
+(一) 遵循声明
+
+本合并财务报告系依照证券发行人财务报告编制准则及经金管会认可并发布生效之国际会计准则第34号「期中财务报告」编制。本合并财务报告并末包含整份年度财务报告所规定之所有经金管会认可并发布生效IFRSs揭露资讯。
+
+(二) 合并基础及原则
+
+1. 合并报告编制原则
+
+本合并财务报告所采用之合并报告编制基础及原则与111年度合并财务报告相同。
+
+2. 列入合并财务报告之子公司
+
+本合并财务报告编制主体如下：
+
+| 投资公司名称 | 子公司名称 | 主要业务 | 设立及营运地点 | 本公司所持有之所有权权益百分比 |
+|--------------|------------|----------|----------------|----------------------------------|
+| 台积电公司   | TSMC North America | 线体电路及其他半导体装置之销售业务 | San Jose, California, U.S.A. | 100% |
+| TSMC Europe B.V.（TSMC Europe） | 客户服务及支援业务 | Amsterdam, the Netherlands | 100% |
+| TSMC Japan Limited（TSMC Japan） | 客户服务及支援业务 | Yokohama, Japan | 100% |
+| TSMC Design Technology Japan, Inc.（TSMC JDC） | 工程支援业务 | Yokohama, Japan | 100% |
+| TSMC Japan 3DIC R&D Center, Inc.（TSMC 3DIC） | 工程支援业务 | Yokohama, Japan | 100% |
+| TSMC Korea Limited（TSMC Korea） | 客户服务及支援业务 | Seoul, Korea | 100% |
+| TSMC Partners, Ltd.（TSMC Partners） | 半导体设计、制造等相关投资业务及一般投资业务 | Tortola, British Virgin Islands | 100% |
+
+(接次页)

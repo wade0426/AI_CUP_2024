@@ -1,0 +1,45 @@
+由于您提供的图像中没有具体的财务数据表格，我无法直接提取和分析财务数据。不过，我可以指导您如何使用Python和相关库（如Pillow、PDFMiner等）来处理和提取PDF中的文本和表格数据。以下是一个基本的步骤指南：
+
+1. **安装所需库**：
+   - 使用`pip install pillow`安装Pillow库。
+   - 使用`pip install pdfminer.six`安装PDFMiner库。
+
+2. **读取PDF文件**：
+   ```python
+   from pdfminer.high_level import extract_text
+   from pdfminer.layout import LAParams
+   from pdfminer.pdfinterp import PDFResourceManager
+   from pdfminer.pdfinterp import PDFPageInterpreter
+   from pdfminer.pdfpage import PDFPage
+
+   def extract_text_from_pdf(pdf_path):
+       rsrcmgr = PDFResourceManager()
+       laparams = LAParams()
+       device = TextConverter(rsrcmgr, laparams=laparams)
+       fp = open(pdf_path, 'rb')
+       interpreter = PDFPageInterpreter(rsrcmgr, device)
+       password = ""
+       max_pages = 0
+       for page in PDFPage.get_pages(fp, password=password, max_pages=max_pages):
+           interpreter.process_page(page)
+       fp.close()
+       return device.get_text()
+
+   text = extract_text_from_pdf('your_pdf_file.pdf')
+   print(text)
+   ```
+
+3. **提取表格数据**：
+   - 使用PDFMiner库提取表格数据。
+   - 使用正则表达式或库（如tabula-py）来识别和提取表格数据。
+
+4. **处理特殊字符和标记**：
+   - 使用正则表达式或库（如BeautifulSoup）来处理特殊字符和标记。
+
+5. **结构化数据输出**：
+   - 将提取的文本和表格数据整理成Markdown表格格式。
+
+6. **输出格式**：
+   - 将Markdown表格格式输出到文件或显示在屏幕上。
+
+如果您需要具体的代码示例或帮助，请告诉我PDF文件的路径和您希望如何处理和输出数据。
