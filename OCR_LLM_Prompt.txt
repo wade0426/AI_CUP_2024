@@ -1,0 +1,1 @@
+這是一份OCR的結果，格式是txt, bbox，txt是ocr辨識文字，bbox是文字的座標，請根據這些資訊將以下ocr的結果重組成markdown格式，注意換行。
