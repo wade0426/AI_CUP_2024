@@ -1,0 +1,15 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 112年3月31日 | 111年12月31日 | 111年3月31日 | 說明 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 研華投資股份有限公司(研華投資公司) | 屏通科技股份有限公司(屏通台灣公司) | 電子零組件製造與電腦及其週邊設備製造者 | 55.00 | 55.00 | 55.00 | 註2 |
+| 研華智醫股份有限公司(AIH) | 資訊軟體及資料處理服務業 | 100.00 | 100.00 | 100.00 | 註2 |
+| 研旭綠電股份有限公司(研旭綠電) | 綠電能源電廠開發 | 82.50 | 82.50 | 82.50 | 註2及 註9 |
+| Advantech Technology Co., Ltd. (ATC) | HK Advantech Technology Co., Ltd. [ATC (HK)] | 生產及服務業之海外投資 | 100.00 | 100.00 | 100.00 |
+| HK Advantech Technology Co., Ltd. [ATC (HK)] | 研華科技(中國)有限公司(AKMC) | 介面卡及週邊設備機殼、塑膠外殼及配件之產銷業務 | 100.00 | 100.00 | 100.00 |
+| Advantech Automation Corp. (BVI) [AAC (BVI)] | Advantech Corp. (ANA) | 工業用電腦之組裝行銷買賣 | 100.00 | 100.00 | 100.00 |
+| Advantech Automation Corp. (HK) Limited [AAC (HK)] | Advantech Automation Corp. (HK) Limited [AAC (HK)] | 生產及服務業之海外投資 | 100.00 | 100.00 | 100.00 |
+| Advantech Electronics, S.A.P.I. DE C.V. (AMX) | Advantech Electronics, S.A.P.I. DE C.V. (AMX) | 工業用電腦之行銷買賣 | 0.10 | 0.10 | 0.10 | 註2及 註11 |
+| Advantech Corporate Investment Ltd. (ACI KY) | 智能物聯網系統服務之設計、研發及銷售買賣 | 100.00 | 100.00 | 100.00 | 註2 |
+| Advantech Technology DMCC (ADB) | 工業網路通訊 | - | - | 100.00 | 註2及 註15 |
+| Advantech Corp. (ANA) | Advantech Technology Limited (AIE) | 工業網路通訊 | 100.00 | 100.00 | 100.00 | 註2 |
+```

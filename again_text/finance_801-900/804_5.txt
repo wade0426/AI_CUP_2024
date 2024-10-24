@@ -1,0 +1,14 @@
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 所持股權百分比 |
+| --- | --- | --- | --- |
+| Advantech Corp. (ANA) | Advantech Technology Limited (AIE) | 工業網路通訊 | 100.00 100.00 100.00 註2 |
+| Advantech Automation Corp. (HK) Limited [AAC (HK)] | 北京研華興業電子科技有限公司 (ACN) | 工業用電腦之行銷買賣 | 100.00 100.00 100.00 |
+| 上海研華慧勝智能科技有限公司 (ACI CN) | 西安研華軟件有限公司 (AXA) | 工業用電腦之製造、行銷及買賣 | 82.00 82.00 82.00 註2及 註5 |
+| 北京研華興業電子科技有限公司 (ACN) | 上海研華慧勝智能科技有限公司 (ACI CN) | 軟件技術開發、軟件產品製作 | 100.00 100.00 100.00 註2 |
+| 上海研華慧勝智能科技有限公司 (ACI CN) | 研華服創 (上海) 智能科技有限公司 (上海服創) | 智能科技領域內的技術開發、諮詢、服務 | 100.00 100.00 100.00 註2及 註10 |
+| 上海研華慧勝智能科技有限公司 (ACI CN) | 上海研樂智能科技有限公司 (AYL) | 智能零售應用與服務 | 100.00 100.00 100.00 註2 |
+| Advantech Europe B.V. (AEU) | Advantech Europe Holding B.V. (AEUH) | 工業用電腦之行銷買賣 | 100.00 100.00 100.00 |
+| Advantech Poland Sp z o.o. (APL) | Advantech Corporation (Thailand) Co., Ltd. (ATH) | 工業用電腦之行銷買賣 | 100.00 100.00 100.00 註2 |
+| Advantech Co., Singapore Pte, Ltd. (ASG) | PT. Advantech International (AID) | 工業用電腦之行銷買賣 | 99.00 99.00 99.00 註2 |
+| Advantech Electronics, S.A.P.I. DE C.V. (AMX) | Advantech Electronics, S.A.P.I. DE C.V. (AMX) | 工業用電腦之行銷買賣 | 0.10 - - 註2、 註9及 註22 |
+| 屏通科技股份有限公司 (屏通台灣公司) | LandMark Co., Ltd. (LandMark) | 投資公司 | 100.00 100.00 100.00 註2 |
+| LandMark Co., Ltd. (LandMark) | 屏通科技 (上海) 有限公司 (屏通上海公司) | 工業用聯網電子器材 | 100.00 100.00 100.00 註2 |

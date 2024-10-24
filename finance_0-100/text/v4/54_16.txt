@@ -1,0 +1,18 @@
+```markdown
+| 編號 | 投資公司名稱 | 子公司名稱 | 業務性質 | 合併所持股權百分比 |
+|------|--------------|------------|----------|---------------------|
+| 128. | Trihedral    | Trihedral Inc. | 圖控軟體和相關工程服務 | 100.00 100.00 100.00 (註1) (註2) |
+| 129. | "            | Trihedral UK Limited | " | 100.00 100.00 100.00 (註1) (註2) |
+| 130. | DIH          | March Networks Holdings Ltd. | 投資事業 | 100.00 100.00 - (註1) (註5) (註9) |
+| 131. | March Networks Holdings Ltd. | March Networks Corporation | 安全監控軟硬體和相關工程服務 | 100.00 100.00 - (註1) (註5) |
+| 132. | March Networks Corporation | March Networks, Inc. | " | 100.00 100.00 - (註1) (註5) |
+| 133. | "            | March Networks de Mexico, S.A.de C.V. | " | 100.00 100.00 - (註1) (註5) |
+| 134. | "            | March Networks (Australia) Pty Limited | " | 100.00 100.00 - (註1) (註5) |
+| 135. | "            | March Networks Limited | " | 100.00 100.00 - (註1) (註5) |
+| 136. | "            | March Networks (Singapore) Pte. Limited | " | 100.00 100.00 - (註1) (註5) |
+| 137. | "            | March Networks B.V. | " | 100.00 100.00 - (註1) (註5) |
+| 138. | March Networks B.V. | March Networks S.r.l. | " | 100.00 100.00 - (註1) (註5) |
+| 139. | "            | March Networks (France) SAS | " | 100.00 100.00 - (註1) (註5) |
+| 140. | DHK          | 台達電子(重慶)有限公司 | 生產新能源汽車電子零件及電子設備電源零件 | 100.00 - - (註1) (註11) |
+| 141. | 台達電子工業股份有限公司 | 達慧互聯股份有限公司 | 提供行業應用加值整合服務 | 70.00 - - (註1) (註11) |
+```

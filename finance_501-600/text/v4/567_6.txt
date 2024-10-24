@@ -1,0 +1,16 @@
+```markdown
+| 編號 | 投資公司名稱 | 子公司名稱 | 業務性質 | 合併所持股權百分比 |
+|------|--------------|------------|----------|---------------------|
+| 39.  | 達爾         | 蘇州爾達醫療設備有限公司(蘇州爾達) | 醫療器材製造、批發與銷售 | 100.00 100.00 100.00 (註1) (註2) |
+| 40.  | DIH          | DELTA ELECTRONICS (NORWAY) AS | 經營電源供應器等之研發及銷售業務 | 100.00 100.00 100.00 (註23) |
+| 41.  | "            | Delta Controls Inc.(DCI) | 提供楼宇管理與控制解決方案 | 100.00 100.00 100.00 |
+| 42.  | "            | DELTA ELECTRONICS HOLDING (USA) INC. | 投資事業 | 100.00 100.00 100.00 (註1) (註2) |
+| 43.  | DELTA ELECTRONICS (NORWAY) AS | ELTEK PAKISTAN (PRIVATE) LIMITED | 經營電源供應器等之銷售業務 | 100.00 100.00 100.00 (註1) (註2) |
+| 44.  | "            | DELTA Electronics (Germany) GmbH | 經營電源供應器等之銷售業務及系統建置業務 | 100.00 100.00 100.00 (註1) (註2) (註14) |
+| 45.  | Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Australia) Pty Ltd | " | 100.00 100.00 100.00 |
+| 46.  | DELTA ELECTRONICS (NORWAY) AS | Eltek Egypt for Power Supply S.A.E. | 經營電源供應器等之銷售業務 | 95.00 95.00 95.00 (註1) (註2) |
+| 47.  | DELTA ELECTRONICS (NORWAY) AS、DELTA ELECTRONICS (USA) INC. | Eltek SGS Pvt Ltd. | 經營電源供應器等之銷售業務及系統建置業務 | 100.00 100.00 100.00 (註1) (註2) |
+| 48.  | DELTA ELECTRONICS (NORWAY) AS、Eltek SGS Pvt Ltd. | Eltek SGS Mechanics Pvt Ltd. | 經營電源供應器等之銷售業務 | 51.00 51.00 51.00 (註1) (註2) |
+| 49.  | DELTA ELECTRONICS (NORWAY) AS | DELTA ELECTRONICS (France) SAS | 經營電源供應器等之銷售業務及系統建置業務 | 100.00 100.00 100.00 (註1) (註2) (註17) |
+| 50.  | "            | ELTEK MEA DMCC | 經營電源供應器等之銷售業務 | 100.00 100.00 100.00 (註1) (註2) |
+```

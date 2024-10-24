@@ -1,0 +1,20 @@
+```markdown
+| 投资公司 | 子公司 | 业务性质 | 所持股权百分比(%) |
+| --- | --- | --- | --- |
+|  |  |  | 112年3月31日 | 111年12月31日 | 111年3月31日 | 说明 |
+| Evergreen Shipping Agency (India) Pvt. Ltd. (EGI) |  | 货运及船务代理业务 | 99.99 | 99.99 | 99.99 |  |
+| Evergreen Shipping Agency (Australia) Pty. Ltd. (EAU) |  | 货运及船务代理业务 | 100.00 | 100.00 | 100.00 |  |
+| Evergreen Shipping Agency (Italy) S.p.A. (EIT) |  | 货运及船务代理业务 | 55.00 | 55.00 | 55.00 |  |
+| Evergreen Shipping (Spain) S.L. (EES) |  | 货运及船务代理业务 | 100.00 | 100.00 | 100.00 |  |
+| Evergreen Shipping Agency (Russia) Ltd. (ERU) |  | 货运及船务代理业务 | 51.00 | 51.00 | 51.00 |  |
+| Evergreen Shipping Agency (Europe) GmbH (EEU) |  | 货运及船务代理业务 | 100.00 | 100.00 | 100.00 |  |
+| Evergreen Agency (South Africa) (PTY) Ltd. (ESA) |  | 货运及船务代理业务 | 55.00 | 55.00 | 55.00 |  |
+| Evergreen Argentina S.A. (EGB) |  | 大楼租赁 | 95.00 | 95.00 | 95.00 |  |
+| Evergreen Marine Corp. (Malaysia) Sdn Bhd (EGM) |  | 货运及船务代理业务 | 100.00 | 100.00 | 100.00 |  |
+| Evergreen Marine (Hong Kong) Ltd. (EGH) |  | 货柜运送之国际海运业及货运与船务代理业务 | 1.00 | 1.00 | 1.00 | 註8 |
+| Evergreen Shipping Agency (Vietnam) Corp. (EGV) |  | 货运及船务代理业务 | 100.00 | 100.00 | 100.00 |  |
+| EGH |  | 企业管理咨询及自有房屋出租经营 | 100.00 | 100.00 | 100.00 |  |
+| EGH |  | 企业管理咨询及自有房屋出租经营 | 100.00 | 100.00 | 100.00 |  |
+| EGH |  | 企业管理咨询及自有房屋出租经营 | 100.00 | 100.00 | 100.00 |  |
+| EGH |  | 企业管理咨询及自有房屋出租经营 | 100.00 | 100.00 | 100.00 |  |
+```

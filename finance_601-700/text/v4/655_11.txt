@@ -1,0 +1,43 @@
+```markdown
+# 銷貨成本性質如下：
+
+|  | 112年1月1日至3月31日 | 111年1月1日至3月31日 |
+|---|---|---|
+| 已銷售之存貨成本 | $17,414,902 | $18,643,258 |
+| 存貨跌價及呆滯損失 | 68,281 | 5,492 |
+| **總計** | **$17,483,183** | **$18,648,750** |
+
+# 合併公司設定作為長期銀行借款擔保之存貨金額，請參閱附註三。
+
+# 十三、子公司
+
+## 列入合併財務報告之子公司
+
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 所持股權百分比 | 說明 |
+|---|---|---|---|---|
+| 國巨股份有限公司 | 國巨百慕達控股有限公司 | 一般投資業務 | 100% | - |
+| 國新投資股份有限公司 | 國新投資股份有限公司 | 一般投資業務 | 100% | 1. |
+| 君耀控股股份有限公司 | 君耀控股股份有限公司 | 一般投資控股 | 100% | - |
+| Yageo Corporation (South Asia) | Yageo Corporation (South Asia) | 電子元件之銷售及買賣 | 100% | 1. |
+| Yageo Europe Holding B.V. | Yageo Europe Holding B.V. | 一般投資控股 | 100% | - |
+| Yageo South Asia (M) Sdn. Bhd. | Yageo South Asia (M) Sdn. Bhd. | 電子元件之銷售及買賣 | 100% | 1. |
+| Pulse Electronics Corporation | Pulse Electronics Corporation | 一般投資控股 | 100% | - |
+| Yageo Holding Hungary LLC | Yageo Holding Hungary LLC | 一般投資控股 | 100% | - |
+| 國創半導體股份有限公司 | 國創半導體股份有限公司 | 電子元件之銷售 | 35.00% | 1.2. |
+| 奇力新電子股份有限公司 | 奇力新電子股份有限公司 | 電子零件之製造及銷售 | 100% | 1.5. |
+| 國巨北美（香港）有限公司 | 國巨北美（香港）有限公司 | 被動元件之銷售 | 100% | 4. |
+| 國新投資股份有限公司 | 國新投資股份有限公司 | 電子零件之銷售 | 9.00% | 9.00% | 8.33% | 1.2. |
+| 國巨百慕達控股有限公司 | 國巨百慕達控股有限公司 | 一般投資業務 | 100% | 100% | - |
+| Vitrohm Holding GmbH | Vitrohm Holding GmbH | 一般投資業務 | 100% | 100% | - |
+| Yageo Korea | Yageo Korea | 電阻器之銷售 | 100% | 100% | - |
+| Yageo Japan | Yageo Japan | 電阻器之銷售 | 100% | 100% | - |
+| 香港旭泰有限公司 | 香港旭泰有限公司 | 一般投資業務 | 100% | 100% | - |
+| Belkin International Enterprises Limited | Belkin International Enterprises Limited | 一般投資 | - | - | 46% | 1.7. |
+| 君耀控股股份有限公司 | 君耀控股股份有限公司 | 買賣過電壓及過電流之保護電子元件 | 100% | 100% | - |
+| Pulse Electronics Corporation | Pulse Electronics Corporation | 一般投資控股 | 100% | 100% | - |
+| Yageo Holding Hungary LLC | Yageo Holding Hungary LLC | 一般投資 | 100% | 100% | - |
+| KEMET Corporation | KEMET Corporation | 電子元件之銷售 | - | - | 100% | 4. |
+| KEMET Corporation | KEMET Corporation | 電子元件之銷售 | 100% | 100% | - | 4. |
+
+# （接次頁）
+```

@@ -1,0 +1,38 @@
+```markdown
+| 投资公司名称 | 子公司名称 | 业务 | 性质 | 所持股 | 股权百分比 |
+| --- | --- | --- | --- | --- | --- |
+| Ta-Ho Maritime Holdings Ltd. | Ta-Ho Maritime Holdings Ltd. | 船舶运输 | 100.0 | 100.0 | 100.0 |
+| Ta-Ho Maritime Holdings Ltd. | Ta-Ho Maritime Holdings Ltd. | 船舶运输 | 100.0 | 100.0 | 100.0 |
+| Ta-Ho Maritime Holdings Ltd. | Ta-Ho Maritime Holdings Ltd. | 船舶运输 | 100.0 | 100.0 | 100.0 |
+| 台讯（萨摩亚）有限公司 | 福州台泥软件科技有限公司 | 软件产品发展、生产及设备维修 | 100.0 | 100.0 | 100.0 |
+| 達和航运（香港）公司 | 達通（香港）国际物流有限公司 | 物流运输 | 100.0 | 100.0 | 100.0 |
+| 達通（香港）国际物流有限公司 | 英德市达通物流服务有限公司 | 物流运输 | 100.0 | 100.0 | 100.0 |
+| 達通（香港）国际物流有限公司 | 贵港市达和船务有限责任公司 | 船舶运输 | 100.0 | 100.0 | 100.0 |
+| TCC Dutch | Taiwan Cement Europe Holdings B.V. (TCEH) | 投资控股 | 100.0 | 100.0 | 100.0 |
+| TCEH | NHOA S.A. | 投资控股 | 65.2 | 65.2 | 65.2 |
+| NHOA S.A. | NHOA ENERGY S.R.L. | 可再生能源和储能系统建设 | 100.0 | 100.0 | 100.0 |
+| NHOA S.A. | ELECTRO POWER SYSTEM MANUFACTURING | 可再生能源和储能系统建设 | 100.0 | 100.0 | 100.0 |
+| NHOA S.A. | Comores Energie Nouvelles S.A.R.L. | 可再生能源和储能系统建设 | 100.0 | 100.0 | 60.0 |
+| NHOA S.A. | NHOA CALLIOPE S.R.L. | 投资控股 | 100.0 | 100.0 | 100.0 |
+| NHOA S.A. | NHOA CORPORATE S.R.L. | 投资控股 | 100.0 | 100.0 | - |
+| NHOA CORPORATE S.R.L. | FREE2MOVE ESOLUTIONS S.P.A. | 电动汽车充电设备 | 49.9 | 49.9 | - |
+| NHOA ENERGY S.R.L. | FREE2MOVE ESOLUTIONS S.P.A. | 电动汽车充电设备 | - | - | 49.9 |
+| NHOA ENERGY S.R.L. | NHOA AMERICAS LLC | 可再生能源和储能系统建设 | 100.0 | 100.0 | 100.0 |
+| NHOA ENERGY S.R.L. | NHOA AUSTRALIA PTY LTD | 可再生能源和储能系统建设 | 100.0 | 100.0 | 100.0 |
+| NHOA ENERGY S.R.L. | NHOA LATAM S.A.C. | 可再生能源和储能系统建设 | 90.0 | 90.0 | - |
+| NHOA ENERGY S.R.L. | 台湾新地平线能源有限公司 | 可再生能源和储能系统建设 | 100.0 | - | - |
+| NHOA ENERGY S.R.L. | NHOA UK LTD | 可再生能源和储能系统建设 | 100.0 | - | - |
+| NHOA ENERGY S.R.L. | ATLANTE S.R.L. | 再生能源与充电事业 | - | - | 100.0 |
+| NHOA CALLIOPE S.R.L. | ATLANTE S.R.L. | 再生能源与充电事业 | 100.0 | 100.0 | - |
+| NHOA AMERICAS LLC | NHOA LATAM S.A.C. | 可再生能源和储能系统建设 | 10.0 | 10.0 | - |
+| ATLANTE S.R.L. | ATLANTE IBERIA S.L. | 再生能源与充电事业 | 100.0 | 100.0 | 100.0 |
+| ATLANTE S.R.L. | ATLANTE FRANCE S.A.S. | 再生能源与充电事业 | 100.0 | 100.0 | 100.0 |
+| ATLANTE S.R.L. | ATLANTE INFRA PORTUGAL S.A. | 再生能源与充电事业 | 60.0 | - | - |
+| ATLANTE IBERIA S.L. | ATLANTE Fast Charging Portugal LDA | 再生能源与充电事业 | 100.0 | 100.0 | - |
+| FREE2MOVE ESOLUTIONS S.P.A. | FREE2MOVE ESOLUTIONS FRANCE S.A.S. | 电动汽车充电设备 | 100.0 | 100.0 | - |
+| FREE2MOVE ESOLUTIONS S.P.A. | FREE2MOVE ESOLUTIONS SPAIN S.L.U. | 电动汽车充电设备 | 100.0 | 100.0 | - |
+| FREE2MOVE ESOLUTIONS S.P.A. | FREE2MOVE ESOLUTIONS NORTH AMERICA LLC | 电动汽车充电设备 | 100.0 | 100.0 | - |
+| FREE2MOVE ESOLUTIONS S.P.A. | 台泥循环能源公司 | 锂电池制造及销售 | 100.0 | 100.0 | 100.0 |
+| 能元科技公司 | E-One Holdings Ltd. | 投资控股 | 100.0 | 100.0 | 100.0 |
+| 能元科技公司 | 三元能源科技股份有限公司（三元能源公司） | 电池、发电机械、电子零组件等之制造及销售 | 100.0 | 100.0 | 100.0 |
+```

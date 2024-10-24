@@ -1,0 +1,1 @@
+bad_text_list = ['38_1.txt', '229_1.txt', '345_1.txt']

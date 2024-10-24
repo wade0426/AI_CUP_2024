@@ -1,0 +1,22 @@
+```markdown
+| 投資公司 | 子公司名稱 | 業務性質 | 112年9月30日 | 111年12月31日 | 111年9月30日 | 說明 |
+| --- | --- | --- | --- | --- | --- | --- |
+| AIL集團 | ASUS SPAIN, S. L. U. (ACIB) | 西班牙地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | 華碩科技(蘇州)有限公司（華科蘇州） | 3C資訊產品之研發 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS JAPAN INCORPORATION (ACJP) | 日本地區3C資訊產品之銷售 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS COMPUTER CZECH REPUBLIC S. R. O. (ACCZ) | 捷克地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | 華碩電腦(上海)有限公司（華碩上海） | 中國地區3C資訊產品之銷售 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS SERVICE AUSTRALIA PTY LIMITED (ASAU) | 澳洲地區3C資訊產品之維修 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS AUSTRALIA PTY LIMITED (ACAU) | 澳洲地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ACBZ IMPORTACAO E COMERCIO LTDA. (ACBZ) | 巴西地區3C資訊產品之銷售 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS INDIA PRIVATE LIMITED (ASIN) | 印度地區3C資訊產品之銷售 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS ISRAEL TECHNOLOGY LTD. (ACIL) | 以色列地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | 華碩電腦(重慶)有限公司（華碩重慶） | 中國地區3C資訊產品之銷售 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS PERU S. A. C. (ACPE) | 祕魯地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | PT. ASUS SERVICE INDONESIA (ASID) | 亞太及美洲地區3C資訊產品之維修 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS HOLDING MEXICO, S. A. DE C. V. (ACMH) | 墨西哥地區3C資訊產品之銷售 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS PORTUGAL, SOCIEDADE UNIPESSOAL LDA. (ACPT) | 葡萄牙地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS HUNGARY SERVICES LIMITED LIABILITY COMPANY (ACHU) | 匈牙利地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS SWITZERLAND GMBH (ACCH) | 瑞士地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS NORDIC AB (ACN) | 北歐地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+```

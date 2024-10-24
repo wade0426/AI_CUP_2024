@@ -1,0 +1,16 @@
+```markdown
+| 編號 | 投資公司名稱 | 子公司名稱 | 業務性質 | 合併所持股權百分比 |
+|------|--------------|------------|----------|---------------------|
+| 102. | DET International Holding B.V.、Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Slovakia) s.r.o. | 電源供應器、電源系統、OEM電源系統製造及銷售業務 | 100.00 100.00 100.00 |
+| 103. | DET International Holding B.V. | Delta Energy Systems (Romania) S.R.L. | 研發 | 100.00 100.00 100.00 |
+| 104. | Delta Energy Systems (Germany) GmbH | Delta Energy Systems Property (Germany) GmbH | 產權業務 | 100.00 100.00 100.00 |
+| 105. | Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Holdings) Australia Pty Ltd | 再生能源產品行銷及銷售業務 | 100.00 100.00 100.00 |
+| 106. | " | Delta Electronics India Pvt. Ltd. | 非通訊電源系統及不斷電式電源供應器之製造、行銷及銷售不斷電式電源供應器 | 100.00 100.00 100.00 |
+| 107. | " | Delta Electronics (Myanmar) Co., Ltd. | 機械及運用於CMP製程之電子產品之製造 | 100.00 100.00 100.00 |
+| 108. | " | Delta Energy Systems (UK) Ltd. | 電子產品之研發 | 100.00 100.00 100.00 |
+| 109. | " | Delta Greentech (Netherlands) B.V. | 投資事業 | 100.00 100.00 100.00 |
+| 110. | Delta Greentech (Netherlands) B.V. | Delta Energy Systems LLC | 電源系統之行銷及銷售 | 100.00 100.00 100.00 |
+| 111. | " | Eltek s.r.o. | 製造通訊電源系統 | 100.00 100.00 100.00 |
+| 112. | " | Delta Electronics (Automotive) Americas Inc. | 研發汽車動力及牽引逆變器 | 100.00 100.00 100.00 |
+| 113. | DEN | Amerlux, LLC (Amerlux) | 專用照明系統及設施之設計及生產 | 100.00 100.00 100.00 (注1) (注2) |
+```

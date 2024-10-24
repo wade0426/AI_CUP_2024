@@ -1,0 +1,42 @@
+```markdown
+| 關係人名稱 | 與合併公司之關係 |
+| --- | --- |
+| Round the World Logistics (U.S.A.) Corps. (RTWL) | 其他關係人 |
+| Evergreen Logistics (Thailand) Co., Ltd. (ELCTH) | 其他關係人 |
+| Evergreen Logistics Vietnam Company Ltd. (ELCVN) | 其他關係人 |
+| Evergreen Logistics Malaysia Sdn. Bhd. (ELCMY) | 其他關係人 |
+| Evergreen Logistics (India) Pvt. Ltd. (ELCIN) | 其他關係人 |
+| Evergreen International Logistics (HK) Limited. (EILCHK) | 其他關係人 |
+| Round-The-World Logistics Corp. (M) Sdn. Bhd. (RTWMY) | 其他關係人 |
+| PT. Evergreen Logistics Indonesia (ELCID) | 其他關係人 |
+| Everconcord, S.A. (ECC) | 其他關係人 |
+| ALLY Holding Ltd (ALLY) | 其他關係人 |
+| Evergreen International Logistics (Korea) Co., Ltd. (ELCKR) | 其他關係人 |
+| Evergreen Logistics (Cambodia) Co., Ltd. (ELCKH) | 其他關係人 |
+| 長榮國際物流(上海)有限公司 (EILCSH) | 其他關係人 |
+| 長裕複合物流股份有限公司 (ERLY) | 其他關係人 |
+| 欣榮企業股份有限公司 (HYEC) | 其他關係人 |
+| 明显投資股份有限公司 (MYI) | 其他關係人 |
+| Pan Asia International Shipping Limited (PAISL) | 其他關係人 |
+| 長榮上海酒店公司 (ELHS) | 其他關係人 |
+| 長榮桂冠檳城酒店 (ELHM) | 其他關係人 |
+| 全體董事、總經理及副總經理 | 主要管理階層 |
+
+(二) 與關係人間之重大交易事項
+
+1. 營業收入
+
+|  | 112年7月1日至9月30日 | 111年7月1日至9月30日 |
+| --- | --- | --- |
+| 關聯企業 | $402,072 | $703,046 |
+| 其他關係人 | $632,588 | $5,418,551 |
+|  | $1,034,660 | $6,121,597 |
+
+|  | 112年1月1日至9月30日 | 111年1月1日至9月30日 |
+| --- | --- | --- |
+| 關聯企業 | $1,307,012 | $1,927,941 |
+| 其他關係人 | $6,561,811 | $17,789,158 |
+|  | $7,868,823 | $19,717,099 |
+
+勞務提供及銷貨之交易價格與收款條件與非關係人並無重大差異。
+```

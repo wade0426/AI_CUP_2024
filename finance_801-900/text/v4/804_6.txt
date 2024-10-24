@@ -1,0 +1,17 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 所持股權百分比 |
+| --- | --- | --- | --- |
+| LandMark Co., Ltd. (LandMark) | 屏通科技(深圳)有限公司(屏通深圳公司) | 液晶觸控屏、USB數據線及工業用電腦之生產 | 90.00 90.00 90.00 註2 |
+| Cermate Software Inc. (CSI) | 軟體開發 | 100.00 100.00 100.00 註2及 註6 |
+| 寶元數控股份有限公司(寶元數控公司) | Better Auto Holdings Limited (Better Auto) | 控股公司 | 100.00 100.00 100.00 註2 |
+| 寶元智造股份有限公司(寶元智造公司) | 系統整合應用、系統家具智慧設計、生產及銷售 | 77.52 87.27 87.27 註2及 註8 |
+| BEST PLC LTD. (BEST PLC) | 控股公司 | 100.00 100.00 100.00 註2及 註11 |
+| Better Auto Holdings Limited (Better Auto) | Famous Now Limited (Famous Now) | 控股公司 | 100.00 100.00 100.00 註2 |
+| BEST PLC LTD. (BEST SERVO) | BEST SERVO LTD. (BEST SERVO) | 控股公司 | 100.00 100.00 100.00 註2及 註12 |
+| Famous Now Limited (Famous Now) | 東莞寶元智動數控有限公司(東莞寶元智動公司) | 控制器製造及買賣 | 100.00 100.00 100.00 註2 |
+| 寶元智造股份有限公司(寶元智造公司) | BEST MACHINE LTD. (BEST MACHINE) | 控股公司 | 100.00 100.00 - 註2及 註14 |
+| BEST AUTOMATION LTD. (BEST AUTOMATION) | 控股公司 | 100.00 100.00 - 註2及 註15 |
+| BEST MACHINE LTD. (BEST MACHINE) | 東莞寶元智造科技有限公司(東莞寶元智造公司) | 系統整合應用 | 100.00 - - 註2及 註16 |
+| Advantech Technology Limited (AIE) | Advantech CZech, s.r.o. (ACZ) | 自動控制製造 | 100.00 100.00 100.00 註2 |
+| Advantech Industrial Computing India Private Limited (ARI) | Advantech Raiser India Private Limited (AIN) | 工業用電腦之行銷買賣 | 55.00 55.00 55.00 註2 |
+```

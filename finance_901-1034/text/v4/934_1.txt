@@ -1,0 +1,19 @@
+```markdown
+### 三四、重大或有負債及未認列之合約承諾
+
+除已於其他附註所述者外，合併公司於資產負債表日之重大或有事項如下：
+
+#### (一) 重大承諾
+
+1. 合併公司為有效活用資產，提高廠房結構安全及坪效，於110年10月28日董事會決議通過將原中和廠基地都更興建為中和數位大樓，合併公司於111年第二季以自地委建方式與千瑞營造股份有限公司簽訂合約，契約總金額不超過1,886,000仟元。
+
+2. 合併公司為因應未來業務及產能擴充，於111年10月28日董事會決議通過興建高雄製造中心二期廠房，合併公司於112年第二季以租地委建方式與潤弘精密工程事業股份有限公司簽訂合約，契約總金額不超過4,395,000仟元。
+
+#### (二) 或有事項
+
+1. Nitride Semiconductors Co., Ltd.控告LITE-ON Technology Corporation、LITE-ON TECHNOLOGY USA, INC.、LITE-ON, INC.及LITE-ON TRADING USA, INC.所生產／販售之特定產品侵害其專利權並請求支付權利金一案，已與Nitride Semiconductors Co., Ltd.達成和解並簽署和解協議，法院已接受雙方提交撤回訴訟申請。本案對集團營運及財務無重大影響。
+
+2. Sensor Electronic Technology, Inc.控告LITE-ON Technology Corporation, LITE-ON TECHNOLOGY USA, INC., LITE-ON, INC.及LITE-ON TRADING USA, INC.所生產／販售之特定產品侵害其專利權並請求支付權利金一案，已與Sensor Electronic Technology, Inc.達成和解並簽署和解協議，法院已接受雙方提交撤回訴訟申請。本案對集團營運及財務無重大影響。
+
+3. Nitek, Inc.控告LITE-ON Technology Corporation, LITE-ON TECHNOLOGY USA, INC., LITE-ON, INC.及LITE-ON TRADING USA, INC.所生產／販售之特定產品侵害其專利權並請求支付權利金一案，已與Nitek, Inc.達成和解並簽署和解協
+```

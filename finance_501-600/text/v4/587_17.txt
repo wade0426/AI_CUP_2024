@@ -1,0 +1,30 @@
+```markdown
+合併公司對凱美電機因實質上具有重大影響力，故採用權益法評價。
+
+112年及111年1月1日至9月30日採用權益法之投資及合併公司對其所享有之損益及其他綜合損益份額，除GTCL112年及111年1月1日至6月30日係按經會計師核閱之財務報告計算外，其餘係按各關係企業同期間未經會計師核閱之財務報告認列；惟合併公司管理階層認為上述被投資公司財務報告未經會計師核閱尚不致產生重大影響。
+
+關聯企業具公開市場報價之第1等級公允價值資訊如下：
+
+| 公司名稱 | 112年9月30日 | 111年12月31日 | 111年9月30日 |
+| --- | --- | --- | --- |
+| 富鼎先進 | $2,891,000 | $ - | $ - |
+| 凱美電機 | 528,633 | 425,557 | 400,899 |
+| GTCL | 209,750 | 290,352 | 270,397 |
+| **$3,629,383** | **$715,909** | **$671,296** |
+
+(二) 投資合資
+
+個別不重大之合資投資
+
+| 112年9月30日 | 111年12月31日 | 111年9月30日 |
+| --- | --- | --- |
+| KEMET Jianghai Electronics Components Co., Ltd | $26,574 | $38,714 | $48,921 |
+
+合併公司對合資直接持有之股權百分比如下：
+
+| 被投資公司名稱 | 112年9月30日 | 111年12月31日 | 111年9月30日 |
+| --- | --- | --- | --- |
+| KEMET Jianghai Electronics Components Co., Ltd | 50% | 50% | 50% |
+
+本公司之子公司KEMET Electronics Corporation於107年1月29日與Jianghai (Nantong) Film Capacitor Co., Ltd簽訂合資協議，成立KEMET Jianghai Electronics Components Co., Ltd。KEMET Electronics Corporation取得KEMET Jianghai Electronics Components Co., Ltd50%股權，與Jianghai (Nantong) Film Capacitor Co., Ltd具有相同董事席次。
+```

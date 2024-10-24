@@ -1,0 +1,15 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 所持股權百分比 |
+| --- | --- | --- | --- |
+| Advantech Automation Corp. (ANA) | Advantech Corp. (ANA) | 工業用電腦之組裝行銷買賣 | 100.00 100.00 100.00 |
+| Advantech Automation Corp. (HK) [AAC (HK)] | Advantech Automation Corp. (HK) [AAC (HK)] | 生產及服務業之海外投資 | 100.00 100.00 100.00 |
+| Advantech Electronics, S.A.P.I. DE C.V. (AMX) | Advantech Electronics, S.A.P.I. DE C.V. (AMX) | 工業用電腦之行銷買賣 | 0.10 - - 註2及註17 |
+| Advantech Service - IoT Co., Ltd. [SIoT (Cayman)] | Advantech Service - IoT Co., Ltd. [SIoT (Cayman)] | 智能物聯網系統服務之設計、研發及銷售買賣 | 100.00 100.00 100.00 註2 |
+| Advantech Technology DMCC (ADB) | Advantech Technology DMCC (ADB) | 工業網路通訊 | 100.00 100.00 100.00 註2 |
+| Advantech Corp. (ANA) | Advantech Technology Limited (AIE)(原BBIE) | 工業網路通訊 | 100.00 100.00 100.00 註2 |
+| Advantech Automation Corp. (HK) [AAC (HK)] | 北京研華興業電子科技有限公司 | 工業用電腦之行銷買賣 | 100.00 100.00 100.00 |
+| 上海研華慧勝智能科技有限公司 (AiSC) | 上海研華慧勝智能科技有限公司 (AiSC) | 工業用電腦之製造、行銷及買賣 | 82.00 100.00 100.00 註2及註13 |
+| Advantech Service - IoT Co., Ltd. [SIoT (Cayman)] | 研華服創(上海)智能科技有限公司 [SIoT (China)] | 智能科技領域內的技術開發、諮詢、服務 | 99.00 99.00 99.00 註2 |
+| Advantech Service - IoT GmbH (A-SIoT) | Advantech Service - IoT GmbH (A-SIoT) | 工業車載電腦產品之設計、研發及銷售買賣 | - - 100.00 註2及註9 |
+| 北京研華興業電子科技有限公司 (ACN) | 西安研華軟件有限公司(AXA) | 軟件技術開發、軟件產品製作 | 100.00 100.00 100.00 註2 |
+```

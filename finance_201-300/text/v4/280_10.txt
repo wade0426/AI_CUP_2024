@@ -1,0 +1,11 @@
+```markdown
+| 編號 | 投資公司名稱 | 子公司名稱 | 業務性質 | 111年3月31日 | 110年12月31日 | 110年3月31日 | 說明 |
+|------|--------------|------------|----------|--------------|--------------|--------------|------|
+| 68.  | DHK          | 易達電源科技(東莞)有限公司 | 開發、生產和銷售接入網路通訊配套智能化電源設備及系統，生產和銷售再生能源配套智能化電源設備 | -             | -             | 100.00       | (註1) (註18) |
+| 69.  | DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (USA) INC. | 經營電源供應器等之製造及銷售業務 | 100.00       | 100.00       | 100.00       |  |
+| 70.  | DELTA ELECTRONICS (USA) INC. | DELTA ELECTRONICS (ARGENTINA) S.R.L. | 經營電源供應器等之銷售業務 | 100.00       | 100.00       | 100.00       | (註1) (註2) |
+| 71.  | DEN、DELTA ELECTRONICS (USA) INC. | ELTEK SISTEMAS DE ENERGIA INDUSTRIA E COMERCIO LTDA. | 經營電源供應器等之製造及銷售業務 | 100.00       | 100.00       | 100.00       | (註1) (註2) (註24) |
+| 72.  | DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (PERU) INC. S.R.L. | 經營電源供應器等之銷售業務 | 100.00       | 100.00       | 100.00       | (註1) (註2) |
+| 73.  | DELTA ELECTRONICS (USA) INC. | DELTA ELECTRONICS (COLOMBIA) S.A.S. | " | 100.00       | 100.00       | 100.00       | (註1) (註2) |
+| 74.  | DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. | Eltekenergy Services, S.A. de C.V. | " | 100.00       | 100.00       | 100.00       | (註1) (註2) |
+```

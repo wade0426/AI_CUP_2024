@@ -1,0 +1,41 @@
+```markdown
+| 投资公司名称 | 子公司名称 | 业务性质 | 所持股权限比 | 111年 | 110年 | 110年 | 说明 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Ta-Ho Maritime Holdings Ltd. | 巴商德熙国际公司 | 船舶运输 | 100.0 | 100.0 | 100.0 | 100.0 |
+| Ta-Ho Maritime Holdings Ltd. | 達和航运（新加坡）公司 | 船舶运输 | 100.0 | 100.0 | 100.0 | 100.0 |
+| 台讯（萨摩亚）有限公司 | 福州台泥软件科技有限公司 | 软件产品发展、生产及设备维修 | 100.0 | 100.0 | 100.0 | 100.0 |
+| 達和航运（香港）公司 | 達通（香港）国际物流有限公司 | 物流运输 | 100.0 | 100.0 | 100.0 | 100.0 |
+| 達通（香港）国际物流有限公司 | 英德市达通物流服务有限公司 | 物流运输 | 100.0 | 100.0 | 100.0 | 100.0 |
+| 達通（香港）国际物流有限公司 | 贵港市达和船务有限责任公司 | 船舶运输 | 100.0 | 100.0 | 100.0 | 100.0 |
+| TCC Dutch | Taiwan Cement Europe Holdings B.V. (TCEH) | 投资控股 | 100.0 | 100.0 | 100.0 | (4) (8) (10) |
+| TCEH | NHOA S.A. | 投资控股 | 65.2 | 65.2 | 65.2 | (8) (10) |
+| NHOA S.A. | NHOA ENERGY S.R.L. | 可再生能源和储能系统建设 | 100.0 | 100.0 | - | (8) (10) |
+| NHOA S.A. | ELECTRO POWER SYSTEM MANUFACTURING | 可再生能源和储能系统建设 | 100.0 | 100.0 | - | (8) |
+| NHOA S.A. | Comores Energie Nouvelles S.A.R.L. | 可再生能源和储能系统建设 | 60.0 | 60.0 | - | (8) |
+| NHOA S.A. | ATLANTE TOPCO S.R.L. | 投资控股 | 100.0 | - | - | (4) |
+| NHOA ENERGY S.R.L. | FREE2MOVE ESOLUTIONS S.P.A. | 電動汽车充電設備 | 49.9 | 49.9 | - | (3) (8) (10) |
+| NHOA ENERGY S.R.L. | NHOA AMERICAS LLC | 可再生能源和储能系统建设 | 100.0 | 100.0 | 100.0 | (8) |
+| NHOA ENERGY S.R.L. | NHOA AUSTRALIA PTY LTD | 可再生能源和储能系统建设 | 100.0 | 100.0 | 100.0 | (8) |
+| NHOA ENERGY S.R.L. | ATLANTE S.R.L. | 再生能源与充電事业 | - | 100.0 | - | (4) (9) |
+| ATLANTE S.R.L. | ATLANTE S.R.L. | 再生能源与充電事业 | 100.0 | - | - | (4) (9) |
+| ATLANTE S.R.L. | ATLANTE IBERIA S.L. | 再生能源与充電事业 | 100.0 | - | - | (4) |
+| ATLANTE S.R.L. | ATLANTE FRANCE S.A.S. | 再生能源与充電事业 | 100.0 | - | - | (4) |
+| FREE2MOVE | FREE2MOVE ESOLUTIONS FRANCE S.A.S. | 電動汽车充電設備 | 100.0 | - | - | (4) |
+| FREE2MOVE | FREE2MOVE ESOLUTIONS SPAIN S.L.U. | 可再生能源和储能系统建设 | 100.0 | - | - | (4) |
+| 台泥循环能源公司 | 能元科技股份有限公司（能元科技公司） | 锂电池制造及销售 | 100.0 | 100.0 | 100.0 | (2) (10) |
+| 能元科技公司 | E-One Holdings Ltd. | 投资控股 | 100.0 | 100.0 | 100.0 | (2) |
+| 能元科技公司 | 三元能源科技股份有限公司（三元能源公司） | 電池、發電機械、電子零组件等之製造及销售 | 100.0 | 100.0 | 100.0 | (2) (10) |
+| E-One Holdings Ltd. | E-One Moli Holdings (Canada) Ltd. | 投资控股 | 100.0 | 100.0 | 100.0 | (2) |
+| E-One Moli Holdings (Canada) Ltd. | E-One Moli Energy (Canada) Ltd. | 電池研究開發及销售 | 100.0 | 100.0 | 100.0 | (2) |
+| TCCIH | 隆昌投资有限公司 | 投资控股 | 100.0 | 100.0 | 100.0 | (10) |
+| TCCIH | Upper Value Investments Ltd. (UPPV) | 投资控股 | 100.0 | 100.0 | 100.0 | (10) |
+| TCCIH | TCC Hong Kong Cement (BVI) Holdings Ltd. | 投资控股 | 100.0 | 100.0 | 100.0 | (10) |
+| TCCIH | Ulexite Investments Ltd. | 投资控股 | 100.0 | 100.0 | 100.0 | (2) |
+| TCCIH | 台泥循环能源公司 | 投资控股 | 38.7 | - | - | (2) |
+| 隆昌投资有限公司 | Prime York Ltd. | 投资控股 | 100.0 | 100.0 | 100.0 | (10) |
+| 隆昌投资有限公司 | Prosperity Minerals (International) Ltd. | 投资控股 | 100.0 | 100.0 | 100.0 | (10) |
+| TCCI Hong Kong Cement (BVI) Holdings Ltd. | TCCI Hong Kong Cement Development Ltd. | 投资控股 | 100.0 | 100.0 | 100.0 | (10) |
+| TCCI Hong Kong Cement (BVI) Holdings Ltd. | TCCI Hong Kong Cement (QHC) Ltd. | 投资控股 | 100.0 | 100.0 | 100.0 | (10) |
+
+(接次页)
+```

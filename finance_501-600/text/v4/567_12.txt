@@ -1,0 +1,20 @@
+```markdown
+| 編號 | 投資公司名稱 | 子公司名稱 | 業務性質 | 合併所持股權百分比 |
+|------|--------------|------------|----------|---------------------|
+| 114. | Amerlux      | Amerlux Lighting Asia, LLC | 投資事業 | 100.00 100.00 100.00 (註1) (註2) |
+| 115. | Amerlux Lighting Asia, LLC | Amerlux Lighting Hong Kong Limited | " | 100.00 100.00 100.00 (註1) (註2) |
+| 116. | Amerlux Lighting Hong Kong Limited | 廣州埃墨勒施照明器具有限公司 | 燈具、裝飾物品之批發 | 100.00 100.00 100.00 (註1) (註2) |
+| 117. | DIH | Digital Projection International Ltd. (DPI) | 投資事業 | 100.00 100.00 100.00 (註1) (註2) |
+| 118. | DPI | Digital Projection Holdings Ltd. | " | 100.00 100.00 100.00 (註1) (註2) |
+| 119. | Digital Projection Holdings Ltd. | Digital Projection Ltd. | 經營投影機產品之研發及買賣 | 100.00 100.00 100.00 (註1) (註2) |
+| 120. | Digital Projection Ltd. | Digital Projection Inc. | 經營投影機產品之買賣 | 100.00 100.00 100.00 (註1) (註2) |
+| 121. | DIH/DEN | Trihedral Engineering Limited (Trihedral) | 圖控軟體和相關工程服務 | 100.00 100.00 100.00 (註1) (註2) (註25) |
+| 122. | Trihedral | Trihedral Inc. | " | 100.00 100.00 100.00 (註1) (註2) |
+| 123. | " | Trihedral UK Limited | " | 100.00 100.00 100.00 (註1) (註2) |
+| 124. | DIH | March Networks Holdings Ltd. | 投資事業 | 100.00 100.00 100.00 (註1) (註2) |
+| 125. | March Networks Holdings Ltd. | March Networks Corporation | 安全監控軟硬體和相關工程服務 | 100.00 100.00 100.00 (註1) (註2) |
+| 126. | March Networks Corporation | March Networks, Inc. | " | 100.00 100.00 100.00 (註1) (註2) |
+| 127. | " | March Networks de Mexico, S.A.de C.V. | " | 100.00 100.00 100.00 (註1) (註2) |
+| 128. | " | March Networks (Australia) Pty Limited | " | 100.00 100.00 100.00 (註1) (註2) |
+| 129. | " | March Networks Limited | " | 100.00 100.00 100.00 (註1) (註2) |
+```

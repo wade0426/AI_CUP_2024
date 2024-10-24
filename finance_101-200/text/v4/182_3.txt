@@ -1,0 +1,15 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 111年3月31日 | 110年12月31日 | 110年3月31日 | 說明 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Leading Enterprises Limited | Realtek Semiconductor (Japan) Corp. | 資訊蒐集與技術服務 | 100% | 100% | 100% | 註3 |
+| Leading Enterprises Limited | Circon Universal Inc. | 對各種事業之投資 | 100% | 100% | 100% | 註3 |
+| Amber Universal Inc. | Realtek Semiconductor (Hong Kong) Limited | 資訊及技術服務 | 100% | 100% | 100% | 註3 |
+| Amber Universal Inc. | 瑞昱半導體(深圳)有限公司 | 研發與技術服務 | 100% | 100% | 100% | 註3 |
+| Empsonic Enterprises Inc. | 瑞晟微電子(蘇州)有限公司 | " | 100% | 100% | 100% | 註3 |
+| Talent Eagle Enterprise Inc. | Ubilinx Technology Inc. | " | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | Cortina Access Inc. | " | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | 科締納科技股份有限公司 | " | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | 科締納網路系統(上海)有限公司 | " | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | Empsonic Enterprises Inc. | 對各種事業之投資 | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | Realtek Viet Nam Co., Ltd. | 研發與技術服務 | 100% | 100% | 100% | 註3 |
+```

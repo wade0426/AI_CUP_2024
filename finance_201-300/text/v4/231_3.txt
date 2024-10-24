@@ -1,0 +1,20 @@
+```markdown
+| 投資公司 | 子公司 | 業務性質 | 所持股權百分比(%) | 111年9月30日 | 110年12月31日 | 110年9月30日 | 說明 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 本公司 | 台灣碼頭服務股份有限公司（台灣碼頭） | 商港區船舶貨物裝卸承攬 | 55.00 | 55.00 | 55.00 |  |
+| 本公司 | Peony Investment S.A.（永華投資） | 對世界各地運輸相關行業之投資 | 100.00 | 100.00 | 100.00 |  |
+| 本公司 | Everport Terminal Services Inc.（ETS） | 碼頭服務 | 94.43 | 94.43 | 94.43 |  |
+| 本公司 | Evergreen Marine (Hong Kong) Ltd.（EGH） | 貨櫃運送之國際海運業及貨運與船務代理業務 | 79.00 | 79.00 | 79.00 |  |
+| 本公司 | Evergreen Shipping Agency (Israel) Ltd.（EIL） | 貨運及船務代理業務 | 59.00 | 59.00 | 59.00 |  |
+| 本公司 | Evergreen Marine (Asia) Pte. Ltd.（EMA） | 貨櫃運送之國際海運業 | 100.00 | 100.00 | 100.00 | 註1 |
+| 本公司 | 長榮警備保全股份有限公司（長榮保全） | 保全業 | 62.25 | 31.25 | 31.25 | 註8 |
+| 永華投資 | Greencompass Marine S.A.（GMS） | 貨櫃運送之國際海運業 | 100.00 | 100.00 | 100.00 |  |
+| 永華投資 | Clove Holding Ltd.（Clove） | 對櫃場、碼頭之投資 | 100.00 | 100.00 | 100.00 |  |
+| 永華投資 | Evergreen Marine (UK) Limited（EMU） | 貨櫃運送之國際海運業 | 51.00 | 51.00 | 51.00 |  |
+| 永華投資 | Evergreen Heavy Industrial Corp.（Malaysia）Berhad（EHIC(M)） | 鋼製乾貨櫃、貨櫃零件及有關大型沖壓件製造 | 84.44 | 84.44 | 84.44 |  |
+| 永華投資 | 長華國際物流(天津)有限公司（長華天津） | 集裝箱裝卸、儲存、修洗及拆併櫃 | 20.00 | 20.00 | 20.00 | 註10 |
+| 永華投資 | PT. Multi Bina Pura International（MBPI） | 空貨櫃儲存、理貨併櫃、海關重櫃檢驗 | 95.03 | 95.03 | 95.03 |  |
+| 永華投資 | PT. Multi Bina Transport（MBT） | 內陸運輸、修洗櫃 | 17.39 | 17.39 | 17.39 | 註10 |
+| 永華投資 | Evergreen Shipping Agency (Korea) Corporation（EGK） | 貨運及船務代理業務 | 100.00 | 100.00 | 100.00 |  |
+| 永華投資 | Evergreen Shipping Agency (Thailand) Co., Ltd.（EGT） | 貨運及船務代理業務 | 85.00 | 85.00 | 85.00 |  |
+```

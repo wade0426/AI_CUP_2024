@@ -1,0 +1,13 @@
+```markdown
+| 投資公司 | 子公司 | 業務性質 | 合併所持股權百分比 |
+| --- | --- | --- | --- |
+| 編號 | 名稱 | 名稱 | 112年 | 111年 | 111年 | 說明 |
+| 63. | DEN、DELTA ELECTRONICS (USA) INC. | ELTEK SISTEMAS DE ENERGIA INDUSTRIA E COMERCIO LTDA. | 經營電源供應器等之製造及銷售業務 | 100.00 | 100.00 | 100.00 | （註1）（註2）（註9） |
+| 64. | DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (PERU) INC. S.R.L. | 經營電源供應器等之銷售業務 | 100.00 | 100.00 | 100.00 | （註1）（註2） |
+| 65. | DELTA ELECTRONICS (USA) INC. | DELTA ELECTRONICS (COLOMBIA) S.A.S. | " | 100.00 | 100.00 | 100.00 | （註1）（註2） |
+| 66. | DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. | Eltekenergy Services, S.A. de C.V. | " | 100.00 | 100.00 | 100.00 | （註1）（註2） |
+| 67. | DHK、DIH | Eltekenergy International de México, S. de R.L. de C.V. | " | - | - | 100.00 | （註2）（註6） |
+| 68. | DAL | Delta Electronics (Americas) Ltd. | 經營電子零組件之銷售業務 | 100.00 | 100.00 | 100.00 | （註2） |
+| 69. | 乾坤 | 力林科技股份有限公司（力林） | 電源管理IC設計 | 99.74 | 99.74 | 100.00 | （註1）（註2） |
+| 70. | 台達企管、中達電通/上海中達能源科技有限公司 | 上海浦環中達能源科技有限公司 | 太陽能熱發電產品銷售、太陽能熱發電裝備銷售、光伏設備及元器件銷售、機械電器設備銷售、電力電子元器件銷售、半導體器件專用設備銷售、光伏發電設備租賃、工程和技術研究和試驗發展、節能管理服務、太陽能發電技術服務 | 100.00 | 100.00 | 100.00 | （註1）（註2）（註12） |
+```

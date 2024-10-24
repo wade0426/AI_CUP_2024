@@ -1,0 +1,36 @@
+```markdown
+| 關係人名稱 | 與合併公司之關係 |
+| --- | --- |
+| Zerova Technologies USA LLC | 合併公司為其母公司之主要管理階層 |
+| 聯鋼開發股份有限公司 | 合併公司為其母公司之主要管理階層 |
+| 萬鼎工程服務股份有限公司（萬鼎工程） | 合併公司為其母公司之主要管理階層 |
+| 益鼎工程股份有限公司（益鼎工程） | 合併公司為其母公司之主要管理階層 |
+| 中信投資股份有限公司 | 主要管理階層相同 |
+| 協原化學股份有限公司 | 主要管理階層相同 |
+| 中橡（馬鞍山）化學工業有限公司 | 主要管理階層相同 |
+| 中橡（鞍山）化學工業有限公司 | 主要管理階層相同 |
+| 財團法人劍潭古寺 | 主要管理階層相同 |
+| 中橡（重慶）碳黑有限公司 | 主要管理階層相同 |
+| 財團法人辜嚴倬雲植物保種暨環境保護發展基金會 | 主要管理階層相同 |
+| 財團法人花蓮縣私立和平永續慈善事業基金會 | 主要管理階層相同 |
+| Continental Carbon India Ltd. | 主要管理階層相同 |
+| Continental Carbon Eco Technology Private Limited | 主要管理階層相同 |
+| 林園先進材料科技股份有限公司 | 主要管理階層相同 |
+| 富品投資股份有限公司 | 主要管理階層相同 |
+| 興城投資股份有限公司 | 主要管理階層相同 |
+| FCA AUSTRIA GMBH | 實質關係人 |
+| FCA BELGIUM S.A. | 實質關係人 |
+| FCA GERMANY A.G. | 實質關係人 |
+| FCA FRANCE | 實質關係人 |
+| GROUPE PSA ITALIA S.P.A. | 實質關係人 |
+| LEASYS RENT S.P.A. | 實質關係人 |
+| FIAT CHRYSLER AUTOMOBILES ITALY S.P.A. | 實質關係人 |
+| Fiat Chrysler Automobiles N.V. | 實質關係人 |
+| LEASYS S.P.A. | 實質關係人 |
+| PSA AUTOMOBILES S.A. | 實質關係人 |
+| MASERATI S.P.A. | 實質關係人 |
+| OPEL FRANCE | 實質關係人 |
+| ORIENTE S.P.A. | 實質關係人 |
+
+(接次頁)
+```

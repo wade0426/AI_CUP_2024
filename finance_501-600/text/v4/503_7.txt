@@ -1,0 +1,23 @@
+```markdown
+| 名稱 | 子公司名稱 | 業務性質 | 所持股權百分比 |
+|------|------------|----------|----------------|
+| AIL集團 | ASUS NORDIC AB (ACN) | 北歐地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | ASUS COMPUTER COLOMBIA S. A. S. (ACCO) | 哥倫比亞地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | ASUS (THAILAND) CO., LTD. (ACTH) | 泰國地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | ASUSTEK COMPUTERS (PTY) LIMITED (ACZA) | 非洲地區3C資訊產品之支援及維修 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | ASUSTEK COMPUTER MALAYSIA SDN. BHD. (ACMY) | 馬來西亞地區3C資訊產品之支援及維修 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | ASUS BILGISAYAR SİSTEMLERİ TİCARET LIMITED ŞİRKETİ (ACTR) | 土耳其地區3C資訊產品之支援及維修 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | ASUS CHILE SPA (ACCL) | 智利地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | ASUS TEKNOLOJI SERVISLERİ TİCARET LIMITED ŞİRKETİ (ASTR) | 土耳其地區3C資訊產品之維修 | - | 100.00 | 100.00 |
+| AIL集團 | ASUS SERVICE (THAILAND) CO., LTD. (ASTH) | 泰國地區3C資訊產品之維修 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | ASUS PHILIPPINES CORPORATION (ASPH) | 菲律賓地區3C資訊產品之支援及維修 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | QC SERVER AB (QCS) | 資訊技術之服務 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | 上海華維電腦有限公司 (上海華維) | 3C資訊產品之維修 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | 華碩置業(蘇州)有限公司 (華碩置業蘇州) | 不動產之出租 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | ASUS CZECH SERVICE S. R. O. (ACCZS) | 歐洲地區3C資訊產品之維修 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | ASUS PROPERTIES (VIETNAM) LTD. (APVN) | 不動產之出租及買賣 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | LIABILITY LIMITED COMPANY A25 (A25) | 俄羅斯地區3C資訊產品之銷售 | 100.00 | 100.00 | 100.00 |
+| AIL集團 | ASUS UKRAINE LIMITED LIABILITY COMPANY (ACUKR) | 烏克蘭地區3C資訊產品之支援 | 100.00 | 100.00 | - |
+```
+
+注: 持股比率係持有控制比率非綜合持股比率。

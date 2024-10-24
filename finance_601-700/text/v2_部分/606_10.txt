@@ -1,0 +1,70 @@
+### 财务报告
+
+#### 投资公司名称
+| 投资公司名称 | 子公司名称 | 业务性质 | 所持股权百分比 |
+|--------------|------------|----------|----------------|
+| TCC Hong Kong Cement (BVI) Holdings Ltd. | TCC Hong Kong Cement (International) Ltd. | 投资控股 | 100.0 |
+| TCC Hong Kong Cement (BVI) Holdings Ltd. | Hong Kong Cement Company Limited (HKCCL) | 水泥买卖 | 100.0 |
+| TCC Hong Kong Cement (QHC) Ltd. | Chiefolk Company Ltd. | 投资控股 | 70.0 |
+| Chiefolk Company Ltd. | TCC International (Liuzhou) Ltd. | 投资控股 | 100.0 |
+| TCC International (Liuzhou) Ltd. | TCC Liuzhou Company Ltd. | 投资控股 | 100.0 |
+| TCC Hong Kong Cement (Philippines) Ltd. | TCC Cement Corp. | 提供水泥处理服务 | 100.0 |
+| TCC Hong Kong Cement (International) Ltd. | TCC International (Hong Kong) Co., Ltd. (TCCI (HK)) | 投资控股 | 100.0 |
+| TCCI (HK) | 贵港台泥矿业工程有限公司 | 探矿 | 52.5 |
+| TCCI (HK) | Jiangsu TCC Investment Co., Ltd. | 投资控股 | 100.0 |
+| TCCI (HK) | Jingyang Industrial Limited | 投资控股 | 100.0 |
+| TCCI (HK) | TCC International (Guangxi) Ltd. | 投资控股 | 100.0 |
+| TCCI (HK) | 台泥（韶关）水泥有限公司 | 水泥制造及分销 | 100.0 |
+| TCCI (HK) | 英德台泥矿业工程有限公司 | 探矿 | 48.9 |
+| TCCI (HK) | 台泥（英德）水泥有限公司 | 水泥制造及分销 | 100.0 |
+| TCCI (HK) | 江苏台泥矿业工程有限公司 | 探矿 | 100.0 |
+| TCCI (HK) | 福州台泥洋礁码头有限公司 | 提供码头设施服务 | 100.0 |
+| TCCI (HK) | 台泥（东莞）水泥有限公司 | 水泥制造及分销 | 100.0 |
+| TCCI (HK) | 福州台泥水泥有限公司 | 水泥制造及分销 | 100.0 |
+| TCCI (HK) | 台泥（怀化）水泥有限公司 | 水泥制造及分销 | 31.0 |
+| TCCI (HK) | 台泥（杭州）环保科技有限公司（台泥（杭州）环保公司） | 环保、水泥、企业管理咨询相关业务 | 33.3 |
+| Jiangsu TCC Investment Co., Ltd. | 句容台泥水泥有限公司 | 水泥制造及分销 | 21.5 |
+| Jiangsu TCC Investment Co., Ltd. | 句容台泥环保有限公司 | 危险废物处理 | 21.5 |
+| Jingyang Industrial Limited | 句容台泥水泥有限公司 | 水泥制造及分销 | 78.5 |
+| Jingyang Industrial Limited | 句容台泥环保有限公司 | 危险废物处理 | 78.5 |
+| TCC International (Guangxi) Ltd. | 台泥（贵港）水泥有限公司（台泥贵港公司） | 水泥制造及分销 | 100.0 |
+| TCC International (Guangxi) Ltd. | 台泥（杭州）资源再生技术有限公司（台泥（杭州）资源公司） | 资源再生利用技术开发、企业管理及销售相关业务 | 26.3 |
+| 台泥贵港公司 | 贵港台泥水泥有限公司 | 水泥制造及分销 | 100.0 |
+| 台泥贵港公司 | 贵港台泥矿业工程有限公司 | 探矿 | 47.5 |
+| 台泥贵港公司 | 贵港台泥东固环保科技有限公司 | 危险废物处理 | 100.0 |
+| 台泥贵港公司 | 台泥（杭州）资源公司 | 资源再生利用技术开发、企业管理及销售相关业务 | 73.7 |
+| 台泥（英德）水泥有限公司 | 英德台泥矿业工程有限公司 | 探矿 | 34.8 |
+| 台泥（英德）水泥有限公司 | 瀛州赛德混凝土有限公司 | 预拌混凝土销售 | 25.0 |
+| 台泥（英德）水泥有限公司 | 瀛州赛德水泥有限公司 | 水泥制造及分销 | 10.0 |
+| 台泥（英德）水泥有限公司 | 瀛州纳溪赛德水泥有限公司 | 水泥制造及分销 | 10.0 |
+| 台泥（英德）水泥有限公司 | 合江赛德水泥有限公司 | 水泥制造及分销 | 10.0 |
+| 台泥（英德）水泥有限公司 | 北京台泥环保科技有限责任公司 | 技术开发、企业管理及销售相关业务 | 100.0 |
+| 台泥（英德）水泥有限公司 | 台泥（杭州）环保公司 | 环保、水泥、企业管理咨询相关业务 | 66.7 |
+
+#### 财务报告（续）
+
+| 投资公司名称 | 子公司名称 | 业务性质 | 所持股权百分比 |
+|--------------|------------|----------|----------------|
+| TCC Hong Kong Cement (BVI) Holdings Ltd. | TCC Hong Kong Cement (International) Ltd. | 投资控股 | 100.0 |
+| TCC Hong Kong Cement (BVI) Holdings Ltd. | Hong Kong Cement Company Limited (HKCCL) | 水泥买卖 | 100.0 |
+| TCC Hong Kong Cement (QHC) Ltd. | Chiefolk Company Ltd. | 投资控股 | 70.0 |
+| Chiefolk Company Ltd. | TCC International (Liuzhou) Ltd. | 投资控股 | 100.0 |
+| TCC International (Liuzhou) Ltd. | TCC Liuzhou Company Ltd. | 投资控股 | 100.0 |
+| TCC Hong Kong Cement (Philippines) Ltd. | TCC Cement Corp. | 提供水泥处理服务 | 100.0 |
+| TCC Hong Kong Cement (International) Ltd. | TCC International (Hong Kong) Co., Ltd. (TCCI (HK)) | 投资控股 | 100.0 |
+| TCCI (HK) | 贵港台泥矿业工程有限公司 | 探矿 | 52.5 |
+| TCCI (HK) | Jiangsu TCC Investment Co., Ltd. | 投资控股 | 100.0 |
+| TCCI (HK) | Jingyang Industrial Limited | 投资控股 | 100.0 |
+| TCCI (HK) | TCC International (Guangxi) Ltd. | 投资控股 | 100.0 |
+| TCCI (HK) | 台泥（韶关）水泥有限公司 | 水泥制造及分销 | 100.0 |
+| TCCI (HK) | 英德台泥矿业工程有限公司 | 探矿 | 48.9 |
+| TCCI (HK) | 台泥（英德）水泥有限公司 | 水泥制造及分销 | 100.0 |
+| TCCI (HK) | 江苏台泥矿业工程有限公司 | 探矿 | 100.0 |
+| TCCI (HK) | 福州台泥洋礁码头有限公司 | 提供码头设施服务 | 100.0 |
+| TCCI (HK) | 台泥（东莞）水泥有限公司 | 水泥制造及分销 | 100.0 |
+| TCCI (HK) | 福州台泥水泥有限公司 | 水泥制造及分销 | 100.0 |
+| TCCI (HK) | 台泥（怀化）水泥有限公司 | 水泥制造及分销 | 31.0 |
+| TCCI (HK) | 台泥（杭州）环保科技有限公司（台泥（杭州）环保公司） | 环保、水泥、企业管理咨询相关业务 | 33.3 |
+| Jiangsu TCC Investment Co., Ltd. | 句容台泥水泥有限公司 | 水泥制造及分销 | 21.5 |
+| Jiangsu TCC Investment Co., Ltd. | 句容台泥环保有限公司 | 危险废物处理 | 21.5 |
+| Jingyang Industrial Limited | 句容台泥水泥有限公司 | 水泥制造及分销 | 78.

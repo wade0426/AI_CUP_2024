@@ -1,0 +1,57 @@
+```markdown
+# Cimpor Global Holdings B.V.
+
+## 1. Business Nature, Main Operating Locations, and Company Registration Information
+
+### 1.1 Business Nature
+Cimpor Global Holdings B.V. is a company engaged in the business of manufacturing and trading cement and related products. The company's main operating locations are in Turkey, the Netherlands, and the United States. The company is registered in the Netherlands.
+
+### 1.2 Main Operating Locations
+- **Turkey**: The company's main operating location is in Turkey, where it has a significant presence in the cement manufacturing and trading industry.
+- **Netherlands**: The company has a subsidiary in the Netherlands, which is engaged in the manufacturing and trading of cement and related products.
+- **United States**: The company has a subsidiary in the United States, which is engaged in the manufacturing and trading of cement and related products.
+
+### 1.3 Company Registration Information
+- **Netherlands**: The company is registered in the Netherlands under the name Cimpor Global Holdings B.V.
+- **Turkey**: The company has a subsidiary in Turkey, which is engaged in the manufacturing and trading of cement and related products.
+- **United States**: The company has a subsidiary in the United States, which is engaged in the manufacturing and trading of cement and related products.
+
+## 2. Financial Information
+
+### 2.1 Financial Statements
+The following financial statements are presented for the fiscal years ending September 30, 2012, December 31, 2011, and September 30, 2011:
+
+#### 2.1.1 Balance Sheets
+|  | 2012 | 2011 | 2010 |
+|---|---|---|---|
+| Current Assets | $28,413,870 | $22,714,456 | $18,983,263 |
+| Non-Current Assets | 70,717,320 | 68,009,154 | 50,493,088 |
+| Current Liabilities | (14,809,752) | (15,231,225) | (13,249,957) |
+| Non-Current Liabilities | (15,471,641) | (12,938,960) | (9,938,711) |
+| Non-Controlling Interests | (9,162,748) | (9,147,080) | (4,546,453) |
+| Equity Attributable to Parent Company | $59,687,049 | $53,406,345 | $41,741,230 |
+| Equity Attributable to Parent Company | 40% | 40% | 40% |
+| Equity Attributable to Parent Company | $23,874,820 | $21,362,538 | $16,696,492 |
+| Equity Attributable to Parent Company | 9,849,819 | 9,504,160 | 9,080,075 |
+| Equity Attributable to Parent Company | $33,724,639 | $30,866,698 | $25,776,567 |
+
+#### 2.1.2 Income Statements
+|  | 2012 | 2011 | 2010 |
+|---|---|---|---|
+| Revenue | $16,160,798 | $11,939,414 | $37,554,098 |
+| Gross Profit | $178,920 | $1,523,154 | $4,371,980 |
+| Other Comprehensive Income | $4,008,533 | $(1,149,359) | $197,366 |
+| Total Comprehensive Income | $4,187,453 | $(373,795) | $4,569,346 |
+| Total Comprehensive Income | $1,960,988 | $(1,516,039) | $1,960,988 |
+
+## 3. Additional Information
+
+### 3.1 Additional Information
+Cimpor Global Holdings B.V. is a company engaged in the business of manufacturing and trading cement and related products. The company's main operating locations are in Turkey, the Netherlands, and the United States. The company is registered in the Netherlands under the name Cimpor Global Holdings B.V.
+
+### 3.2 Additional Information
+Cimpor Global Holdings B.V. is a company engaged in the business of manufacturing and trading cement and related products. The company's main operating locations are in Turkey, the Netherlands, and the United States. The company is registered in the Netherlands under the name Cimpor Global Holdings B.V.
+
+### 3.3 Additional Information
+Cimpor Global Holdings B.V. is a company engaged in the business of manufacturing and trading cement and related products. The company's main operating locations are in Turkey, the Netherlands, and the United States. The company is registered in the Netherlands under the name Cimpor Global Holdings B.V.
+```

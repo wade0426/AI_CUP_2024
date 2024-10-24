@@ -1,0 +1,39 @@
+### 财务报告表格数据输出
+
+#### Markdown表格格式
+
+| 投资公司名称 | 子公司名称 | 持股百分比 | 说明 |
+|--------------|------------|------------|------|
+| 统一企业(股)公司 | 统清(股)公司 | 56.00 | 油脂加工、制造及销售 |
+| 统一企业(股)公司 | 统一东京(股)公司 | 51.00 | 汽车租赁 |
+| 统一企业(股)公司 | 统仁药品(股)公司 | 51.00 | 药品业务 |
+| 统一企业(股)公司 | 统奕包装(股)公司 | 50.58 | 包装材料及容器之加工及制造买卖 |
+| 统一企业(股)公司 | 统万(股)公司 | 50.00 | 酱油、调味酱、蔘油 |
+| 统一企业(股)公司 | 台湾神隆(股)公司 | 46.78 | 原料药之研发、生产及销售 |
+| 统一企业(股)公司 | 统一实业(股)公司 | 47.22 | 经营原料钢板等之加工制造及制罐 |
+| 统一企业(股)公司 | 统一超商(股)公司 | 45.80 | 连锁便利商店之投资与经营 |
+| Cayman President Holdings Ltd. | Uni-President Southeast Asia Holdings Ltd.及子公司 | 100.00 | 经营专业投资业务等 |
+| Cayman President Holdings Ltd. | Uni-President Foodstuff (BVI) Holdings Ltd.及子公司 | 100.00 | 经营专业投资业务等 |
+| Cayman President Holdings Ltd. | PT. Uni President Indonesia | 100.00 | 饮料、药妆销售等 |
+| Cayman President Holdings Ltd. | Uni-President Assets Holdings Ltd. | 100.00 | 经营专业投资业务等 |
+| Cayman President Holdings Ltd. | 统一企业中国控股有限公司及子公司 | 72.38 | 食品投资等 |
+| Cayman President Holdings Ltd. | President Energy Development (Cayman Islands) Ltd. | - | 专业投资 |
+
+#### 文本输出
+
+投资公司名称 | 子公司名称 | 持股百分比 | 说明
+--- | --- | --- | ---
+统一企业(股)公司 | 统清(股)公司 | 56.00 | 油脂加工、制造及销售
+统一企业(股)公司 | 统一东京(股)公司 | 51.00 | 汽车租赁
+统一企业(股)公司 | 统仁药品(股)公司 | 51.00 | 药品业务
+统一企业(股)公司 | 统奕包装(股)公司 | 50.58 | 包装材料及容器之加工及制造买卖
+统一企业(股)公司 | 统万(股)公司 | 50.00 | 酱油、调味酱、蔘油
+统一企业(股)公司 | 台湾神隆(股)公司 | 46.78 | 原料药之研发、生产及销售
+统一企业(股)公司 | 统一实业(股)公司 | 47.22 | 经营原料钢板等之加工制造及制罐
+统一企业(股)公司 | 统一超商(股)公司 | 45.80 | 连锁便利商店之投资与经营
+Cayman President Holdings Ltd. | Uni-President Southeast Asia Holdings Ltd.及子公司 | 100.00 | 经营专业投资业务等
+Cayman President Holdings Ltd. | Uni-President Foodstuff (BVI) Holdings Ltd.及子公司 | 100.00 | 经营专业投资业务等
+Cayman President Holdings Ltd. | PT. Uni President Indonesia | 100.00 | 饮料、药妆销售等
+Cayman President Holdings Ltd. | Uni-President Assets Holdings Ltd. | 100.00 | 经营专业投资业务等
+Cayman President Holdings Ltd. | 统一企业中国控股有限公司及子公司 | 72.38 | 食品投资等
+Cayman President Holdings Ltd. | President Energy Development (Cayman Islands) Ltd. | - | 专业投资

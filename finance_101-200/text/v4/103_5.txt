@@ -1,0 +1,20 @@
+```markdown
+| 投資公司 | 子公司 | 業務性質 | 所持股權百分比(%) |
+| --- | --- | --- | --- |
+|  |  |  | 112年9月30日 | 111年12月31日 | 111年9月30日 | 說明 |
+| EGH | Evergreen Shipping Agency (Greece) Anonimi Eteria (EGRC) | 貨運及船務代理業務 | 60.00 | 60.00 | 60.00 |  |
+| EGH | Evergreen Shipping Agency (Israel) Ltd. (EIL) | 貨運及船務代理業務 | 1.00 | 1.00 | 1.00 | 註12 |
+| EGH | Evergreen Marine (Latin America), S.A. (ELA) | 管理顧問 | 100.00 | 100.00 | 100.00 |  |
+| EGH | Evergreen Shipping Agency (Brazil) S.A. (EBR) | 貨運及船務代理業務 | 60.00 | 60.00 | 60.00 |  |
+| EGH | Evergreen Shipping Agency Philippines Corporation (EGP) | 貨運及船務代理業務 | 100.00 | 100.00 | 100.00 |  |
+| EGH | Evergreen Shipping Agency (Argentina) S.A. (EAR) | 貨運及船務代理業務 | 60.00 | 60.00 | 60.00 |  |
+| EGH | Evergreen Shipping Agency Saudi Co. (L. L. C.) (ESAU) | 貨運及船務代理業務 | 60.00 | 60.00 | 60.00 |  |
+| EGH | UNIGREEN MARINE, S.A. (UMS) | 貨運及船務代理業務 | 100.00 | 100.00 | 100.00 |  |
+| EMA | Evergreen Gemi Acenteligi A.S. (ETR) | 貨運及船務代理業務 | 60.00 | 60.00 | 60.00 | 註1 |
+| EMA | Evergreen Shipping Agency (Japan) Corp. (EGJ) | 貨運及船務代理業務 | 100.00 | 100.00 | 100.00 | 註2 |
+| EMA | Evergreen Business Process Inc. (EBPI) | 電腦系統備援服務及碼頭後勤作業 | 100.00 | 100.00 | 100.00 | 註3 |
+| EMA | Evergreen Shipping Agency (Ecuador) S.A. (EECU) | 貨運及船務代理業務 | 60.00 | 60.00 | 60.00 | 註5 |
+| EMA | Evergreen International Myanmar Co., Ltd. (EIM) | 貨運及船務代理業務 | 70.00 | 70.00 | - | 註6 |
+| EMA | Colon Container Terminal, S.A. (CCT) | 碼頭服務 | 100.00 | - | - | 註7 |
+| EMA | 長榮信息處理(上海)有限公司 (EIP) | 資料處理及資訊技術諮詢服務 | 100.00 | - | - | 註8 |
+```

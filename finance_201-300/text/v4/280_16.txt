@@ -1,0 +1,15 @@
+```markdown
+| 編號 | 投資公司名稱 | 子公司名稱 | 業務性質 | 111年3月31日 | 110年12月31日 | 110年3月31日 | 說明 |
+|------|--------------|------------|----------|--------------|--------------|--------------|------|
+| 127. | Delta Greentech (Netherlands) B.V. | Eltek s.r.o. | 製造通訊電源系統 | 100.00 | 100.00 | 100.00 | |
+| 128. | " | Delta Electronics (Automotive) Americas Inc. | 研發汽車動力及牽引逆變器 | 100.00 | 100.00 | 100.00 | |
+| 129. | DEN | Amerlux, LLC (Amerlux) | 專用照明系統及設施之設計及生產 | 100.00 | 100.00 | 100.00 | (註1) (註2) |
+| 130. | Amerlux | Amerlux Lighting Asia, LLC | 投資事業 | 100.00 | 100.00 | 100.00 | (註1) (註2) |
+| 131. | Amerlux Lighting Asia, LLC | Amerlux Lighting Hong Kong Limited | " | 100.00 | 100.00 | 100.00 | (註1) (註2) |
+| 132. | Amerlux Lighting Hong Kong Limited | 廣州埃墨勒施照明器具有限公司 | 燈具、裝飾物品之批發 | 100.00 | 100.00 | 100.00 | (註1) (註2) |
+| 133. | DIH | Digital Projection International Ltd. (DPI) | 投資事業 | 100.00 | 100.00 | 100.00 | (註1) (註2) |
+| 134. | DPI | Digital Projection Holdings Ltd. | " | 100.00 | 100.00 | 100.00 | (註1) (註2) |
+| 135. | Digital Projection Holdings Ltd. | Digital Projection Ltd. | 經營投影機產品之研發及買賣 | 100.00 | 100.00 | 100.00 | (註1) (註2) |
+| 136. | Digital Projection Ltd. | Digital Projection Inc. | 經營投影機產品之買賣 | 100.00 | 100.00 | 100.00 | (註1) (註2) |
+| 137. | DEN | Trihedral Engineering Limited (Trihedral) | 圖控軟體和相關工程服務 | 100.00 | 100.00 | 100.00 | (註1) (註2) |
+```

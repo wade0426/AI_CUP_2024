@@ -1,0 +1,19 @@
+```markdown
+| 投資公司 | 子公司 | 業務性質 | 所持股權百分比(%) |
+| --- | --- | --- | --- |
+| EGH | 長榮國際船務(深圳)有限責任公司(長榮國際船務深圳) | 貨運及船務代理業務 | 65.00 | 65.00 | 65.00 |
+| EGH | 長華國際物流(天津)有限公司(長華天津) | 集裝箱裝卸、儲存、修洗及拆併櫃 | 20.00 | 20.00 | 20.00 | 註8 |
+| EGH | Evergreen Shipping Services (Cambodia) Co., Ltd. (EKH) | 貨運及船務代理業務 | 100.00 | 100.00 | 100.00 |
+| EGH | Evergreen Shipping Agency (Peru) S.A.C. (EPE) | 貨運及船務代理業務 | 60.00 | 60.00 | 60.00 |
+| EGH | Evergreen Shipping Agency (Colombia) S.A.S. (ECO) | 貨運及船務代理業務 | 75.00 | 75.00 | 75.00 |
+| EGH | Evergreen Shipping Agency (Chile) Spa (ECL) | 貨運及船務代理業務 | 60.00 | 60.00 | 60.00 |
+| EGH | Evergreen Shipping Agency Mexico S.A. de C.V. (EMX) | 貨運及船務代理業務 | 60.00 | 60.00 | 60.00 |
+| EGH | Evergreen Shipping Agency (Greece) Anonimi Eteria (EGRC) | 貨運及船務代理業務 | 60.00 | 60.00 | 60.00 |
+| EGH | Evergreen Shipping Agency (Israel) Ltd. (EIL) | 貨運及船務代理業務 | 1.00 | 1.00 | 1.00 | 註8 |
+| EGH | Evergreen Marine (Latin America), S.A. (ELA) | 管理顧問 | 100.00 | 100.00 | 100.00 |
+| EGH | Evergreen Shipping Agency (Brazil) S.A. (EBR) | 貨運及船務代理業務 | 60.00 | 60.00 | 60.00 |
+| EGH | Evergreen Shipping Agency Philippines Corporation (EGP) | 貨運及船務代理業務 | 100.00 | 100.00 | 100.00 |
+| EGH | Evergreen Shipping Agency (Argentina) S.A. (EAR) | 貨運及船務代理業務 | 60.00 | 60.00 | 60.00 |
+| EGH | Evergreen Shipping Agency Saudi Co. (L. L. C.) (ESAU) | 貨運及船務代理業務 | 60.00 | 60.00 | 60.00 |
+| EGH | UNIGREEN MARINE, S.A. (UMS) | 貨運及船務代理業務 | 100.00 | 100.00 | 100.00 |
+```

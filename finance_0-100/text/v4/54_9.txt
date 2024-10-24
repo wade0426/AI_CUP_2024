@@ -1,0 +1,12 @@
+```markdown
+| 編號 | 投資公司名稱 | 子公司名稱 | 業務性質 | 合併所持股權百分比 |
+|------|--------------|------------|----------|---------------------|
+| 59.  | DEIL-SG      | ELTEK POWER INCORPORATED | 經營電源供應器等之銷售業務 | 100.00 100.00 100.00 (註1) (註2) |
+| 60.  | "           | ELTEK POWER CO., LTD. | " | 100.00 100.00 100.00 (註1) (註2) (註3) |
+| 61.  | "           | ELTEK POWER (CAMBODIA) LTD. | " | 100.00 100.00 100.00 (註1) (註2) |
+| 62.  | "           | ELTEK POWER (MALAYSIA) SDN. BHD. | " | 100.00 100.00 100.00 (註1) (註2) (註4) |
+| 63.  | DHK         | 易達電源科技(東莞)有限公司 | 開發、生產和銷售接入網路通訊配套智能化電源設備及系統，生產和銷售再生能源配套智能化電源設備 | - - 100.00 (註2) (註7) |
+| 64.  | DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (USA) INC. | 經營電源供應器等之製造及銷售業務 | 100.00 100.00 100.00 |
+| 65.  | DELTA ELECTRONICS (USA) INC.、DELTA ELECTRONICS HOLDING (USA) INC. | DELTA ELECTRONICS (ARGENTINA) S.R.L. | 經營電源供應器等之銷售業務 | 100.00 100.00 100.00 (註1) (註2) |
+| 66.  | DEN、DELTA ELECTRONICS (USA) INC. | ELTEK SISTEMAS DE ENERGIA INDUSTRIA E COMERCIO LTDA. | 經營電源供應器等之製造及銷售業務 | 100.00 100.00 100.00 (註1) (註2) (註13) |
+```

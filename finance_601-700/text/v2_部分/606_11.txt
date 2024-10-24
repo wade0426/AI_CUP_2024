@@ -1,0 +1,54 @@
+### 财务报告表格
+
+#### 投资公司名称
+| 投资公司名称 | 子公司名称 | 持股比例（%） | 说明 |
+|--------------|------------|----------------|------|
+| 江苏台泥矿业工程有限公司 | 英德台泥矿业工程有限公司 | 16.3 |  |
+| 台泥（怀化）水泥有限公司 | 靖州台泥水泥有限公司 | 100.0 |  |
+| 台泥（怀化）水泥有限公司 | 怀化台泥混凝土有限公司 | 100.0 |  |
+| UPPV | Wayly Holdings Ltd. | 100.0 |  |
+| UPPV | TCC International (China) Co. Ltd | 100.0 |  |
+| UPPV | Kong On Cement Holdings Ltd. | 65.0 |  |
+| UPPV | Mega East Ltd. | 100.0 |  |
+| UPPV | 昌兴矿业（中国）有限公司 | 100.0 |  |
+| UPPV | Sure Kit Ltd. | 100.0 |  |
+| UPPV | Hensford Ltd. | 100.0 |  |
+| UPPV | Kiton Ltd. | 100.0 |  |
+| UPPV | Prosperity Cement Investment Ltd. | 100.0 |  |
+| UPPV | Scitus Cement (China) Holdings Ltd. (Scitus Holdings) | 100.0 |  |
+| Wayly Holdings Ltd. | 贵州凯里瑞安建材有限公司 | 100.0 |  |
+| TCC International (China) Co. Ltd | 新台泥（杭州）企业运营管理有限公司 | 100.0 |  |
+| Kong On Cement Holdings Ltd. | 贵州港安水泥有限公司 | 100.0 |  |
+| Mega East Ltd. | 广安昌兴水泥有限公司 | 100.0 |  |
+| Sure Kit Ltd. | 台泥（重庆）水泥有限公司 | 100.0 |  |
+| Hensford Ltd. | 台泥（安顺）水泥有限公司 | 100.0 |  |
+| Kiton Ltd. | 台泥（远宁）水泥有限公司 | 100.0 |  |
+| Prosperity Cement Investment Ltd. | 英德龙山水泥有限责任公司 | 100.0 |  |
+| 台泥（安顺）水泥有限公司 | 安顺鑫台建材骨料有限公司 | 100.0 |  |
+| 新台泥（杭州）企业运营管理有限公司 | 凯里台泥环保科技有限公司 | 100.0 |  |
+| Scitus Holdings | Scitus Cement (China) Operating Company Ltd. | 100.0 |  |
+| Scitus Holdings | Hexagon XIV Holdings Ltd. | 100.0 |  |
+| Scitus Holdings | Hexagon XIII Holdings Ltd. | 100.0 |  |
+| Scitus Holdings | Hexagon IX Holdings Ltd. | 100.0 |  |
+| Scitus Holdings | Hexagon VIII Holdings Ltd. | 100.0 |  |
+| Scitus Holdings | Hexagon V Holdings Ltd. | 100.0 |  |
+| Scitus Holdings | Hexagon IV Holdings Ltd. | 100.0 |  |
+| Scitus Holdings | Hexagon III Holdings Ltd. | 100.0 |  |
+| Scitus Holdings | Hexagon II Holdings Ltd. | 100.0 |  |
+| Scitus Holdings | Hexagon Holdings Ltd. | 100.0 |  |
+| Hexagon IX Holdings Ltd. | 合江赛德水泥有限公司 | 90.0 |  |
+| Hexagon IV Holdings Ltd. | 湖州赛德水泥有限公司 | 90.0 |  |
+| Hexagon III Holdings Ltd. | 湖州赛德水泥有限公司 | 90.0 |  |
+| Hexagon XIV Holdings Ltd. | 湖州赛德混凝土有限公司 | 75.0 |  |
+| 湖州赛德水泥有限公司 | 台泥久远（叙永）环保有限公司 | 55.0 |  |
+| 句容台泥水泥有限公司 | 台泥（怀化）水泥有限公司 | 69.0 |  |
+| 台泥（杭州）环保公司 | 台泥永仁（杭州）环保技术有限公司 | 100.0 |  |
+| 台泥（杭州）环保公司 | 台泥永仁（杭州）环境科技有限公司 | 100.0 |  |
+
+#### 财务报告表格
+
+| 项目 | 112年3月31日 | 111年12月31日 | 111年3月31日 |
+|------|--------------|---------------|--------------|
+| 庫存现金 | $ 1,777 | $ 1,750 | $ 2,137 |
+| 活期存款 | 25,699,639 | 33,243,220 | 39,578,483 |
+| 总计 | $ 77,674,551 | $ 91,065,529 | $ 68,517,225 |

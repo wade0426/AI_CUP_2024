@@ -1,0 +1,28 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 資產 | 所持股權百分比 |
+| --- | --- | --- | --- | --- |
+| LITE-ON ELECTRONICS (EUROPE) LIMITED | Lite-On Technology (Europe) B.V. | 電源供應器之製造及銷售 | 100.00 | 100.00 | 100.00 | 1 |
+| Lite-On Overseas Trading Co., Ltd. | 一般投資業 | 100.00 | 100.00 | 100.00 | - |
+| LITE-ON SINGAPORE PTE. LTD. | 各種電腦附件之製造與供應 | 100.00 | 100.00 | 100.00 | - |
+| LITE-ON VIETNAM CO., LTD. | 專業電子製造產品代工 | 100.00 | 100.00 | 100.00 | 1 |
+| EAGLE ROCK INVESTMENT LTD. | 進出口貿易、控股買賣不動產、代理等業務 | 100.00 | 100.00 | 100.00 | 1 |
+| LITE-ON MOBILE PTE. LTD. | 從事行動電話模組、組裝線設計、製造與銷售 | 100.00 | 100.00 | 100.00 | 1 |
+| HIGH YIELD GROUP CO., LTD. | 控股公司 | 100.00 | 100.00 | 100.00 | 1 |
+| 飛利浦建興數位科技股份有限公司 | 光碟機銷售 | 49.00 | 49.00 | 49.00 | - |
+| LET (HK) LIMITED | 光碟機銷售 | 100.00 | 100.00 | 100.00 | 1 |
+| Lite-On Automotive International (Cayman) Co., Ltd. | 一般投資業 | 100.00 | 100.00 | 100.00 | 1 |
+| LITE-ON AUTOMOTIVE ELECTRONICS MEXICO, S.A. DE C.V. | 生產、製造、銷售、進口與出口光電裝置、關鍵電子零組件、通訊裝置、資訊科技裝置、半導體應用產品、一般照明裝置、車用電子產品、再生能源產品與服務、汽車業用系統與維修 | 99.00 | 99.00 | 99.00 | 1 |
+| LITE-ON POWER ELECTRONIC INDIA PRIVATE LIMITED | 製造及銷售手機充電器及電源供應產品 | 99.00 | 99.00 | 99.00 | 1 |
+| KBW-LITEON Jordan Private Shareholding Limited | 生產及製造節能燈具、專案施工及維護 | 99.86 | 99.86 | 99.86 | 1,9 |
+| KBW-LEOTEK Jordan Private Shareholding Limited | 一般投資業 | 49.00 | 49.00 | 49.00 | 1,9 |
+| 光林智能科技股份有限公司（原名：光林智通股份有限公司） | 路燈、交通信號燈、室內外景觀燈、室內外照明燈、新型電子元器件、零件國內採購、批發、進出口業務及安裝施工 | 100.00 | 100.00 | 100.00 | 1 |
+| LITE-ON MOBILE INDUSTRIA E COMÉRCIO DE PLÁSTICOS LTDA. | 從事行動電話模組、組裝線設計、製造與銷售 | 2.97 | 2.97 | 2.97 | 1 |
+| CEDARS DIGITAL PTE. LTD. | 軟體開發及應用、資訊科技諮詢服務 | 100.00 | - | - | 1,8 |
+| 光林智能科技股份有限公司 | 銷售發光二極管應用產品 | 100.00 | 100.00 | 100.00 | 1 |
+| 源泰投資股份有限公司 | 電子零組件、電池之生產製造與批售業務及能源技術服務等 | 100.00 | 100.00 | 100.00 | 1 |
+| Lite-On Green Energy (HK) Limited | 一般投資業 | 100.00 | 100.00 | 100.00 | 1 |
+| Lite-On Technology (Europe) B.V. | 市場資訊蒐集及售後服務 | 46.00 | 46.00 | 46.00 | 1 |
+| LITE-ON GREEN ENERGY (SINGAPORE) PTE. LTD. | 一般投資業 | 100.00 | 100.00 | 100.00 | 1 |
+| 光寶綠色能資科技股份有限公司 | 太陽能系統工程 | 100.00 | 100.00 | 100.00 | 1 |
+| LITE-ON GREEN ENERGY (SINGAPORE) PTE. LTD. | 一般投資業 | 100.00 | 100.00 | 100.00 | 1 |
+```

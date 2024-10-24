@@ -1,0 +1,14 @@
+```markdown
+| 投资公司 | 子公司 | 业务性质 | 111年 | 110年 | 110年 | 说明 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 编号 | 名称 | 名称 | 3月31日 | 12月31日 | 3月31日 |  |
+| 118. | Delta Energy Systems (Germany) GmbH | Delta Energy Systems Property (Germany) GmbH | 产权业务 | 100.00 | 100.00 | 100.00 |  |
+| 119. | Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics Holdings) Australia Pty Ltd | 再生能源产品行销及销售业务 | 100.00 | 100.00 | 100.00 (注13) |  |
+| 120. | Delta Electronics India Pvt. Ltd. | 非通讯电源系统及不断电式电源供应器之制造、行销及销售不断电式电源供应器 | 100.00 | 100.00 | 100.00 |  |
+| 121. | Delta Electronics (Myanmar) Co., Ltd. | 機械及运用於CMP製程之電子产品之製造 | 100.00 | 100.00 | 100.00 |  |
+| 122. | Delta Energy Systems (UK) Ltd. | 电子产品之研发 | 100.00 | 100.00 | 100.00 |  |
+| 123. | Delta PBA Engineering Solutions Co., Ltd. | 提供工业自动化解决方案 | - | - | 51.00 (注16) |  |
+| 124. | Delta Greentech (Netherlands) Cooperatie U.A. | 投资事业 | - | 100.00 | 100.00 (注23) |  |
+| 125. | Delta Energy Systems (Singapore) PTE. LTD./Delta Greentech (Netherlands) Cooperatie U.A. | Delta Greentech (Netherlands) B.V. | 電源系统之行销及销售 | 100.00 | 100.00 | 100.00 (注27) |  |
+| 126. | Delta Greentech (Netherlands) B.V. | Delta Energy Systems LLC | 100.00 | 100.00 | 100.00 |  |
+```

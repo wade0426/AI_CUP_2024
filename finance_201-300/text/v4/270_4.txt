@@ -1,0 +1,16 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 112年9月 | 111年12月 | 111年9月 | 說明 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Realtek Singapore Private Limited | 科締納網路系統 (上海)有限公司 | " | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | Empsonic Enterprises Inc. | 對各種事業之投資 | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | Realtek Viet Nam Co., Ltd. | 研發與技術服務 | 100% | 100% | 100% | 註3 |
+| Realtek Singapore Private Limited | 合肥沛睿微電子股份有限公司 | 研究、開發、生產、製造、銷售各種積體電路 | 19% | 19% | 19% | 註3 |
+| Realtek Singapore Private Limited | Leading Enterprises Limited | 對各種事業之投資 | 100% | 100% | - | 註1 |
+| Realtek Singapore Private Limited | Bluocean Inc. | " | 100% | 100% | - | 註1 |
+| Realtek Singapore Private Limited | Talent Eagle Enterprise Inc. | " | 100% | 100% | - | 註1 |
+| 瑞晟微電子(蘇州)有限公司 | 合肥沛睿微電子股份有限公司 | 研究、開發、生產、製造、銷售各種積體電路 | 81% | 81% | 81% | 註3 |
+| 瑞晟微電子(蘇州)有限公司 | 蘇州磐聯集成電路科技股份有限公司 | " | 80% | 80% | 80% | 註3 |
+| 瑞昱半導體(深圳)有限公司 | 蘇州磐聯集成電路科技股份有限公司 | " | 20% | 20% | 20% | 註3 |
+| Bluocean Inc. | Realtek Semiconductor (Malaysia) Sdn. Bhd. | 研發與技術服務 | 100% | 100% | 100% | 註3 |
+| Bluocean Inc. | Realtek Korea Inc. | " | 100% | 100% | 100% | 註3 |
+```

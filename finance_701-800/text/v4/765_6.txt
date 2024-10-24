@@ -1,0 +1,23 @@
+```markdown
+| 投資公司 | 子公司名稱 | 業務性質 | 111年9月30日 | 110年12月31日 | 110年9月30日 | 說明 |
+| --- | --- | --- | --- | --- | --- | --- |
+| AIL集團 | ASUS COMPUTER GMBH (ACG) | 德國地區3C資訊產品之銷售及支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS FRANCE SARL (ACF) | 法國地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUSTEK (UK) LIMITED (ACUK) | 英國地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | 華碩科技(香港)有限公司（華科香港） | 香港地區3C資訊產品之支援及維修 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS KOREA CO., LTD. (ACKR) | 南韓地區3C資訊產品之支援及維修 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS POLSKA SP. Z O. O. (ACPL) | 波蘭地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS TECHNOLOGY PRIVATE LIMITED (ACIN) | 印度地區3C資訊產品之支援及維修 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS EUROPE B.V. (ACNL) | 3C資訊產品之銷售 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS TECHNOLOGY (VIETNAM) CO., LTD. (ACVN) | 越南地區3C資訊產品之支援及維修 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUSTEK ITALY S. R. L. (ACIT) | 義大利地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS SPAIN, S. L. U. (ACIB) | 西班牙地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | 華碩科技(蘇州)有限公司（華科蘇州） | 3C資訊產品之研發 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS JAPAN INCORPORATION (ACJP) | 日本地區3C資訊產品之銷售 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS COMPUTER CZECH REPUBLIC S. R. O. (ACCZ) | 捷克地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | 華碩電腦(上海)有限公司（華碩上海） | 中國地區3C資訊產品之銷售 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS SERVICE AUSTRALIA PTY LIMITED (ASAU) | 澳洲地區3C資訊產品之維修 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS AUSTRALIA PTY LIMITED (ACAU) | 澳洲地區3C資訊產品之支援 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ACBZ IMPORTACAO E COMERCIO LTDA. (ACBZ) | 巴西地區3C資訊產品之銷售 | 100.00 | 100.00 | 100.00 |  |
+| AIL集團 | ASUS INDIA PRIVATE LIMITED (ASIN) | 印度地區3C資訊產品之銷售 | 100.00 | 100.00 | 100.00 |  |
+```

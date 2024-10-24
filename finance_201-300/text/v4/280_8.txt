@@ -1,0 +1,15 @@
+```markdown
+| 編號 | 投資公司名稱 | 子公司名稱 | 業務性質 | 111年3月31日 | 110年12月31日 | 110年3月31日 | 說明 |
+|------|--------------|------------|----------|---------------|---------------|---------------|------|
+| 45.  | DIH          | Delta Controls Inc. (DCI) | 提供樓宇管理與控制解決方案 | 100.00        | 100.00        | 100.00        |      |
+| 46.  | "           | DELTA ELECTRONICS HOLDING (USA) INC. | 投資事業 | 100.00        | 100.00        | 100.00        | (註1) (註2) |
+| 47.  | ELTEK AS     | ELTEK PAKISTAN (PRIVATE) LIMITED | 經營電源供應器等之銷售業務 | 100.00        | 100.00        | 100.00        | (註1) (註2) |
+| 48.  | "           | Eltek Deutschland GmbH | 經營電源供應器等之銷售業務及系統建置業務 | 100.00        | 100.00        | 100.00        | (註1) (註2) |
+| 49.  | Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Australia) Pty Ltd | " | 100.00        | 100.00        | 100.00        | (註4) |
+| 50.  | ELTEK AS     | Eltek Egypt for Power Supply S.A.E. | 經營電源供應器等之銷售業務 | 95.00         | 95.00         | 95.00         | (註1) (註2) |
+| 51.  | "           | Eltek SGS Pvt Ltd. | 經營電源供應器等之銷售業務及系統建置業務 | 100.00        | 100.00        | 100.00        | (註1) (註2) |
+| 52.  | ELTEK AS、Eltek SGS Pvt Ltd. | Eltek SGS Mechanics Pvt Ltd. | 經營電源供應器等之銷售業務 | 51.00         | 51.00         | 51.00         | (註1) (註2) |
+| 53.  | Delta Electronics (Poland) Sp. z o.o. (Eltek Polska) | Eltek Polska Sp. z o.o. | 經營電源供應器等之銷售業務及系統建置業務 | -             | -             | 100.00        | (註1) (註5) |
+| 54.  | ELTEK AS     | ELTEK POWER FRANCE SAS | " | 100.00        | 100.00        | 100.00        | (註1) (註2) (註8) |
+| 55.  | "           | ELTEK LIMITED | 投資及貿易業 | -             | -             | 100.00        | (註1) (註17) |
+```

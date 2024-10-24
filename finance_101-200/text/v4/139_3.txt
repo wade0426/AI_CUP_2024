@@ -1,0 +1,34 @@
+```markdown
+| 關係人名稱 | 與合併公司之關係 |
+| --- | --- |
+| 財團法人辜嚴倬雲植物保種暨環境保護發展基金會 | 主要管理階層相同 |
+| Continental Carbon India Ltd. | 主要管理階層相同 |
+| Continental Carbon Eco Technology Private Limited | 主要管理階層相同 |
+| 林園先進材料科技股份有限公司 | 主要管理階層相同 |
+| 富品投資股份有限公司 | 主要管理階層相同 |
+| 興城投資股份有限公司 | 主要管理階層相同 |
+| 全循環經濟股份有限公司 | 主要管理階層相同 |
+| 唐山冀東水泥股份有限公司 | 實質關係人 |
+| 煙台金隅冀東水泥沿海經貿有限公司 | 實質關係人 |
+| 沈陽冀東水泥有限公司 | 實質關係人 |
+| 大廠金隅塗料有限責任公司 | 實質關係人 |
+| 唐山曹妃甸冀東裝備機械熱加工有限公司 | 實質關係人 |
+| 唐山盾石建築工程有限責任公司 | 實質關係人 |
+| 吉林市冀東發展盾石工程有限責任公司 | 實質關係人 |
+| FCA AUSTRIA GMBH | 實質關係人 |
+| FCA BELGIUM S.A. | 實質關係人 |
+| FCA GERMANY A.G. | 實質關係人 |
+| FCA SWITZERLAND S.A. | 實質關係人 |
+| GROUPE PSA ITALIA S.P.A. | 實質關係人 |
+| LEASYS RENT S.P.A. | 實質關係人 |
+| FIAT CHRYSLER AUTOMOBILES ITALY S.P.A. | 實質關係人 |
+| Fiat Chrysler Automobiles N.V. | 實質關係人 |
+| LEASYS S.P.A. | 實質關係人 |
+| PSA AUTOMOBILES S.A. | 實質關係人 |
+| MASERATI S.P.A. | 實質關係人 |
+| OPEL BANK S.A., SUCCURSALE ITALIANA | 實質關係人 |
+| OPEL FRANCE | 實質關係人 |
+| ORIENTE S.P.A. | 實質關係人 |
+| LEASYS S.P.A. SUCURSAL EN ESPAÑA | 實質關係人 |
+| 華邦電子股份有限公司 | 實質關係人 |
+```

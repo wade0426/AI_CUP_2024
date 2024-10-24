@@ -1,0 +1,39 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 所持股權百分比 |
+| --- | --- | --- | --- |
+| NHOA S.A. | Comores Energie | 可再生能源和儲能系統建設 | 100.0 |
+| NHOA S.A. | Nouvelles S.A.R.L. | 投資控股 | 100.0 |
+| NHOA S.A. | NHOA CALLIOPE S.R.L. | 投資控股 | 100.0 |
+| NHOA S.A. | NHOA CORPORATE S.R.L. | 投資控股 | 100.0 |
+| NHOA CORPORATE S.R.L. | ATLANTE S.R.L. | 再生能源與充電事業 | 100.0 |
+| NHOA CORPORATE S.R.L. | FREE2MOVE ESOLUTIONS S.P.A. | 電動汽車充電設備 | 49.9 |
+| NHOA ENERGY S.R.L. | FREE2MOVE ESOLUTIONS S.P.A. | 電動汽車充電設備 | - |
+| NHOA ENERGY S.R.L. | NHOA AMERICAS LLC | 可再生能源和儲能系統建設 | 100.0 |
+| NHOA ENERGY S.R.L. | NHOA AUSTRALIA PTY LTD | 可再生能源和儲能系統建設 | 100.0 |
+| NHOA ENERGY S.R.L. | NHOA LATAM S.A.C. | 可再生能源和儲能系統建設 | 90.0 |
+| NHOA ENERGY S.R.L. | 台灣新地平線能源有限公司 | 可再生能源和儲能系統建設 | 100.0 |
+| NHOA ENERGY S.R.L. | NHOA UK LTD | 可再生能源和儲能系統建設 | 100.0 |
+| NHOA CALLIOPE S.R.L. | ATLANTE S.R.L. | 再生能源與充電事業 | - |
+| NHOA AMERICAS LLC | NHOA LATAM S.A.C. | 可再生能源和儲能系統建設 | 10.0 |
+| ATLANTE S.R.L. | ATLANTE IBERIA S.R.L. | 再生能源與充電事業 | 100.0 |
+| ATLANTE S.R.L. | ATLANTE FRANCE S.A.S. | 再生能源與充電事業 | 100.0 |
+| ATLANTE S.R.L. | ATLANTE INFRA PORTUGAL S.A. | 再生能源與充電事業 | 100.0 |
+| ATLANTE S.R.L. | ATLANTE ITALIA S.R.L. | 再生能源與充電事業 | 100.0 |
+| ATLANTE IBERIA S.R.L. | ATLANTE Fast Charging Portugal LDA | 再生能源與充電事業 | 100.0 |
+| ATLANTE TOPCO S.R.L. | ATLANTE S.R.L. | 再生能源與充電事業 | - |
+| FREE2MOVE ESOLUTIONS S.P.A. | FREE2MOVE ESOLUTIONS FRANCE S.A.S. | 電動汽車充電設備 | 100.0 |
+| FREE2MOVE ESOLUTIONS S.P.A. | FREE2MOVE ESOLUTIONS SPAIN S.L.U. | 電動汽車充電設備 | 100.0 |
+| FREE2MOVE ESOLUTIONS S.P.A. | FREE2MOVE ESOLUTIONS NORTH AMERICA LLC | 電動汽車充電設備 | 100.0 |
+| FREE2MOVE ESOLUTIONS S.P.A. | FREE2MOVE ESOLUTIONS UK LTD | 電動汽車充電設備 | 100.0 |
+| 能元科技股份有限公司 | E-One Holdings Ltd. | 投資控股 | 100.0 |
+| 能元科技股份有限公司 | 三元能源科技股份有限公司（三元能源公司） | 電池、發電機械、電子零組件等之製造及銷售 | 100.0 |
+| E-One Holdings Ltd. | E-One Moli Holdings (Canada) Ltd. | 投資控股 | 100.0 |
+| E-One Moli Holdings (Canada) Ltd. | E-One Moli Energy (Canada) Ltd. | 電池研究開發及銷售 | 100.0 |
+| TCCIH | 隆昌投資有限公司 | 投資控股 | 100.0 |
+| TCCIH | Upper Value Investments Ltd.（UPPV） | 投資控股 | 100.0 |
+| TCCIH | TCC Hong Kong Cement (BVI) Holdings Ltd. | 投資控股 | 100.0 |
+| TCCIH | Ulexite Investments Ltd. | 投資控股 | 100.0 |
+| TCCIH | 台泥循環能源公司 | 投資控股 | 38.7 |
+| TCCIH | TCC Dutch | 投資控股 | 17.5 |
+| 隆昌投資有限公司 | Prime York Ltd. | 投資控股 | 100.0 |
+```

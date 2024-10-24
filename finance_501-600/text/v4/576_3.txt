@@ -1,0 +1,18 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 所持股權百分比 | 說明 |
+| --- | --- | --- | --- | --- |
+| 統一企業(股)公司 | 統清(股)公司 | 油脂加工、製造及銷售 | 56.00 | (註1) |
+| 統一企業(股)公司 | 統一東京(股)公司 | 汽車租賃 | 51.00 | (註1) |
+| 統一企業(股)公司 | 統仁藥品(股)公司 | 藥品業務 | 51.00 | (註1) |
+| 統一企業(股)公司 | 統奕包裝(股)公司 | 包裝材料及容器之加工及製造買賣 | 50.58 | (註1) |
+| 統一企業(股)公司 | 統萬(股)公司 | 醬油、調味醬、蔭油 | 50.00 | (註1) |
+| 統一企業(股)公司 | 台灣神隆(股)公司 | 原料藥之研發、生產及銷售 | 47.01 | (註1) |
+| 統一企業(股)公司 | 統一實業(股)公司 | 經營原料鋼板等之加工製造及製罐 | 47.22 | (註1) |
+| 統一企業(股)公司 | 統一超商(股)公司 | 連鎖便利商店之投資與經營 | 45.80 | (註1) |
+| Cayman President Holdings Ltd. | Uni-President Southeast Asia Holdings Ltd.及子公司 | 經營專業投資業務等 | 100.00 | (註1) |
+| Cayman President Holdings Ltd. | Uni-President Foodstuff (BVI) Holdings Ltd.及子公司 | 經營專業投資業務等 | 100.00 | (註1) |
+| Cayman President Holdings Ltd. | PT. Uni President Indonesia | 飲料、藥妝銷售等 | 100.00 | (註1) |
+| Cayman President Holdings Ltd. | Uni-President Assets Holdings Ltd. | 經營專業投資業務等 | 100.00 | (註1) |
+| Cayman President Holdings Ltd. | 統一企業中國控股有限公司及子公司 | 食品投資等 | 72.14 | (註1) |
+| Cayman President Holdings Ltd. | President Energy Development (Cayman Islands) Ltd. | 專業投資 | - | (註1) |
+```

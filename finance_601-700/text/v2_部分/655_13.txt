@@ -1,0 +1,43 @@
+### 财务报告
+
+#### 投资公司名称
+| 投资公司名称 | 子公司名称 | 持股百分比 | 说明 |
+|--------------|------------|------------|------|
+| 奇力新亚洲投资有限公司 | 奇力新美国有限公司 | 100% | 电子零件之买卖 |
+| Ferroxcube International Holding B.V. | Ferroxcube Italia S.r.l. | 100% | 电子零件之销售 |
+| Ferroxcube Deutschland GmbH | Ferroxcube USA Inc. | 100% | 电子零件之销售 |
+| Ferroxcube Polska Sp. Z.o.o. | Hispano Ferritas S.A. | 100% | 电子零件之销售 |
+| Ferroxcube Polska Sp. Z.o.o. | Ferroxcube Polska Sp. Z.o.o. | 100% | 电子零件之销售 |
+| Ferroxcube Hong Kong Limited | Ferroxcube Hong Kong Limited | 67% | 资源配置中心及一般投资 |
+| Ferroxcube Polska Sp. Z.o.o. | Ferroxcube Polska Sp. Z.o.o. | 33% | 资源配置中心及一般投资 |
+| Ferroxcube Hong Kong Limited | 飞磁电子材料（东莞）有限公司 | 100% | 电子零件之制造及销售 |
+| 美瑞科技股份有限公司 | Mag Layers International Co., Ltd. | 100% | 一般投资 |
+| 美瑞科技股份有限公司 | Mag Layers (Hong Kong) Ltd. | 100% | 电子器材买卖 |
+| Mag Layers International Co., Ltd. | Mag Layers USA, Inc. | 65% | 电子器材买卖 |
+| 美瑞电子科技（昆山）有限公司 | 美瑞电子科技（昆山）有限公司 | 100% | 被动元件（电感等）之生产 |
+| 美瑞科技股份有限公司 | 信源电子制品（昆山）有限公司 | 100% | 电子零件之制造及销售 |
+| 美瑞科技股份有限公司 | Magic Technology (Samoa) Co., Ltd. | 100% | 一般投资 |
+| Magic Technology (Samoa) Co., Ltd. | Magic Technology (Samoa) Co., Ltd. | 100% | 电子零件之制造及销售 |
+| Magic Technology (Samoa) Co., Ltd. | Classic Magic Developments Limited (Samoa) | 100% | 电子零件之买卖 |
+| 美瑞贸易（深圳）有限公司 | 美瑞贸易（深圳）有限公司 | 100% | 电子零件之买卖 |
+| Trendy Island Investment Limited | Trendy Island Investment Limited | 100% | 一般投资 |
+| 湖南美瑞电子科技有限公司 | 湖南美瑞电子科技有限公司 | 100% | 电子零件之制造及销售 |
+| Trendy Island Investment Limited | 重庆美瑞电子科技有限公司 | 100% | 电子零件之制造及销售 |
+| 璨元科技股份有限公司 | 璨元科技股份有限公司 | 100% | 生产经营电脑配套元件及其他电子器件 |
+| 国益兴业（香港）有限公司 | 国益兴业科技（深圳）有限公司 | 100% | 电子零件之销售 |
+| 广东百圳君耀电子有限公司 | 深圳市君耀电子有限公司 | 100% | 购卖过电压及过电流之保护电子元件 |
+| 光基电子（苏州）有限公司 | 光基电子（苏州）有限公司 | - | - |
+| 国巨电子元件（嘉善）有限公司 | 国巨电子元件（嘉善）有限公司 | 100% | 购卖过电压及过电流之保护电子元件 |
+
+#### 财务数据
+| 项目 | 112年3月31日 | 111年12月31日 | 111年3月31日 |
+|------|--------------|---------------|--------------|
+| 债券现金 | $ 1,777 | $ 1,750 | $ 2,137 |
+| 活期存款 | 25,699,639 | 33,243,220 | 39,578,483 |
+| 总计 | $ 77,674,551 | $ 91,065,529 | $ 68,517,225 |
+
+#### 说明
+- 本报告为奇力新亚洲投资有限公司及其子公司在2011年3月31日、12月31日和2012年3月31日的财务状况和经营成果的摘要。
+- 报告中列出了奇力新亚洲投资有限公司及其子公司的主要投资和持股情况。
+- 报告中还列出了奇力新亚洲投资有限公司及其子公司的主要财务数据，包括债券现金、活期存款和总计。
+- 报告中还列出了奇力新亚洲投资有限公司及其子公司的主要财务数据，包括债券现金、活期存款和总计。

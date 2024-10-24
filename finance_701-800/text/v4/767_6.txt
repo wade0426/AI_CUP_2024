@@ -1,0 +1,16 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 112年3月31日 | 111年12月31日 | 111年3月31日 | 說明 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Advantech Co., Singapore Pte, Ltd. (ASG) | PT Advantech International (AID) | 工業用電腦之行銷買賣 | 100.00 | 100.00 | 100.00 | 註2 |
+| 屏通科技股份有限公司(屏通台灣公司) | LandMark Co., Ltd. (LandMark) | 投資公司 | 100.00 | 100.00 | 100.00 | 註2 |
+| LandMark Co., Ltd. (LandMark) | 屏通科技(上海)有限公司(屏通上海公司) | 工業用聯網電子器材 | 100.00 | 100.00 | 100.00 | 註2 |
+| 屏通科技(深圳)有限公司(屏通深圳公司) | 液晶觸控屏、USB數據線及工業用電腦之生產 | 90.00 | 90.00 | 90.00 | 註2 |
+| Cermate Software Inc. (CSI) | 軟體開發 | 100.00 | 100.00 | 100.00 | 註2及 註8 |
+| 寶元數控股份有限公司(寶元數控公司) | Better Auto Holdings Limited (Better Auto) | 控股公司 | 100.00 | 100.00 | 100.00 | 註2 |
+| 寶元智造股份有限公司(寶元智造公司) | 系統整合應用、系統家具智慧設計、生產及銷售 | 80.10 | 87.27 | 100.00 | 註2及 註10 |
+| BEST PLC LTD. (BEST PLC) | 控股公司 | 100.00 | 100.00 | - | 註2及 註13 |
+| Better Auto Holdings Limited (Better Auto) | Famous Now Limited (Famous Now) | 控股公司 | 100.00 | 100.00 | 100.00 | 註2 |
+| BEST PLC LTD. (BEST SERVO) | 控股公司 | 100.00 | 100.00 | - | 註2及 註14 |
+| Famous Now Limited (Famous Now) | 東莞寶元智動數控控制器製造及買賣 | 100.00 | 100.00 | 100.00 | 註2 |
+| 寶元智造股份有限公司(寶元智造公司) | BEST MACHINE LTD. (BEST MACHINE) | 控股公司 | 100.00 | 100.00 | - | 註2及 註16 |
+```

@@ -1,0 +1,20 @@
+```markdown
+| 投資公司 | 子公司 | 業務性質 | 所持股權百分比(%) |
+| --- | --- | --- | --- |
+|  |  |  | 112年9月30日 | 111年12月31日 | 111年9月30日 | 說明 |
+| Evergreen Marine (UK) Limited (EMU) |  | 貨櫃運送之國際海運業及貨運與船務代理業務 | 51.00 | 51.00 | 51.00 |  |
+| Evergreen Heavy Industrial Corp. (Malaysia) Berhad (EHIC(M)) |  | 鋼製乾貨櫃、貨櫃零件及有關大型沖壓件製造 | 84.44 | 84.44 | 84.44 |  |
+| 長華國際物流(天津)有限公司(長華天津) |  | 集裝箱裝卸、儲存、修洗及拆併櫃 | 20.00 | 20.00 | 20.00 | 註12 |
+| PT. Multi Bina Pura International (MBPI) |  | 空貨櫃儲存、理貨倉櫃、海關重櫃檢驗 | 95.03 | 95.03 | 95.03 |  |
+| PT. Multi Bina Transport (MBT) |  | 內陸運輸、修洗櫃 | 17.39 | 17.39 | 17.39 | 註12 |
+| Evergreen Shipping Agency (Korea) Corporation (EGK) |  | 貨運及船務代理業務 | 100.00 | 100.00 | 100.00 |  |
+| Evergreen Shipping Agency (Thailand) Co., Ltd. (EGT) |  | 貨運及船務代理業務 | 85.00 | 85.00 | 85.00 |  |
+| Evergreen Shipping Agency (India) Pvt. Ltd. (EGI) |  | 貨運及船務代理業務 | 99.99 | 99.99 | 99.99 |  |
+| Evergreen Shipping Agency (Australia) Pty. Ltd. (EAU) |  | 貨運及船務代理業務 | 100.00 | 100.00 | 100.00 |  |
+| Evergreen Shipping Agency (Italy) S.p.A. (EIT) |  | 貨運及船務代理業務 | 55.00 | 55.00 | 55.00 |  |
+| Evergreen Shipping (Spain) S.L. (EES) |  | 貨運及船務代理業務 | 100.00 | 100.00 | 100.00 |  |
+| Evergreen Shipping Agency (Russia) Ltd. (ERU) |  | 貨運及船務代理業務 | 51.00 | 51.00 | 51.00 |  |
+| Evergreen Shipping Agency (Europe) GmbH (EEU) |  | 貨運及船務代理業務 | 100.00 | 100.00 | 100.00 |  |
+| Evergreen Agency (South Africa) (PTY) Ltd. (ESA) |  | 貨運及船務代理業務 | 55.00 | 55.00 | 55.00 |  |
+| Evergreen Argentina S.A. (EGB) |  | 大樓租賃 | 95.00 | 95.00 | 95.00 |  |
+```

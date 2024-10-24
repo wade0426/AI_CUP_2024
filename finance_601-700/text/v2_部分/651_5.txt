@@ -1,0 +1,17 @@
+### 投资公司 子公司 持股百分比(%)
+
+| 投资公司 | 子公司 | 持股百分比(%) | 111年3月31日 | 110年12月31日 | 110年3月31日 | 說明 |
+|----------|--------|----------------|--------------|---------------|--------------|------|
+| EGH      | 長榮國際船務(深圳) 有限公司(長榮國際船務深圳) | 65.00 | 65.00 | 65.00 | 65.00 |  |
+| EGH      | 長華國際物流(天津) 有限公司(長華天津) | 20.00 | 20.00 | 20.00 | 20.00 | 註8 |
+| EGH      | Evergreen Shipping Services (Cambodia) Co., Ltd. (EKH) | 100.00 | 100.00 | 100.00 | 100.00 |  |
+| EGH      | Evergreen Shipping Agency (Peru) S.A.C. (EPE) | 60.00 | 60.00 | 60.00 | 60.00 |  |
+| EGH      | Evergreen Shipping Agency (Colombia) S.A.S. (ECO) | 75.00 | 75.00 | 75.00 | 75.00 |  |
+| EGH      | Evergreen Shipping Agency (Chile) Spa (ECL) | 60.00 | 60.00 | 60.00 | 60.00 |  |
+| EGH      | Evergreen Shipping Agency Mexico S.A. de C.V. (EMX) | 60.00 | 60.00 | 60.00 | 60.00 |  |
+| EGH      | Evergreen Shipping Agency (Greece) Anonimi Eteria (EGRC) | 60.00 | 60.00 | 60.00 | 60.00 |  |
+| EGH      | Evergreen Shipping Agency (Israel) Ltd. (EIL) | 1.00 | 1.00 | 1.00 | 1.00 | 註8 |
+| EGH      | Evergreen Marine (Latin America), S.A. (ELA) | 100.00 | 100.00 | 100.00 | 100.00 |  |
+| EGH      | Evergreen Shipping Agency (Brazil) S.A. (EBR) | 60.00 | 60.00 | 60.00 | 60.00 |  |
+| EGH      | Evergreen Shipping Agency Philippines Corporation (EGP) | 100.00 | 100.00 | 100.00 | 100.00 |  |
+| EGH      | Evergreen Shipping Agency (Argentina) S.A. (EAR) | 60.00 | 60.00 | 60.00 | - | 註2 |

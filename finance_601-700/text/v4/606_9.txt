@@ -1,0 +1,43 @@
+```markdown
+| 投资公司名称 | 子公司名称 | 业务性质 | 所持股权限百分比 |
+| --- | --- | --- | --- |
+| 台泥绿能公司 | 台泥绿能股份有限公司 | 再生能源发电 | 100.0 |
+| 台泥绿能公司 | 台泥绿能股份有限公司 | 再生能源发电 | 100.0 |
+| 台泥绿能公司 | 台泥绿能股份有限公司 | 再生能源发电 | 100.0 |
+| 台泥绿能公司 | 台泥绿能股份有限公司 | 再生能源发电 | 100.0 |
+| 台泥绿能公司 | 台泥绿能股份有限公司 | 再生能源发电 | 100.0 |
+| Ta-Ho Maritime Holdings Ltd. | Ta-Ho Maritime Holdings Ltd. | 船舶运输 | 100.0 |
+| Ta-Ho Maritime Holdings Ltd. | Ta-Ho Maritime Holdings Ltd. | 船舶运输 | 100.0 |
+| Ta-Ho Maritime Holdings Ltd. | Ta-Ho Maritime Holdings Ltd. | 船舶运输 | 100.0 |
+| 台讯（萨摩亚）有限公司 | 福州台讯软件科技有限公司 | 软件产品发展、生产及设备维修 | 100.0 |
+| 達和航運（香港）公司 | 達和航運（香港）公司 | 物流运输 | 100.0 |
+| 達通（香港）国际物流有限公司 | 達通（香港）国际物流有限公司 | 物流运输 | 100.0 |
+| 達通（香港）国际物流有限公司 | 達通（香港）国际物流有限公司 | 物流运输 | 100.0 |
+| TCC Dutch | Taiwan Cement Europe Holdings B.V. (TCEH) | 投资控股 | 100.0 |
+| TCEH | NHOA S.A. | 投资控股 | 65.2 |
+| NHOA S.A. | NHOA ENERGY S.R.L. | 可再生能源和储能系统建设 | 100.0 |
+| NHOA S.A. | ELECTRO POWER SYSTEM MANUFACTURING | 可再生能源和储能系统建设 | 100.0 |
+| NHOA S.A. | Comores Energie Nouvelles S.A.R.L. | 可再生能源和储能系统建设 | 60.0 |
+| NHOA S.A. | ATLANTE TOPCO S.R.L. | 投资控股 | 100.0 |
+| NHOA ENERGY S.R.L. | FREE2MOVE ESOLUTIONS S.P.A. | 电动汽车充电设备 | 49.9 |
+| NHOA ENERGY S.R.L. | NHOA AMERICAS LLC | 可再生能源和储能系统建设 | 100.0 |
+| NHOA ENERGY S.R.L. | NHOA AUSTRALIA PTY LTD | 可再生能源和储能系统建设 | 100.0 |
+| NHOA ENERGY S.R.L. | ATLANTE S.R.L. | 再生能源与充电事业 | 100.0 |
+| ATLANTE S.R.L. | ATLANTE IBERIA S.L. | 再生能源与充电事业 | 100.0 |
+| ATLANTE S.R.L. | ATLANTE FRANCE S.A.S. | 再生能源与充电事业 | 100.0 |
+| 台泥循环能源公司 | 能元科技股份有限公司（能元科技公司） | 锂电池制造及销售 | 100.0 |
+| 能元科技公司 | E-One Holdings Ltd. | 投资控股 | 100.0 |
+| 能元科技公司 | 三元能源科技股份有限公司（三元能源公司） | 电池、发电机械、电子零组件等之制造及销售 | 100.0 |
+| E-One Holdings Ltd. | E-One Moli Holdings (Canada) Ltd. | 投资控股 | 100.0 |
+| E-One Moli Holdings (Canada) Ltd. | E-One Moli Energy (Canada) Ltd. | 电池研究开发及销售 | 100.0 |
+| TCCIH | 隆昌投资有限公司 | 投资控股 | 100.0 |
+| TCCIH | Upper Value Investments Ltd. (UPPV) | 投资控股 | 100.0 |
+| TCCIH | TCC Hong Kong Cement (BVI) Holdings Ltd. | 投资控股 | 100.0 |
+| TCCIH | Ulexite Investments Ltd. | 投资控股 | 100.0 |
+| 隆昌投资有限公司 | Prime York Ltd. | 投资控股 | 100.0 |
+| 隆昌投资有限公司 | Prosperity Minerals (International) Ltd. | 投资控股 | 100.0 |
+| TCC Hong Kong Cement (BVI) Holdings Ltd. | TCC Hong Kong Cement Development Ltd. | 投资控股 | 100.0 |
+| TCC Hong Kong Cement (BVI) Holdings Ltd. | TCC Hong Kong Cement (QHC) Ltd. | 投资控股 | 100.0 |
+| TCC Hong Kong Cement (BVI) Holdings Ltd. | TCC Hong Kong Cement (Yargoong) Ltd. | 投资控股 | 100.0 |
+| TCC Hong Kong Cement (BVI) Holdings Ltd. | TCC Hong Kong Cement (Philippines) Ltd. | 投资控股 | 100.0 |
+```

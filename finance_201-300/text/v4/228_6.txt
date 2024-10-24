@@ -1,0 +1,24 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 所持股權百分比 |
+| --- | --- | --- | --- |
+| 捷波集團 | 福建欣億達實業有限公司（福建欣億達） | 電腦及週邊設備之製造及銷售 | 100.00 |
+| 華碩雲端集團 | ASUS CLOUD SINGAPORE PTE. LTD. (ASUSCLOUDSG) | 網際網路服務事業之投資 | 100.00 |
+| 華碩雲端集團 | ASUS CLOUD (LUXEMBOURG) S. A. R. L. (ASUSCLOUDLB) | 資訊硬體維持運作之服務 | 100.00 |
+| 華碩雲端集團 | 華碩智行(股)公司 (華碩智行) | 停車場之出租 | 100.00 |
+| 競碩上海集團 | 競如文化傳媒(蘇州)有限公司 (競如蘇州) | 職業電競運動之參與及推廣 | 100.00 |
+| 元碩集團 | DATASUS COMPUTER AMERICA (DATASUSUS) | 工業伺服器週邊產品之製造及銷售 | 100.00 |
+| AIL集團 | CHANNEL PILOT LIMITED (CHANNEL) | 3C資訊事業之投資 | 100.00 |
+| AIL集團 | ASUS TECHNOLOGY PTE. LIMITED (ASTP) | 3C資訊事業之投資 | 100.00 |
+| AIL集團 | ASUS MIDDLE EAST FZCO (ACAE) | 中東地區3C資訊產品之支援及維修 | 100.00 |
+| AIL集團 | ASUS EGYPT L. L. C. (ACEG) | 埃及地區3C資訊產品之支援 | 100.00 |
+| AIL集團 | ASUS COMPUTER GMBH (ACG) | 德國地區3C資訊產品之銷售及支援 | 100.00 |
+| AIL集團 | ASUS FRANCE SARL (ACF) | 法國地區3C資訊產品之支援 | 100.00 |
+| AIL集團 | ASUSTEK (UK) LIMITED (ACUK) | 英國地區3C資訊產品之支援 | 100.00 |
+| AIL集團 | 華碩科技(香港)有限公司 (華科香港) | 香港地區3C資訊產品之支援及維修 | 100.00 |
+| AIL集團 | ASUS KOREA CO., LTD. (ACKR) | 南韓地區3C資訊產品之支援及維修 | 100.00 |
+| AIL集團 | ASUS POLSKA SP. Z O. O. (ACPL) | 波蘭地區3C資訊產品之支援 | 100.00 |
+| AIL集團 | ASUS TECHNOLOGY PRIVATE LIMITED (ACIN) | 印度地區3C資訊產品之支援及維修 | 100.00 |
+| AIL集團 | ASUS EUROPE B.V. (ACNL) | 3C資訊產品之銷售 | 100.00 |
+| AIL集團 | ASUS TECHNOLOGY (VIETNAM) CO., LTD. (ACVN) | 越南地區3C資訊產品之支援及維修 | 100.00 |
+| AIL集團 | ASUSTEK ITALY S. R. L. (ACIT) | 義大利地區3C資訊產品之支援 | 100.00 |
+```

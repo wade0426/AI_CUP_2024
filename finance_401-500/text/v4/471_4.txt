@@ -1,0 +1,23 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 所持股權百分比 |
+| --- | --- | --- | --- |
+| 亞旭集團 | 揚旭電子科技(上海)有限公司（揚旭上海） | 資訊通訊產品之研發及銷售 | 100.00 |
+| 亞旭集團 | 揚旭電子科技(江蘇)有限公司（亞旭江蘇） | 資訊通訊產品之製造及銷售 | 100.00 |
+| 亞旭集團 | 遠智(香港)有限公司（遠智） | 資訊通訊事業之投資 | 100.00 |
+| 亞旭集團 | SILIGENCE SAS（SILIGENCE） | 資訊通訊產品之銷售及服務 | 95.95 |
+| 亞旭集團 | ASKEY COMMUNICATION GMBH（ASKEYCG） | 資訊通訊產品之銷售及服務 | 100.00 |
+| 亞旭集團 | ASKEY DO BRASIL TECNOLOGIA LTDA.（ASKEYBR） | 資訊通訊產品之銷售及服務 | 100.00 |
+| 亞旭集團 | ASKEY CORPORATION (THAILAND) CO., LTD.（ASKEYTH） | 資訊通訊產品之銷售及服務 | 100.00 |
+| 亞旭集團 | ASKEY JAPAN CO., LTD.（ASKEYJP） | 資訊通訊產品之銷售及服務 | 100.00 |
+| 亞旭集團 | 亞旭數位科技(股)公司（亞旭數位） | 資訊通訊產品之銷售及服務 | 100.00 |
+| 亞旭集團 | 網源通科技(股)公司（網源通） | 有線及無線通信、電子零件等產品之製造及設計 | 100.00 |
+| 亞旭集團 | ASKEYUK CO. LIMITED（ASKEYUK） | 資訊通訊產品之銷售及服務 | 100.00 |
+| 亞旭集團 | ASKEY TECHNOLOGY (VIETNAM) COMPANY LIMITED（ASKEYVNBN） | 資訊通訊產品之製造及銷售 | 100.00 |
+| 研揚集團 | AAEON ELECTRONICS, INC.（AAEONEI） | 工業用電腦及電腦週邊產品之銷售 | 100.00 |
+| 研揚集團 | AAEON TECHNOLOGY CO., LTD.（AAEONTCL） | 工業用電腦及介面卡事業之投資 | 100.00 |
+| 研揚集團 | AAEON TECHNOLOGY (EUROPE) B. V.（AAEONEU） | 工業用電腦及電腦週邊產品之銷售 | 100.00 |
+| 研揚集團 | AAEON TECHNOLOGY GMBH（AAEONG） | 工業用電腦及電腦週邊產品之銷售 | 100.00 |
+| 研揚集團 | 研友投資(股)公司（研友） | 工業用電腦及電腦週邊產品事業之投資 | 100.00 |
+| 研揚集團 | AAEON TECHNOLOGY SINGAPORE PTE. LTD.（AAEONSG） | 工業用電腦及電腦週邊產品之銷售 | 100.00 |
+| 研揚集團 | 研揚科技(蘇州)有限公司（研揚蘇州） | 工業用電腦、介面卡之製造及銷售 | 100.00 |
+```

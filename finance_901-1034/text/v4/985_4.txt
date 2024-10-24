@@ -1,0 +1,24 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 所持股權百分比（%） |
+| --- | --- | --- | --- |
+| 112年 | 111年 | 111年 |
+| Thintech Global Limited (鑫鴻) | Thintech Global Limited | 投資控股 | 100 | 100 | 100 |
+| 太倉鑫昌光電材料有限公司 (鑫昌光電) | 金屬靶材製造與銷售 | 100 | 100 | 100 |
+| CSE Transport Corporation (CSEP) | 散裝船舶運輸 | 100 | 100 | 100 |
+| 運鴻投資股份有限公司 (運鴻) | 一般投資 | 48 | 50 | 50 |
+| 高雄港裝卸股份有限公司 (高港裝卸) | 船舶貨物裝卸承攬業 | 66 | 66 | 66 |
+| ALU Investment Offshore Corporation (ALU) | 投資控股 | 100 | 100 | 100 |
+| United Steel International Development Corporation (鋼聯) | 投資控股 | 65 | 65 | 65 |
+| 宁波華揚鋁業科技有限公司 (華揚鋁業) | 鋁製品之生產買賣 | 100 | 100 | 100 |
+| 中欣開發股份有限公司 | 中欣日本株式會社 (中欣日本) | 不動產租賃 | 80 | 80 | 80 |
+| 中欣開發建設股份有限公司 (中欣建設) | 不動產開發 | 60 | 60 | 60 |
+| China Steel Asia Pacific Holdings Pte Ltd | CSC Steel Holdings Berhad (中馬控股) | 一般投資 | 46 | 46 | 46 |
+| 常州中鋼精密鍛材有限公司 (中鋼精材) | 鈦鎳合金及有色金屬鍛材生產買賣 | 70 | 70 | 70 |
+| 青島中鋼精密金屬有限公司 (青島中鋼) | 鋼材裁剪加工 | - | - | - |
+| CSC Steel Holdings Berhad | CSC Steel Sdn. Bhd. (中馬) | 鋼品製造 | 100 | 100 | 100 |
+| Group Steel Corporation (M) Sdn. Bhd. (群馬) | 一般投資 | - | 100 | 100 |
+| CSC Steel Sdn. Bhd. | Constant Mode Sdn. Bhd. (CMSB) | 一般投資 | 100 | 100 | 100 |
+| 中鴻鋼鐵股份有限公司 | 鴻高投資開發股份有限公司 (鴻高) | 一般投資 | 100 | 100 | 100 |
+| 中鋼碳素化學股份有限公司 | 景裕國際股份有限公司 (景裕) | 一般投資 | 100 | 100 | 100 |
+| Formosa Ha Tinh CSCC (Cayman) International Limited (中碳開曼) | 一般投資 | 50 | 50 | 50 |
+```

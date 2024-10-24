@@ -1,0 +1,26 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 主要業務 | 設立及營運地點 | 本公司所持有之所有權權益百分比 |
+| --- | --- | --- | --- | --- |
+| 台積公司 | TSMC Global Ltd. (TSMC Global) | 一般投資業務 | Tortola, British Virgin Islands | 100% | 100% | 100% | 100% | — |
+| 台積電（中國）有限公司（台積電中國子公司） |  | 積體電路及其他半導體裝置之製造、銷售、測試與電腦輔助設計 | 中國上海市 | 100% | 100% | 100% | — |
+| 台積電（南京）有限公司（台積電南京子公司） |  | 積體電路及其他半導體裝置之製造、銷售、測試與電腦輔助設計 | 中國南京市 | 100% | 100% | 100% | — |
+| 采鈺科技股份有限公司（采鈺公司） |  | 彩色濾光膜產品相關研究、設計、開發、製造、銷售及封裝測試 | 新竹市 | 68% | 68% | 73% | 註二 |
+| TSMC Arizona Corporation (TSMC Arizona) |  | 積體電路及其他半導體裝置之製造、銷售與測試與電腦輔助設計 | Phoenix, Arizona, U.S.A. | 100% | 100% | 100% | 註三 |
+| Japan Advanced Semiconductor Manufacturing, Inc. (JASM) |  | 積體電路及其他半導體裝置之製造、銷售、測試與電腦輔助設計 | Kumamoto, Japan | 71% | 71% | 81% | 註一及註四 |
+| VentureTech Alliance Fund II, L.P. (VTAF II) |  | 新創科技事業之投資 | Cayman Islands | 98% | 98% | 98% | 註一 |
+| VentureTech Alliance Fund III, L.P. (VTAF III) |  | 新創科技事業之投資 | Cayman Islands | 98% | 98% | 98% | 註一 |
+| Emerging Fund L.P. (Emerging Fund) |  | 新創科技事業之投資 | Cayman Islands | 99.9% | 99.9% | 99.9% | 註一 |
+| TSMC Partners | TSMC Development, Inc. (TSMC Development) | 半導體製造相關投資業務 | Delaware, U.S.A. | 100% | 100% | 100% | — |
+| TSMC Technology, Inc. (TSMC Technology) | 工程支援業務 | Delaware, U.S.A. | 100% | 100% | 100% | 註一 |
+| TSMC Design Technology Canada Inc. (TSMC Canada) | 工程支援業務 | Ontario, Canada | 100% | 100% | 100% | 註一 |
+| TSMC Development | WaferTech, LLC (WaferTech) | 積體電路及其他半導體裝置之製造、銷售與測試 | Washington, U.S.A. | 100% | 100% | 100% | — |
+| VTAF III | Growth Fund Limited (Growth Fund) | 新創科技事業之投資 | Cayman Islands | 100% | 100% | 100% | 註一 |
+
+---
+
+**註一：財務報表未經會計師核閱或查核之非重大子公司。**
+
+**註二：采鈺公司於111年6月辦理增資，增資後台積公司對采鈺公司之持股比例由73%下降至68%，此交易並未改變本公司對采鈺公司之控制，故仍採權益交易處理。**
+
+**註三：依據TSMC Arizona與City of Phoenix簽訂之開發協議，City of Phoenix承諾於約定之晶圓廠興建區域投入各項公共基礎設施約2.05億美元，而TSMC Arizona需至少達到特定之投資金額及創造特定數額之就業機會。**
+```

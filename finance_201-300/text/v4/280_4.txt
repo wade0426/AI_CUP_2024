@@ -1,0 +1,14 @@
+```markdown
+| 編號 | 投資公司 | 子公司 | 業務性質 | 111年 | 110年 | 110年 | 說明 |
+|------|----------|--------|----------|------|------|------|------|
+| 12.  | DIH      | Delta Electronics (Japan), Inc. (DEJ) | 經營電源、視訊、零組件、機電等產品及材料之買賣 | 100.00 | 100.00 | 100.00 | （註2） |
+| 13.  | DEN      | Drake Investment (HK) Limited (Drake-HK) | 投資事業 | 100.00 | 100.00 | 100.00 |
+| 14.  | DGSG、Drake-HK、Boom | 中達電通股份有限公司（中達電通） | 經營不斷電式電源供應器等電子產品之銷售業務 | 95.91 | 95.91 | 95.91 |
+| 15.  | DIH      | Vivitek Corporation (Vivitek) | 經營投影機等產品及材料之買賣 | - | - | 100.00 | （註1）（註3） |
+| 16.  | DEN      | Delta Greentech SGP Pte. Ltd. (DGSG) | 投資事業 | 100.00 | 100.00 | 100.00 |
+| 17.  | DIH      | Delta Electronics Europe Ltd. (DEU) | 維修中心及提供支援服務 | 100.00 | 100.00 | 100.00 | （註1）（註2） |
+| 18.  | DEN      | Boom Treasure Limited (Boom) | 投資事業 | 100.00 | 100.00 | 100.00 |
+| 19.  | DIH      | Apex Investment (HK) Limited (Apex-HK) | " | - | - | 100.00 | （註3） |
+| 20.  | "        | Galaxy Star Investment (HK) Limited (Galaxy Star-HK) | " | - | - | 100.00 | （註16） |
+| 21.  | DHK      | 台達電子(東莞)有限公司（台達電子東莞） | 經營變壓器及散熱等電子產品之製造及銷售業務 | 100.00 | 100.00 | 100.00 | （註11） |
+```

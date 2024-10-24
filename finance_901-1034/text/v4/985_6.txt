@@ -1,0 +1,25 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 所持股權百分比（%） |
+| --- | --- | --- | --- |
+| 112年 | 111年 | 111年 | 說明 |
+| 中國鋼鐵結構股份有限公司 | 聯鋼營造工程股份有限公司 (聯鋼營造) | 土木營造業等工程之承攬及管理等業務 | 100 | 100 | 100 |
+|  | China Steel Structure Holding Co., Ltd. (CSSHCL) | 投資控股 | 100 | 100 | 100 |
+| 聯鋼營造工程股份有限公司 | United Steel Investment Pte Ltd (USIPL) | 投資控股 | - | 100 | 100 | 112年2月辦理註銷中 |
+|  | United Steel Construction (Vietnam) Co., Ltd. (USCVC) | 土木營造業等工程之承攬及管理等業務 | 100 | 100 | 100 |
+| 中宇環保工程股份有限公司 | CEC International Corporation (中宇國際) | 一般投資業務 | 100 | 100 | 100 |
+|  | CEC Development Corporation (中宇開發) | 一般投資業務 | 100 | 100 | 100 |
+|  | China Ecotek India Private Limited (中宇印度) | 營造工程業務 | - | - | - |
+| CEC International Corporation | China Ecotek India Private Limited (中宇印度) | 營造工程業務 | 100 | 100 | 100 |
+| CEC Development Corporation | China Ecotek Vietnam Company Limited (中宇越南) | 營造工程業務 | 100 | 100 | 100 |
+|  | 廈門茂宇進出口貿易有限公司 (廈門茂宇) | 設備材料進出口業務 | 100 | 100 | 100 |
+| 中鋼保全股份有限公司 | 鋼堡科技股份有限公司 (鋼堡) | 消防安全設備工程 | 100 | 100 | 100 |
+|  | 中鋼公寓大廈管理維護股份有限公司 (中鋼樓管) | 公寓大廈管理 | 100 | 100 | 100 |
+| 高科磁技股份有限公司 | 磁科股份有限公司 (磁科) | 粉末冶金業 | 55 | 55 | 55 | 112年3月清算完成 |
+| 中鋼機械股份有限公司 | China Steel Machinery Vietnam Co., Ltd. (中機越南) | 機械製造業 | - | 100 | 100 |
+| CSC Steel Australia Holdings Pty Ltd | CSC Sonoma Pty Ltd (CSC Sonoma) | 矿業投資 | 100 | 100 | 100 |
+| 高雄捷運股份有限公司 | 台灣智能運輸股份有限公司 (台智) | 技術服務業 | 100 | 100 | 100 |
+| 中發控股股份有限公司 | 中能發電股份有限公司 (中能發電) | 離岸風力發電 | 100 | 100 | 100 |
+
+1. 本公司對子公司直接及間接持股合計未達有表決權股份50%以上而列入合併個體之說明如下：
+(1) 子公司中宇、中碳、中聯資源、中鋼構及鑫科公司係由本公司及其他子公司派任人員當選為各該公司董事長及
+```

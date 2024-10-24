@@ -1,0 +1,12 @@
+```markdown
+| 編號 | 投資公司名稱 | 子公司名稱 | 業務性質 | 合併所持股權百分比 |
+|------|--------------|------------|----------|---------------------|
+| 100. | DET          | Delta Energy Systems (Singapore) PTE. LTD. | 投資事業、貿易、管理及諮詢業務 | 100.00 100.00 100.00 |
+| 101. | "           | Delta Green Industrial (Thailand) Co., Ltd. | 不斷電式電源供應器、太陽能逆變器、電動車充電器、資料中心之整合、銷售、貿易、安裝及服務 | 100.00 100.00 100.00 |
+| 102. | "           | Delta Electronics (Vietnam) Company Limited | 電子產品買賣 | 100.00 100.00 100.00 |
+| 103. | DET、Delta Energy Systems (Singapore) PTE. LTD. | DELTA ELECTRONICS INDIA MANUFACTURING PRIVATE LIMITED | 電子產品之製造及銷售 | 100.00 100.00 100.00 (註5) |
+| 104. | DET International Holding Limited | DET Logistics (USA) | 提供美國境內物流服務 | 100.00 100.00 100.00 |
+| 105. | "           | Delta Energy Systems (Germany) GmbH | 電子產品研發、行銷及銷售業務 | 100.00 100.00 100.00 |
+| 106. | "           | Delta Energy Systems (India) Private Ltd. | 電子產品行銷及銷售業務 | 100.00 100.00 100.00 |
+| 107. | DET International Holding Limited、Delta Energy Systems (Singapore) PTE. LTD. | Delta Electronics (Slovakia) s.r.o. | 電源供應器、電源系統、OEM電源系統製造及銷售業務 | 100.00 100.00 100.00 |
+```

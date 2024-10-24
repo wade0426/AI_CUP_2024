@@ -1,0 +1,19 @@
+```markdown
+| 投資公司名稱 | 子公司名稱 | 業務性質 | 所持股權百分比 |
+| --- | --- | --- | --- |
+| 研華股份有限公司(本公司) | Advantech Co., Malaysia Sdn. Bhd (AMY) | 工業用電腦之行銷買賣 | 100.00 100.00 100.00 註2 |
+| Advantech KR Co., Ltd. (AKR) | 工業用電腦之行銷買賣 | 100.00 100.00 100.00 註2 |
+| Advantech Brasil Ltd. (ABR) | 工業用電腦之行銷買賣 | 100.00 100.00 100.00 註2 |
+| Advantech Industrial Computing India Private Limited (AIN) | 工業用電腦之行銷買賣 | 99.99 99.99 99.99 註2 |
+| 寶元數控股份有限公司 (寶元數控公司) | 控制器製造及買賣 | 44.60 44.60 44.60 註2及 註3 |
+| Advantech Electronics, S.A.P.I. DE C.V. (AMX) | 工業用電腦之行銷買賣 | 99.90 99.90 99.90 註2及 註9 |
+| 研華智誠股份有限公司 (研華智誠公司) | 智能服務解決方案之設計、研發及銷售買賣 | 100.00 100.00 100.00 註2 |
+| Advantech Corporation (Thailand) Co., Ltd. (ATH) | 電腦產品之生產製造 | 51.00 51.00 51.00 註2 |
+| PT. Advantech International (AID) | 工業電腦之製造及行銷買賣 | 1.00 1.00 1.00 註2 |
+| Advantech Vietnam Technology Company Limited (AVN) | 工業用電腦之行銷買賣 | 60.00 60.00 60.00 註2 |
+| Advantech Technology Limited Liability Company (ARU) | 工業電腦之製造及行銷買賣 | 100.00 100.00 100.00 註2 |
+| Advantech Turkey Teknoloji A.S. (ATR) | 電腦及其週邊設備批發業 | 62.40 60.00 60.00 註2及 註17 |
+| ADVANTECH IOT ISRAEL LTD. (AIL) | 工業網路通訊 | 100.00 100.00 100.00 註2 |
+| 環研物聯股份有限公司 (環研物聯公司) | 污廢水處理AIoT應用與運維管理服務解決方案 | 90.00 90.00 90.00 註2 |
+| Advantech Technology DMCC (ADB) | 工業網路通訊 | 100.00 100.00 - 註2及 註13 |
+```

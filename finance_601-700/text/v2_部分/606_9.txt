@@ -1,0 +1,52 @@
+### 财务报告表格
+
+#### 投资公司名称
+| 投资公司名称 | 子公司名称 | 持股比例 | 说明 |
+|--------------|------------|----------|------|
+| 台泥绿能公司 | 台泥绿能股份有限公司 | 100.0 | 再生能源发电 |
+| 台泥绿能公司 | 台泥绿能股份有限公司 | 100.0 | 再生能源发电 |
+| 台泥绿能公司 | 台泥绿能股份有限公司 | 100.0 | 再生能源发电 |
+| 台泥绿能公司 | 台泥绿能股份有限公司 | 100.0 | 再生能源发电 |
+| 台泥绿能公司 | 台泥绿能股份有限公司 | 100.0 | 再生能源发电 |
+| Ta-Ho Maritime Holdings Ltd. | Ta-Ho Maritime Holdings Ltd. | 100.0 | 船舶运输 |
+| Ta-Ho Maritime Holdings Ltd. | Ta-Ho Maritime Holdings Ltd. | 100.0 | 船舶运输 |
+| Ta-Ho Maritime Holdings Ltd. | Ta-Ho Maritime Holdings Ltd. | 100.0 | 船舶运输 |
+| 台讯（萨摩亚）有限公司 | 福州台讯软件科技有限公司 | 100.0 | 软件产品发展、生产及设备维修 |
+| 達和航運（香港）公司 | 達和航運（香港）公司 | 100.0 | 物流运输 |
+| 達通（香港）国际物流有限公司 | 達通（香港）国际物流有限公司 | 100.0 | 物流运输 |
+| 達通（香港）国际物流有限公司 | 達通（香港）国际物流有限公司 | 100.0 | 物流运输 |
+| TCC Dutch | Taiwan Cement Europe Holdings B.V. (TCEH) | 100.0 | 投资控股 |
+| TCEH | NHOA S.A. | 65.2 | - |
+| NHOA S.A. | NHOA ENERGY S.R.L. | 100.0 | 可再生能源和储能系统建设 |
+| NHOA S.A. | ELECTRO POWER SYSTEM MANUFACTURING | 100.0 | 可再生能源和储能系统建设 |
+| NHOA S.A. | Comores Energie Nouvelles S.A.R.L. | 60.0 | 可再生能源和储能系统建设 |
+| NHOA S.A. | ATLANTE TOPCO S.R.L. | 100.0 | 投资控股 |
+| NHOA ENERGY S.R.L. | FREE2MOVE ESOLUTIONS S.P.A. | 49.9 | 電動汽車充電設備 |
+| NHOA ENERGY S.R.L. | NHOA AMERICAS LLC | 100.0 | 可再生能源和储能系统建设 |
+| NHOA ENERGY S.R.L. | NHOA AUSTRALIA PTY LTD | 100.0 | 可再生能源和储能系统建设 |
+| NHOA ENERGY S.R.L. | ATLANTE S.R.L. | 100.0 | 再生能源与充电事业 |
+| ATLANTE S.R.L. | ATLANTE IBERIA S.L. | 100.0 | 再生能源与充电事业 |
+| ATLANTE S.R.L. | ATLANTE FRANCE S.A.S. | 100.0 | 再生能源与充电事业 |
+| 台泥循环能源公司 | 能元科技股份有限公司（能元科技公司） | 100.0 | 鋰電池製造及銷售 |
+| 能元科技公司 | E-One Holdings Ltd. | 100.0 | 投资控股 |
+| 能元科技公司 | 三元能源科技股份有限公司（三元能源公司） | 100.0 | 電池、發電機械、電子零組件等之製造及銷售 |
+| E-One Holdings Ltd. | E-One Moli Holdings (Canada) Ltd. | 100.0 | 投资控股 |
+| E-One Moli Holdings (Canada) Ltd. | E-One Moli Energy (Canada) Ltd. | 100.0 | 電池研究開發及銷售 |
+| TCCIH | 隆昌投资有限公司 | 100.0 | 投资控股 |
+| TCCIH | Upper Value Investments Ltd. (UPPV) | 100.0 | 投资控股 |
+| TCCIH | TCC Hong Kong Cement (BVI) Holdings Ltd. | 100.0 | 投资控股 |
+| TCCIH | Ulexite Investments Ltd. | 100.0 | 投资控股 |
+| 隆昌投资有限公司 | Prime York Ltd. | 100.0 | 投资控股 |
+| 隆昌投资有限公司 | Prosperity Minerals (International) Ltd. | 100.0 | 投资控股 |
+| TCC Hong Kong Cement (BVI) Holdings Ltd. | TCC Hong Kong Cement Development Ltd. | 100.0 | 投资控股 |
+| TCC Hong Kong Cement (BVI) Holdings Ltd. | TCC Hong Kong Cement (QHC) Ltd. | 100.0 | 投资控股 |
+| TCC Hong Kong Cement (BVI) Holdings Ltd. | TCC Hong Kong Cement (Yargoong) Ltd. | 100.0 | 投资控股 |
+| TCC Hong Kong Cement (BVI) Holdings Ltd. | TCC Hong Kong Cement (Philippines) Ltd. | 100.0 | 投资控股 |
+
+#### 财务报告表格
+
+| 项目 | 112年3月31日 | 111年12月31日 | 111年3月31日 |
+|------|--------------|---------------|--------------|
+| 庫存现金 | $ 1,777 | $ 1,750 | $ 2,137 |
+| 活期存款 | 25,699,639 | 33,243,220 | 39,578,483 |
+| 总计 | $ 77,674,551 | $ 91,065,529 | $ 68,517,225 |
