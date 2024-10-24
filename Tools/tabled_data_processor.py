@@ -30,3 +30,18 @@ cleaned_str = re.sub(r'[^\u4e00-\u9fff\u0030-\u0039a-zA-Z\s\|\(\)\[\]\{\}%&$@#,.
 
 print(cleaned_str)
 
+
+class DataProcessor:
+    def __init__(self, file_path):
+        self.file_path = file_path
+
+    def process(self):
+        with open(self.file_path, 'r', encoding='utf-8') as file:
+            str = file.read()
+        cleaned_str = re.sub(r'[^\u4e00-\u9fff\u0030-\u0039a-zA-Z\s\|\(\)\[\]\{\}%&$@#,.;:!?+\-*/=<>~`\'\"【】]', '', str)
+        return cleaned_str
+
+
+if __name__ == "__main__":
+    data_processor = DataProcessor("D:\\NTCUST\\Project\\Competition\\AI_CUP\\AI_CUP_2024\\finance_101-200\\text\\v4\\102_1.txt")
+    print(data_processor.process())
