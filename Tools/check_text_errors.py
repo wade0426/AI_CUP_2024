@@ -153,7 +153,8 @@ def main():
     folder_list = ["finance_0-100", "finance_101-200", "finance_201-300", "finance_301-400", "finance_401-500", "finance_501-600", "finance_601-700", "finance_701-800", "finance_801-900", "finance_901-1034"]
 
     for folder in folder_list:
-        path = f"D:\\NTCUST\\Project\\Competition\\AI_CUP\\AI_CUP_2024\\{folder}\\text\\v4\\"
+        path = f"D:\\NTCUST\\Project\\Competition\\AI_CUP\\AI_CUP_2024\\again_text\\{folder}\\"
+        # path = f"D:\\NTCUST\\Project\\Competition\\AI_CUP\\AI_CUP_2024\\{folder}\\text\\v4\\"
         os.chdir(path)
 
         for text_path in os.listdir(path):
@@ -181,7 +182,8 @@ def main():
         # 設定閥值
         n_newline_threshold = newline_average*1.7
         n_space_threshold = space_average*4
-        similar_text_threshold = similar_text_average*11.6
+        similar_text_threshold = 300
+        # similar_text_threshold = similar_text_average*11.6
         # 可能壞檔案 空白
         space_bad_text_list = []
         # 可能壞檔案 相似文本
@@ -202,9 +204,10 @@ def main():
 
         # print(f"根據空白閥值，可能壞檔案: {space_bad_text_list}\n")
         # print(f"根據相似文本閥值，可能壞檔案: {similar_bad_text_list}\n")
-        print(f"\n聯集: {space_bad_text_list + similar_bad_text_list}")
+        # print(f"\n聯集: {space_bad_text_list + similar_bad_text_list}")
+        print(f"\n聯集: {similar_bad_text_list}")
 
-        return_All_bad_text_list.extend(space_bad_text_list + similar_bad_text_list)
+        return_All_bad_text_list.extend(similar_bad_text_list)
     
     # 將聯集 list 使用 py 存檔
     output_path = "D:\\NTCUST\\Project\\Competition\\AI_CUP\\AI_CUP_2024"
