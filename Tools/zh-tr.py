@@ -54,39 +54,48 @@ def convert_simplified_to_traditional(input_path, output_path):
 if __name__ == "__main__":
     
     # folder_path = "D:/NTCUST/Project/Competition/AI_CUP/AI_CUP_2024/finance_0-100/text/qwen2vl/"
-    folder_path = input("請輸入文件夾路徑：")
-    folder_path = folder_path.replace('"', '')
-    os.chdir(folder_path)
+    # folder_path = input("請輸入文件夾路徑：")
+    # folder_path = folder_path.replace('"', '')
 
-    if not os.path.exists('tr'):
-        os.makedirs('tr')
+    folder_list = ["finance_0-100", "finance_101-200", "finance_201-300", "finance_301-400", "finance_401-500", "finance_501-600", "finance_601-700", "finance_701-800", "finance_801-900", "finance_901-1034"]
 
-    start_time = time.time()  # Start time
+    start_time = time.time()
 
-    # 獲取當前目錄下所有文件
-    all_files = os.listdir(folder_path)
-    # 排序
-    # 如果文件名包含'_'和'.'，則按照'_'前的數字和'.'前的數字進行排序
-    # 否則，將文件名視為0
-    # 有資料夾會報錯 用這樣解決
-    all_files = sorted(all_files, key=lambda x: (int(x.split('_')[0]), int(x.split('_')[1].split('.')[0])) if '_' in x and '.' in x.split('_')[1] else (0, 0))
+    for folder in folder_list:
+        folder_path = f"D:\\NTCUST\\Project\\Competition\\AI_CUP\\AI_CUP_2024\\{folder}\\text\\v4"
+        os.chdir(folder_path)
 
-    for i in all_files:
-        # if i.endswith('.txt'):
-        #     input_path = i
-        #     output_path = i.replace('.txt', '_t.txt')
-        #     convert_simplified_to_traditional(input_path, output_path)
+        if not os.path.exists('tr'):
+            # 創建資料夾
+            # 沒有使用 tr 資料夾時 可能會報錯
+            os.makedirs('tr')
 
-        # Example usage:
-        input_path = f"{i}"
-        output_path = f'./tr/{i}'
 
-        # Replace backslashes with forward slashes
-        input_path = input_path.replace('\\', '/')
+        # 獲取當前目錄下所有文件
+        all_files = os.listdir(folder_path)
+        # 排序
+        # 如果文件名包含'_'和'.'，則按照'_'前的數字和'.'前的數字進行排序
+        # 否則，將文件名視為0
+        # 有資料夾會報錯 用這樣解決
+        all_files = sorted(all_files, key=lambda x: (int(x.split('_')[0]), int(x.split('_')[1].split('.')[0])) if '_' in x and '.' in x.split('_')[1] else (0, 0))
 
-        convert_simplified_to_traditional(input_path, output_path)
+        for i in all_files:
+            # if i.endswith('.txt'):
+            #     input_path = i
+            #     output_path = i.replace('.txt', '_t.txt')
+            #     convert_simplified_to_traditional(input_path, output_path)
 
-    end_time = time.time()  # End time
+            # Example usage:
+            input_path = f"{i}"
+            # output_path = f'./tr/{i}'
+            output_path = f"D:\\NTCUST\\Project\\Competition\\AI_CUP\\AI_CUP_2024\\done\\txt\\{i}"
+
+            # Replace backslashes with forward slashes
+            input_path = input_path.replace('\\', '/')
+
+            convert_simplified_to_traditional(input_path, output_path)
+
+    end_time = time.time()
     execution_time = end_time - start_time
     print(f"Done! Execution time: {execution_time} seconds")
     time.sleep(180)
